@@ -58,6 +58,11 @@
 ![Small Type Writing](images/small-type-writing.png)
 
 
+### [String Literal](fonts/string-literal)
+
+![String Literal](images/string-literal.png)
+
+
 ### [White Rabbit](fonts/white-rabbit) 
 
 ![Monofur](images/white-rabbit.png) 
