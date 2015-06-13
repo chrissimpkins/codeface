@@ -16,4 +16,8 @@
 
 ## [Monofur](fonts/monofur) 
 
-![Monofur](images/monofur.png) 
+![Monofur](images/monofur.png)
+
+## [White Rabbit](fonts/white-rabbit) 
+
+![Monofur](images/white-rabbit.png) 
