@@ -77,6 +77,11 @@
 ![Not Courier Sans](images/not-courier-sans.png)
 
 
+### [PT Mono](fonts/pt-mono)
+
+![PT Mono](images/pt-mono.png)
+
+
 ### [Selectric](fonts/selectric)
 
 ![Selectric](images/selectric.png)
