@@ -2,6 +2,10 @@
 
 # Typefaces for source code beautification
 
+### [Anonymous Pro](fonts/anonymous-pro)
+
+![Anonymous Pro](images/anonymous-pro.png)
+
 
 ### [Aurulent Sans Mono](fonts/aurulent-sans-mono)
 
@@ -43,6 +47,11 @@
 ![Monospace Typewriter](images/monospace-typewriter.png)
 
 
+### [Mono Spatial](fonts/mono-spatial)
+
+![Mono Spatial](images/mono-spatial.png)
+
+
 ### [Selectric](fonts/selectric)
 
 ![Selectric](images/selectric.png)
@@ -61,6 +70,11 @@
 ### [String Literal](fonts/string-literal)
 
 ![String Literal](images/string-literal.png)
+
+
+### [SV Basic Manual](fonts/sv-basic-manual)
+
+![SV Basic Manual](images/sv-basic-manual.png)
 
 
 ### [White Rabbit](fonts/white-rabbit) 
