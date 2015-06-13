@@ -32,6 +32,11 @@
 ![Dejavu Sans Mono](images/dejavu-sans-mono.png)
 
 
+### [Droid Sans Mono](fonts/droid-sans-mono)
+
+![Droid Sans Mono](images/droid-sans-mono.png)
+
+
 ### [Elronet Monospace](fonts/elronet-monospace)
 
 ![Elronet Monospace](images/elronet-monospace.png)
