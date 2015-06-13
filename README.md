@@ -18,6 +18,10 @@
 
 ![Monofur](images/monofur.png)
 
+## [Small Type Writing](fonts/small-type-writing)
+
+![Small Type Writing](images/small-type-writing.png)
+
 ## [White Rabbit](fonts/white-rabbit) 
 
 ![Monofur](images/white-rabbit.png) 
