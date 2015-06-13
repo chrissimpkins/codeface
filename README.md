@@ -19,6 +19,11 @@
 ![Elronet Monospace](images/elronet-monospace.png)
 
 
+### [Liberation Mono](fonts/liberation-mono)
+
+![Liberation Mono](images/liberation-mono.png)
+
+
 ### [Monofur](fonts/monofur) 
 
 ![Monofur](images/monofur.png)
