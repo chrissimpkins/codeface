@@ -27,6 +27,11 @@
 ![Cousine](images/cousine.png)
 
 
+### [Dejavu Sans Mono](fonts/dejavu-sans-mono)
+
+![Dejavu Sans Mono](images/dejavu-sans-mono.png)
+
+
 ### [Elronet Monospace](fonts/elronet-monospace)
 
 ![Elronet Monospace](images/elronet-monospace.png)
