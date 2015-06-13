@@ -1,0 +1,3 @@
+NotCourier was designed by OSP (Ludivine Loiseau), in July 2008. It is based on Nimbus Mono, copyright (URW)++,Copyright 1999 by (URW)++ Design & Development; Cyrillic glyphs added by Valek Filippov (C) 2001-2005
+
+This Font Software is an open font and is released under the GPL v2 with font exception; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.

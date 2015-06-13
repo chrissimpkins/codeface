@@ -72,6 +72,11 @@
 ![Mono Spatial](images/mono-spatial.png)
 
 
+### [Not Courier Sans](fonts/not-courier-sans)
+
+![Not Courier Sans](images/not-courier-sans.png)
+
+
 ### [Selectric](fonts/selectric)
 
 ![Selectric](images/selectric.png)
