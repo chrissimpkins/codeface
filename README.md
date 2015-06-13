@@ -22,6 +22,11 @@
 ![Code New Roman](images/code-new-roman.png)
 
 
+### [Cousine](fonts/cousine)
+
+![Cousine](images/cousine.png)
+
+
 ### [Elronet Monospace](fonts/elronet-monospace)
 
 ![Elronet Monospace](images/elronet-monospace.png)
