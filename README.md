@@ -3,6 +3,10 @@
 # Typefaces for source code beautification
 
 
+### [Aurulent Sans Mono]()
+
+![Aurulent Sans Mono](images/aurulent-sans-mono.png)
+
 
 ### [Bitstream Vera Sans Mono](fonts/bitstream-vera-sans-mono)
 
