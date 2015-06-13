@@ -34,6 +34,11 @@
 ![Monospace Typewriter](images/monospace-typewriter.png)
 
 
+### [Selectric](fonts/selectric)
+
+![Selectric](images/selectric.png)
+
+
 ### [Small Type Writing](fonts/small-type-writing)
 
 ![Small Type Writing](images/small-type-writing.png)
