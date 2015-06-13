@@ -18,9 +18,16 @@
 
 ![Monofur](images/monofur.png)
 
+
+## [Monospace Typewriter](fonts/monospace-typewriter)
+
+![Monospace Typewriter](images/monospace-typewriter.png)
+
+
 ## [Small Type Writing](fonts/small-type-writing)
 
 ![Small Type Writing](images/small-type-writing.png)
+
 
 ## [White Rabbit](fonts/white-rabbit) 
 
