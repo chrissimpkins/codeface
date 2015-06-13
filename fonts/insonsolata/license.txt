@@ -1,0 +1,1 @@
+Copyright 2006 Raph Levien. Released under the SIL Open Font License, http://scripts.sil.org/OFL.

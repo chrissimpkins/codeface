@@ -42,6 +42,11 @@
 ![Elronet Monospace](images/elronet-monospace.png)
 
 
+### [Inconsolata](fonts/inconsolata)
+
+![Inconsolata](images/inconsolata.png)
+
+
 ### [Liberation Mono](fonts/liberation-mono)
 
 ![Liberation Mono](images/liberation-mono.png)
