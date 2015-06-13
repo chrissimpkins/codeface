@@ -1,6 +1,6 @@
 ![Bitstream Vera Sans Mono](images/codeface-header.png)
 
-# Typefaces for source code
+# Typefaces for source code beautification
 
 
 
@@ -37,6 +37,11 @@
 ### [Selectric](fonts/selectric)
 
 ![Selectric](images/selectric.png)
+
+
+### [Share Tech Mono](fonts/share-tech-mono)
+
+![Share Tech Mono](images/share-tech-mono.png)
 
 
 ### [Small Type Writing](fonts/small-type-writing)
