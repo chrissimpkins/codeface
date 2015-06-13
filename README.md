@@ -29,6 +29,11 @@
 ![Monofur](images/monofur.png)
 
 
+### [Mono MMM 5]()
+
+![Mono MMM 5](images/mono-mmm-5.png)
+
+
 ### [Monospace Typewriter](fonts/monospace-typewriter)
 
 ![Monospace Typewriter](images/monospace-typewriter.png)
