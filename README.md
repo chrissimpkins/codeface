@@ -3,7 +3,7 @@
 # Typefaces for source code beautification
 
 
-### [Aurulent Sans Mono]()
+### [Aurulent Sans Mono](fonts/aurulent-sans-mono)
 
 ![Aurulent Sans Mono](images/aurulent-sans-mono.png)
 
