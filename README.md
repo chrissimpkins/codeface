@@ -57,6 +57,11 @@
 ![Fira Mono](images/fira-mono.png)
 
 
+### [Free Mono](fonts/free-mono)
+
+![Free Mono](images/free-mono.png)
+
+
 ### [Inconsolata](fonts/inconsolata)
 
 ![Inconsolata](images/inconsolata.png)
