@@ -47,6 +47,11 @@
 ![Elronet Monospace](images/elronet-monospace.png)
 
 
+### [Fira Mono](fonts/fira-mono)
+
+![Fira Mono](images/fira-mono.png)
+
+
 ### [Inconsolata](fonts/inconsolata)
 
 ![Inconsolata](images/inconsolata.png)
