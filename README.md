@@ -27,6 +27,11 @@
 ![Code New Roman](images/code-new-roman.png)
 
 
+### [Consola Mono](fonts/consola-mono)
+
+![Consola Mono](images/consola-mono.png)
+
+
 ### [Cousine](fonts/cousine)
 
 ![Cousine](images/cousine.png)
