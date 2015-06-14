@@ -1,6 +1,6 @@
 ![Bitstream Vera Sans Mono](images/codeface-header.png)
 
-# Typefaces for source code beautification
+![Typefaces for source code beautification](images/tagline.gif)
 
 ### [Anonymous Pro](fonts/anonymous-pro)
 
