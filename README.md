@@ -67,6 +67,16 @@
 ![Lekton](images/lekton.png)
 
 
+### [Luxi Mono](fonts/luxi-mono)
+
+![Lekton](images/luxi-mono.png)
+
+
+### [M+ 1m](fonts/mplus1m)
+
+![M+ 1m](images/mplus1m.png)
+
+
 ### [Monofur](fonts/monofur) 
 
 ![Monofur](images/monofur.png)
