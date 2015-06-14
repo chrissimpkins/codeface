@@ -132,6 +132,11 @@
 ![Small Type Writing](images/small-type-writing.png)
 
 
+### [Source Code Pro](fonts/source-code-pro)
+
+![Source Code Pro](images/source-code-pro.png)
+
+
 ### [String Literal](fonts/string-literal)
 
 ![String Literal](images/string-literal.png)
