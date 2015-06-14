@@ -13,3 +13,9 @@ The following typefaces are free to use; however, they do not permit redistribut
 ### [Monofonto](http://www.fontspring.com/fonts/typodermic/monofonto)
 
 ![Monofonto](images/monofonto.png)
+
+
+
+### [Monoxil Regular](http://www.fontspring.com/fonts/urtd/monoxil)
+
+![Monoxil Regular](images/monoxil-regular.png)
