@@ -32,6 +32,11 @@
 ![Cousine](images/cousine.png)
 
 
+### [Cutive Mono](fonts/cutive-mono)
+
+![Cutive Mono](images/cutive-mono.png)
+
+
 ### [Dejavu Sans Mono](fonts/dejavu-sans-mono)
 
 ![Dejavu Sans Mono](images/dejavu-sans-mono.png)
