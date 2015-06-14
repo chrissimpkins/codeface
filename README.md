@@ -92,6 +92,11 @@
 ![M+ 1m](images/mplus1m.png)
 
 
+### [M+ 2m](fonts/mplus2m)
+
+![M+ 2m](images/mplus2m.png)
+
+
 ### [Monofur](fonts/monofur)
 
 ![Monofur](images/monofur.png)
