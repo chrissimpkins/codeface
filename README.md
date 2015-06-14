@@ -92,6 +92,11 @@
 ![Mono MMM 5](images/mono-mmm-5.png)
 
 
+### [Monospace](fonts/monospace)
+
+![Monospace](images/monospace.png)
+
+
 ### [Monospace Typewriter](fonts/monospace-typewriter)
 
 ![Monospace Typewriter](images/monospace-typewriter.png)
