@@ -1,4 +1,4 @@
-![Bitstream Vera Sans Mono](images/codeface-header.png)
+![Codeface](images/codeface-header.png)
 
 ![Typefaces for source code beautification](images/tagline.gif)
 
@@ -77,7 +77,7 @@
 ![M+ 1m](images/mplus1m.png)
 
 
-### [Monofur](fonts/monofur) 
+### [Monofur](fonts/monofur)
 
 ![Monofur](images/monofur.png)
 
@@ -157,6 +157,6 @@
 ![Ubuntu Mono](images/ubuntu-mono.png)
 
 
-### [White Rabbit](fonts/white-rabbit) 
+### [White Rabbit](fonts/white-rabbit)
 
-![Monofur](images/white-rabbit.png) 
+![Monofur](images/white-rabbit.png)
