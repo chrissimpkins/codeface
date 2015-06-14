@@ -62,6 +62,11 @@
 ![Liberation Mono](images/liberation-mono.png)
 
 
+### [Lekton](fonts/lekton)
+
+![Lekton](images/lekton.png)
+
+
 ### [Monofur](fonts/monofur) 
 
 ![Monofur](images/monofur.png)
