@@ -127,11 +127,6 @@
 ![Small Type Writing](images/small-type-writing.png)
 
 
-### [Source Sans Pro](fonts/source-sans-pro)
-
-![Source Sans Pro](images/source-sans-pro.png)
-
-
 ### [String Literal](fonts/string-literal)
 
 ![String Literal](images/string-literal.png)
