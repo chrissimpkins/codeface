@@ -117,6 +117,11 @@
 ![Oxygen Mono](images/oxygen-mono.png)
 
 
+### [ProFontWindows](fonts/pro-font-windows)
+
+![Pro Font Windows](images/pro-font-windows.png)
+
+
 ### [PT Mono](fonts/pt-mono)
 
 ![PT Mono](images/pt-mono.png)

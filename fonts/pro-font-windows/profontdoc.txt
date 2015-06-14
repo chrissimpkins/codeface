@@ -1,0 +1,176 @@
+##########################################################################
+#                           IMPORTANT NOTE                               #
+#                                                                        #
+#  This is the readme file of the ProFont distribution for               #
+#  Apple Macintosh. I've added it because it felt wrong to distribute    #
+#  a Windows version of ProFont without the words of the original        #
+#  authors.                                                              #
+#  !! Please note that some of the information provided below is         #
+#  NOT valid for ProFont/Windows !! Just figure it out ...  ;-)          #
+#  The Windows version was created using the files from the              #
+#  “ProFontWindows 2.2 ƒ” folder mentioned below.                        #
+#                                                                        #
+#  Comparing Mac + Win version, you'll see that all font sizes are       #
+#  off by 1. This means that Win 8pt version displays like Mac 9pt       #
+#  version.                                                              #
+#                                                                        #
+#  For questions about the windows version of ProFont, contact:          #
+#  mail@tobias-jung.de  (please write in english or german language)     #
+#  Tobias Jung, August 2002                                              #
+##########################################################################
+#  Version 2                                                             #
+#  This version hopefully fixes the problem that some text editors       #
+#  (VIM, MultiEdit) wouldn't recognize ProFont as a monospaced font.     #
+##########################################################################
+
+
+ProFont Distribution 2.2
+21 July 1997
+SQ Software
+ 
+
+
+
+
+
+
+•  What is ProFont?
+
+    ProFont began life as a better version of “Monaco 9” which is especially good for programmers.  It was created circa 1987 by Andrew Welch.
+
+    In version 1.1 of the ProFont distribution, ProFont ceased being just a 9 point bitmap font.  Carl Osterwald contributed bitmaps at several larger sizes and an outline version of ProFont in both TrueType and Adobe Type 1 (ATM) formats.
+
+    In version 1.2 of the ProFont distribution, Carl extended ProFont to include the entire Macintosh character set including accented characters with ASCII codes from 0x80 to 0xFF.
+
+    In version 2.0 of the ProFont distribution, Carl provided an ISOLatin1 encoded version of ProFont.  The shapes of several of the characters have been modified for improved readability, and a 7 pt bitmap version of ProFont is included.
+
+    In version 2.2 of the ProFont distribution, Carl produced a version of ProFont that uses the Windows character set.  Once again the shapes of several of the characters have been modified for improved readability--especially when the fonts are anti-aliased.
+
+•  What is the ProFont Distribution?
+
+    ProFont was originally released as shareware by Andrew Welch.  At that time, it was distributed inside an installer application which could replace Apple’s Monaco 9 with ProFont 9.  This made using ProFont as a substitute for Monaco 9 very easy.  When the Mac II and SE came out, the magic used by the original installer became ineffective.  Over the years I (Steve Gilardi) have figured out how to install ProFont 9 in place of Monaco 9 through the various releases of the System Software.  After a time I asked Andrew for permission to distribute ProFont along with my instructions and he agreed and also decided to change ProFont’s status from shareware to freeware.
+
+    The methods for accomplishing the substitution for Monaco 9 have gone through significant changes over the years as the Macintosh font architecture has evolved.  The various releases of what has become the “ProFont Distribution” have been my effort to share my knowledge of how to use ProFont as a replacement for Monaco 9.
+
+    Since Carl Osterwald became involved with the project, ProFont has blossomed into a full-fledged font in its own right and most recently into a suite of related fonts.  ProFont is unusual among fonts in that the outline version was designed to closely follow the original 9 pt bitmap version.  More often, fonts are conceived as outlines and then rendered at the various point sizes.
+
+    Earlier versions of the ProFont Distribution have included very involved instructions and utility programs to allow installation of ProFont as a replacement for Monaco 9.  Release 2.2 contains none of those instructions.  Instead, I have developed a control panel called “Monaco Tuner” which allows you to substitute a font of your choosing for Monaco.  The substitution can be just for Monaco 9 or for all sizes of Monaco.  Of course, I think the best substitute font to use is ProFont!  See the information in the “Monaco Tuner 1.1.1 ƒ” folder for details.
+
+•  What does ProFont 2.2 look like?
+
+Here’s a sample:
+[ see "provsmonaco.gif" and "profomac.gif" ]
+
+
+Also, each font folder in the ProFont distribution contains a file showing the font’s character set at 9 and 18 point sizes.  You don’t need to install the corresponding font to see the character set.
+
+•  What is included in this distribution?
+
+The distribution includes 7 items:
+
++ “About ProFont Distribution 2.2” SimpleText document
+     This is the file you are reading now.
+
++ “ProFont Quick Start” SimpleText document
+     Quick instructions for installing ProFont and Monaco Tuner.
+
++ “ProFont 2.2 ƒ” folder
+     Version 2.2 of the “ProFont” font.  This includes both TrueType and ATM versions of ProFont.
+
++ “ProFontISOLatin1 2.2 ƒ” folder
+     Version 2.2 of the “ProFontISOLatin1” font.  TrueType and ATM versions of ProFontISOLatin1 are included.
+
++ “ProFontClassic 1.2 ƒ” folder
+     ProFontClassic 1.2 is the 9 pt size of ProFont from the 1.2 release of the ProFont distribution.  It’s included mainly for those who prefer the look of ProFont 1.2 to that of ProFont 2.2 and who are only interested in substituting ProFontClassic for Monaco 9 using Monaco Tuner.
+
++ “ProFontWindows 2.2 ƒ” folder
+     Version 2.2 of the “ProFontWindows” font.  This is the first release of this font, but it is version 2.2 to keep its version number in sync with that of the “ProFont” font.  TrueType and ATM versions of ProFontWindows are included.  This font can be useful for viewing files that originate on Windows machines.
+
++ “Monaco Tuner 1.1.1 ƒ” folder
+     “Monaco Tuner” is a control panel which replaces the complicated instructions for installing “ProFont(Monaco)” included in previous releases.  It lets you pick a font (such as ProFont) to be substituted for Monaco in all applications.  See the file “About Monaco Tuner” inside this folder for details.
+
+•  What kind of Macintosh and System Software do I need to use ProFont?
+
+     The family of ProFont fonts are standard Macintosh fonts and should work on any Macintosh (or compatible) running any version of System 7 or Mac OS 8.  The fonts may be compatible with System 6.0.8, but that has not been tested.  Monaco Tuner requires System 7 or better and has been  tested on several machines including a PowerBook 100 running System 7.0.1 and a PowerMac 8100/100 running System 7.5.3 and Mac OS 8 with and without QuickDraw GX.
+
+•  What happens if I have problems with ProFont Distribution?
+
+     “ProFont Distribution” is provided in the hope that it will be useful.  However, it is provided AS IS and carries NO WARRANTY that it will do anything good and NO WARRANTY that it will not do anything bad.  Your use of the fonts and software that make up “ProFont Distribution” is ENTIRELY AT YOUR OWN RISK.  SQ Software, Stephen C. Gilardi, Carl R. Osterwald and Tobias Jung hereby disclaim any and all liability for any difficulty you may have as a result of using any part of “ProFont Distribution”.  If these terms are not acceptable to you, then you must not use any part of “ProFont Distribution”.
+
+That being said, if you do have any difficulties or any suggestions, I’ll be very appreciative if you let me know about them so I can attempt to improve future releases of ProFont Distribution.
+
+•  How do I install the various versions of ProFont?
+
+     The various versions of ProFont included in this release are standard Macintosh fonts.  You install them into any version of System 7 or Mac OS 8 by dragging the font suitcase containing the font you want to install onto the System Folder icon on your startup disk.
+
+     “ProFont 2.2”, “ProFontISOLatin1 2.2”, and “ProFontWindows 2.2” also include ATM versions.  Since the System Software prefers TrueType fonts to ATM fonts, special suitcases are included in the distribution which do not contain the TrueType outline version of the font.  These suitcases and the corresponding PostScript font files are inside a folder called “ATM Version” within each font’s folder.  To install the ATM version of one of these fonts, drag the two files contained in its “ATM Version” folder onto the System Folder icon on your startup disk.
+
+Note: During testing it was discovered that some internal tables in “ProFontISOLatin1” suitcase can be damaged if you use the Finder to remove the TrueType version by dragging it out of the suitcase.  Fortunately, you don’t need to do that because ProFont Distribution includes the suitcase called “ProFontISOLatin1 Bitmaps” which is does not contain the TrueType version.  As the instructions above indicate, please use the “ProFontISOLatin1 Bitmaps” suitcase if you want to use ProFontISOLatin1 with ATM.
+
+•  Can I redistribute ProFont Distribution?
+
+“ProFont Distribution” is Copyright © 1997, SQ Software.  The ProFont fonts are Copyright © 1997, Carl R. Osterwald.  It is our intention that “ProFont Distribution” get the widest possible distribution.  You may redistribute unmodified copies of “ProFont Distriubtion” as long as it is accompanied by an unmodified copy of “About ProFont Distribution 2.2” (this file).  You may not charge anyone money for the “ProFont Distribution” package itself.  The “ProFont Distribution” package can be distributed for free along with products for which you do charge money.  The “ProFont Distribution” package can also be distributed for free as part of collections of more than 10 third party products sold as a collection (such as on the Apprentice CD series).  If you do distribute “ProFont Distribution” along with another product or as part of a collection, Stephen C. Gilardi and Carl R. Osterwald would appreciate very much each receiving a complimentary copy of the whole distribution (e.g., any CD-ROM it appears on), but this is not a requirement.  If you have questions about redistribution, please contact Stephen C. Gilardi at squeegee@usa.net.
+
+• Who is responsible for ProFont?
+
++ Andrew Welch
+     The original “ProFont” was created by Andrew Welch.  It was originally shareware.  Andrew generously gave his permission for it to be distributed freely:  “let’s make it free though [...] just credit me for making the font in the first place, and you’re good to go!”  Andrew’s ProFont 9 font is no longer distributed in the ProFont Distribution, but the fonts included in ProFont Distribution 2.2 are based on it.
+
+  Thanks Andrew!
+
++ Carl Osterwald
+     The fonts included in ProFont Distribution 2.2 were created by Carl Osterwald.  Carl created the outline versions of ProFont and implemented the Macintosh Extended ASCII Character Set for all versions of ProFont.  Most recently Carl created the ProFontWindows font and did the modifications of the character shapes for ProFont 2.2.  Please send praise, comments, etc., about the fonts in “ProFont Distribution 2.2” to him.
+
+	Thanks Carl!
+
+	Carl can be reached at “carl_osterwald@usa.net”.
+
++ Steve Gilardi
+     I am the author of the “modern” (post Mac II/Mac SE era) ProFont distributions.  I have gotten ProFont to work with successive System releases for my personal use, and have shared the methods with other folks from time to time through these distributions.  Most recently I developed the “Monaco Tuner” control panel to ease the use of ProFont as a replacement for Monaco 9.  Please send comments, suggestions, and questions about Monaco Tuner, ProFont in general, or the ProFont Distribution as a whole to me.
+
+  I can be reached at “squeegee@usa.net”.
+
+Enjoy ProFont!
+
+--Steve
+
+Stephen C. Gilardi
+SQ Software
+21 July 1997
+
+•	Version History:
+
+		Version 2.2:
+				+	ProFont 2.2 and ProFontISOLatin1 2.2 include modifications to several characters
+       for improved readability especially when anti-aliased.
+				+	Several small bugs fixed in the fonts.
+				+	Improved QuickDraw GX compatibility
+				+	ProFontWindows 2.2 introduced.
+				+	Monaco Tuner version bumped to 1.1.1 for minor documentation updates.
+
+		Version 2.1:
+				+	Monaco Tuner 1.1 adds “Resizing of Monaco 9” and works around a bug which
+       affected desk accessories on Power Macs.
+
+		Version 2.0:
+				+	ProFont 2.0 includes modifications to several characters
+				+	ProFont 2.0 includes a 7 pt bitmap version
+				+	ProFontISOLatin1 2.0 released in response to requests from international users
+				+	Monaco Tuner 1.0 replaces far-too-complicated “ProFont(Monaco)” installation
+       instructions
+				+	ProFontClassic 1.2 is the 9 pt size of ProFont from the version 1.2 release
+
+		Version 1.2:
+				+	Both versions of ProFont now implement the full Macintosh Extended ASCII
+       character set.
+
+		Version 1.1.1:
+				+	“ProFont Info” (this file) now actually prints on LaserWriters. Sorry!
+				+	Added item labeled “What about Monaco 12?”
+				+	Minor editing of “ProFont Info”
+
+		Version 1.1:
+				+	“ProFont (ProFont)” now includes TrueType and Type 1 Outline Fonts!
+				+	Includes instructions for installation under System 7.5.1.
+				+	I think ProFont needs an installer.  If you agree, please read the bullet item labeled
+       “Aren’t those instructions a little bit too complicated?”.
