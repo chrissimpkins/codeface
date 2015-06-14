@@ -23,3 +23,7 @@ Fonts displayed in the [nondistrib gallery](NONDISTRIB.md) are free for desktop 
 ## Font Licensing
 
 I have made every effort to identify and include all licenses associated with the fonts that are distributed in this repository.  If you are the developer or copyright holder of any font and feel that it has an inappropriate license associated with it, please let me know and I will rectify this immediately.
+
+## Gallery Images
+
+Gallery images were generated with code in the Sublime Text 3 editor using a font size of 14 and the `subpixel_antialias` font_options setting.
