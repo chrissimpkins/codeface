@@ -147,6 +147,16 @@
 ![SV Basic Manual](images/sv-basic-manual.png)
 
 
+### [TeX Gyre Cursor](fonts/tex-gyre-cursor)
+
+![TeX Gyre Cursor](images/tex-gyre-cursor.png)
+
+
+### [Ubuntu Mono](fonts/ubuntu-mono)
+
+![Ubuntu Mono](images/ubuntu-mono.png)
+
+
 ### [White Rabbit](fonts/white-rabbit) 
 
 ![Monofur](images/white-rabbit.png) 
