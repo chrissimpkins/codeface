@@ -142,6 +142,11 @@
 ![Proggy Clean](images/proggy-clean.png)
 
 
+### [Proggy Square](fonts/proggy-square)
+
+![Proggy Square](images/proggy-square.png)
+
+
 ### [PT Mono](fonts/pt-mono)
 
 ![PT Mono](images/pt-mono.png)
