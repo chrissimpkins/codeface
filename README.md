@@ -142,6 +142,11 @@
 ![Proggy Clean](images/proggy-clean.png)
 
 
+### [Proggy Small](fonts/proggy-small)
+
+![Proggy Small](images/proggy-small.png)
+
+
 ### [Proggy Square](fonts/proggy-square)
 
 ![Proggy Square](images/proggy-square.png)
