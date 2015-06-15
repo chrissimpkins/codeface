@@ -137,6 +137,11 @@
 ![Pro Font Windows](images/pro-font-windows.png)
 
 
+### [Proggy Clean](fonts/proggy-clean)
+
+![Proggy Clean](images/proggy-clean.png)
+
+
 ### [PT Mono](fonts/pt-mono)
 
 ![PT Mono](images/pt-mono.png)
