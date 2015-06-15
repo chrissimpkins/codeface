@@ -222,6 +222,11 @@
 ![Ubuntu Mono](images/ubuntu-mono.png)
 
 
+### [Verily Serif Mono](fonts/verily-serif-mono)
+
+![Verily Serif Mono](images/verily-serif-mono.png)
+
+
 ### [White Rabbit](fonts/white-rabbit)
 
 ![Monofur](images/white-rabbit.png)
