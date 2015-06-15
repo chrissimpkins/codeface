@@ -42,6 +42,11 @@
 ![Cousine](images/cousine.png)
 
 
+### [Crisp](fonts/crisp)
+
+![Crisp](images/crisp.png)
+
+
 ### [Cutive Mono](fonts/cutive-mono)
 
 ![Cutive Mono](images/cutive-mono.png)
