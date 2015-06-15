@@ -207,6 +207,11 @@
 ![SV Basic Manual](images/sv-basic-manual.png)
 
 
+### [Terminus](fonts/terminus)
+
+![Terminus](images/terminus.png)
+
+
 ### [TeX Gyre Cursor](fonts/tex-gyre-cursor)
 
 ![TeX Gyre Cursor](images/tex-gyre-cursor.png)

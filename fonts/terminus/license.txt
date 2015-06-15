@@ -1,0 +1,1 @@
+Copyright [C] 2004 Dimitar Zhekov; compiled by Eric Cheng under the terms of the GNU General Public License version 2.0
