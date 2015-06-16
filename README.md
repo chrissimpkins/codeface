@@ -2,6 +2,23 @@
 
 ![Typefaces for source code beautification](images/tagline.gif)
 
+
+## Contents
+
+[About](ABOUT.md)
+
+[Main Font Gallery](#the-gallery)
+
+[Free, Non-Distrib EULA Font Gallery](NONDISTRIB.md)
+
+[Contribute to the Project](CONTRIBUTING.md)
+
+[Contributor List](CONTRIBUTORS.md)
+
+
+## The Gallery
+
+
 ### [Anonymous Pro](fonts/anonymous-pro)
 
 ![Anonymous Pro](images/anonymous-pro-TP.png)
