@@ -5,15 +5,11 @@
 
 ## Contents
 
-[About](ABOUT.md)
-
-[Main Font Gallery](#the-gallery)
-
-[Free, Non-Distrib EULA Font Gallery](NONDISTRIB.md)
-
-[Contribute to the Project](CONTRIBUTING.md)
-
-[Contributor List](CONTRIBUTORS.md)
+* [About](ABOUT.md)
+* [Main Font Gallery](#the-gallery)
+* [Free, Non-Distrib EULA Font Gallery](NONDISTRIB.md)
+* [Contribute to the Project](CONTRIBUTING.md)
+* [Contributor List](CONTRIBUTORS.md)
 
 
 ## The Gallery
