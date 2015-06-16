@@ -89,6 +89,12 @@
 ![Dejavu Sans Mono](images/dejavu-sans-mono.png)
 
 
+### [Dina](fonts/dina)
+
+![Dina](images/dina-TP.png)
+![Dina](images/dina.png)
+
+
 ### [Droid Sans Mono](fonts/droid-sans-mono)
 
 ![Droid Sans Mono](images/droid-sans-mono-TP.png)

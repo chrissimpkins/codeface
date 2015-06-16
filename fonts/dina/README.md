@@ -1,0 +1,1 @@
+Gallery image was rendered at 16pt in Sublime Text (OS X) without antialiasing
