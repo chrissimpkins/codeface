@@ -29,7 +29,7 @@
 
 ### [Coding Font Tobi](fonts/coding-font-tobi)
 
-![Coding Font Tobi](images/coding-font-tobi.png)
+![Coding Font Tobi](images/coding-font-tobi-noaa.png)
 
 
 ### [Consola Mono](fonts/consola-mono)
