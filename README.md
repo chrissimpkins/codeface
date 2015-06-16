@@ -13,9 +13,9 @@
 
 ## Fun Little Rant About Font Customization
 
-> "Stop wasting your braintime on meaningless stuff like this and get back to coding. If you replace 'font' with some cosmetic product y'all sound like a bunch of valley girls."
->
-> > -- <cite><a href="https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu"></a>Some Guy on Reddit</a></cite>
+<blockquote>"Stop wasting your braintime on meaningless stuff like this and get back to coding. If you replace 'font' with some cosmetic product y'all sound like a bunch of valley girls."
+
+-- <cite><a href="https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu"></a>Some Guy on Reddit</a></cite></blockquote>
 
 
 ## The Gallery
