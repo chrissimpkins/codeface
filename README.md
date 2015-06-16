@@ -22,11 +22,13 @@
 
 ### [BP Mono](fonts/bp-mono)
 
+![BP Mono](images/bp-mono-TP.png)
 ![BP Mono](images/bp-mono.png)
 
 
 ### [Code New Roman](fonts/code-new-roman)
 
+![Code New Roman](images/code-new-roman-TP.png)
 ![Code New Roman](images/code-new-roman.png)
 
 
