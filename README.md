@@ -162,6 +162,11 @@
 ![Oxygen Mono](images/oxygen-mono.png)
 
 
+### [Panic Sans Mono](fonts/panic-sans-mono)
+
+![Panic Sans Mono](images/panic-sans-mono.png)
+
+
 ### [PixelCarnage Mono](fonts/pixel-carnage)
 
 ![PixelCarnage Mono](images/pixel-carnage.png)
