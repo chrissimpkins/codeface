@@ -169,7 +169,7 @@
 
 ### [PixelCarnage Mono](fonts/pixel-carnage)
 
-![PixelCarnage Mono](images/pixel-carnage.png)
+![PixelCarnage Mono](images/pixel-carnage-noaa.png)
 
 
 ### [ProFontWindows](fonts/pro-font-windows)

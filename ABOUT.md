@@ -26,4 +26,4 @@ I have made every effort to identify and include all licenses associated with th
 
 ## Gallery Image Settings
 
-Gallery images were generated with code in the Sublime Text 3 editor (OS X version) using a font size of 14 and the `subpixel_antialias` font_options setting.
+Gallery images were generated with code in the Sublime Text 3 editor (OS X version) using a font size of 14 and the `subpixel_antialias` font_options setting.  Bitmap fonts were generated without the `subpixel_antialias` setting at font specific recommended sizes.
