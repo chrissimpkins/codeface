@@ -1,1 +1,1 @@
-Choose between alternates and afjust line-height + letter-spacing on [larsenwork.com/monoind](http://larsenwork.com/monoid/)
+Choose between alternates and adjust line-height + letter-spacing on [larsenwork.com/monoind](http://larsenwork.com/monoid/)
