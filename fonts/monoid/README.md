@@ -1,3 +1,1 @@
-Please see documentation at http://larsenwork.com/monoid/ where you can find additional information about customization of this font.
-
-The Github repository for this font is at https://github.com/larsenwork/monoid
+Choose between alternates and afjust line-height + letter-spacing on [larsenwork.com/monoind](http://larsenwork.com/monoid/)
