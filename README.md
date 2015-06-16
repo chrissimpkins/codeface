@@ -117,6 +117,11 @@
 ![Monofur](images/monofur.png)
 
 
+### [Monoid](fonts/monoid)
+
+![Monoid](images/monoid.png)
+
+
 ### [monoOne](fonts/mono-one)
 
 ![monoOne](images/mono-one.png)
