@@ -189,7 +189,7 @@
 
 ### [Proggy Square](fonts/proggy-square)
 
-![Proggy Square](images/proggy-square.png)
+![Proggy Square](images/proggy-square-noaa.png)
 
 
 ### [PT Mono](fonts/pt-mono)
