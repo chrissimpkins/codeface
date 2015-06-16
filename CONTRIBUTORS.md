@@ -1,6 +1,7 @@
 ## Codeface Contributors
 
 * Chris Simpkins ([@chrissimpkins](https://github.com/chrissimpkins)) - Apex
+* Matt Brzezinski ([@mattBrzezinski](https://github.com/mattBrzezinski)) - WYSIWYG
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
 * Caleb Xu ([@alebcay](https://github.com/alebcay)) - The Ascender
