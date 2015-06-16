@@ -184,7 +184,7 @@
 
 ### [Proggy Small](fonts/proggy-small)
 
-![Proggy Small](images/proggy-small.png)
+![Proggy Small](images/proggy-small-noaa.png)
 
 
 ### [Proggy Square](fonts/proggy-square)
