@@ -192,6 +192,11 @@
 ![Proggy Square](images/proggy-square-noaa.png)
 
 
+### [Proggy Tiny](fonts/proggy-tiny)
+
+![Proggy Tiny](images/proggy-tiny-noaa.png)
+
+
 ### [PT Mono](fonts/pt-mono)
 
 ![PT Mono](images/pt-mono.png)
