@@ -34,6 +34,7 @@
 
 ### [Coding Font Tobi](fonts/coding-font-tobi)
 
+![Coding Font Tobi](images/coding-font-tobi-noaa-TP.png)
 ![Coding Font Tobi](images/coding-font-tobi-noaa.png)
 
 
@@ -51,6 +52,7 @@
 
 ### [Crisp](fonts/crisp)
 
+![Crisp](images/crisp-TP.png)
 ![Crisp](images/crisp.png)
 
 
@@ -200,6 +202,7 @@
 
 ### [PixelCarnage Mono](fonts/pixel-carnage)
 
+![PixelCarnage Mono](images/pixel-carnage-noaa-TP.png)
 ![PixelCarnage Mono](images/pixel-carnage-noaa.png)
 
 
@@ -211,21 +214,25 @@
 
 ### [Proggy Clean](fonts/proggy-clean)
 
+![Proggy Clean](images/proggy-clean-noaa-TP.png)
 ![Proggy Clean](images/proggy-clean-noaa.png)
 
 
 ### [Proggy Small](fonts/proggy-small)
 
+![Proggy Small](images/proggy-small-noaa-TP.png)
 ![Proggy Small](images/proggy-small-noaa.png)
 
 
 ### [Proggy Square](fonts/proggy-square)
 
+![Proggy Square](images/proggy-square-noaa-TP.png)
 ![Proggy Square](images/proggy-square-noaa.png)
 
 
 ### [Proggy Tiny](fonts/proggy-tiny)
 
+![Proggy Tiny](images/proggy-tiny-noaa-TP.png)
 ![Proggy Tiny](images/proggy-tiny-noaa.png)
 
 
