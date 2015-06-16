@@ -87,6 +87,11 @@
 ![Inconsolata](images/inconsolata.png)
 
 
+### [Inconsolata-g](fonts/inconsolata-g)
+
+![Inconsolata-g](images/inconsolata-g.png)
+
+
 ### [Liberation Mono](fonts/liberation-mono)
 
 ![Liberation Mono](images/liberation-mono.png)
