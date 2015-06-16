@@ -179,7 +179,7 @@
 
 ### [Proggy Clean](fonts/proggy-clean)
 
-![Proggy Clean](images/proggy-clean.png)
+![Proggy Clean](images/proggy-clean-noaa.png)
 
 
 ### [Proggy Small](fonts/proggy-small)
