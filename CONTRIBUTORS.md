@@ -4,6 +4,7 @@
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
 * Caleb Xu ([@alebcay](https://github.com/alebcay)) - The Ascender
+* [@evuez](https://github.com/evuez) - Majuscules
 
 
 ## Thanks for the Comments, Critique, Criticism, and Cake!
