@@ -4,11 +4,13 @@
 
 ### [Anonymous Pro](fonts/anonymous-pro)
 
+![Anonymous Pro](images/anonymous-pro-TP.png)
 ![Anonymous Pro](images/anonymous-pro.png)
 
 
 ### [Aurulent Sans Mono](fonts/aurulent-sans-mono)
 
+![Aurulent Sans Mono](images/aurulent-sans-mono-TP.png)
 ![Aurulent Sans Mono](images/aurulent-sans-mono.png)
 
 
