@@ -161,6 +161,12 @@
 ![M+ 2m](images/mplus2m.png)
 
 
+### [Meslo](fonts/meslo)
+
+![Meslo](images/meslo-TP.png)
+![Meslo](images/meslo.png)
+
+
 ### [Monofur](fonts/monofur)
 
 ![Monofur](images/monofur-TP.png)
