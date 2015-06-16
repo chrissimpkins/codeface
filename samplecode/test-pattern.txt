@@ -1,0 +1,18 @@
+TEST PATTERN
+
+
+
+
+
+
+
+
+abcdefghijklmnopqrstuvwxyz  12345
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  67890
+
+{}[]()<>$*-+=/#_%^@\&|~?'"`!,.;:
+
+Illegal1 = 0O
+
+the quick brown fox jumps over the lazy dog
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
