@@ -67,6 +67,11 @@
 ![Elronet Monospace](images/elronet-monospace.png)
 
 
+### [Fantasque Sans Mono](fonts/fantasque-sans-mono)
+
+![Fantasque Sans Mono](images/fantasque-sans-mono.png)
+
+
 ### [Fira Mono](fonts/fira-mono)
 
 ![Fira Mono](images/fira-mono.png)
