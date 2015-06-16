@@ -301,3 +301,7 @@
 ![Verily Serif Mono](images/verily-serif-mono-TP.png)
 ![Verily Serif Mono](images/verily-serif-mono.png)
 
+
+---
+
+§ A proud member of the [Awesome Syndicate](https://github.com/sindresorhus/awesome)
