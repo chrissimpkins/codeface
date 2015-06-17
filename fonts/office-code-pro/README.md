@@ -1,3 +1,4 @@
 
-OfficeCodePro-***.otf - slashed zeros
-OfficeCodeProD-***.otf - dotted zeros
+OfficeCodePro-XXX.otf - slashed zeros
+
+OfficeCodeProD-XXX.otf - dotted zeros
