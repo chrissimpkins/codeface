@@ -131,6 +131,12 @@
 ![Inconsolata](images/inconsolata.png)
 
 
+### [Inconsolata-dz](fonts/inconsolata-dz)
+
+![Inconsolata-dz](images/inconsolata-dz-TP.png)
+![Inconsolata-dz](images/inconsolata-dz.png)
+
+
 ### [Inconsolata-g](fonts/inconsolata-g)
 
 ![Inconsolata-g](images/inconsolata-g-TP.png)
