@@ -143,6 +143,12 @@
 ![Inconsolata-g](images/inconsolata-g.png)
 
 
+### [Inconsolata LGC](fonts/inconsolata-lgc)
+
+![Inconsolata LGC](images/inconsolata-lgc-TP.png)
+![Inconsolata LGC](images/inconsolata-lgc.png)
+
+
 ### [Liberation Mono](fonts/liberation-mono)
 
 ![Liberation Mono](images/liberation-mono-TP.png)
