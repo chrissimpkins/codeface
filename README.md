@@ -114,6 +114,12 @@
 ![Fantasque Sans Mono](images/fantasque-sans-mono.png)
 
 
+### [Fixedsys Excelsior](fonts/fixed-sys-excelsior)
+
+![Fixedsys Excelsior](images/fixed-sys-excelsior-TP.png)
+![Fixedsys Excelsior](images/fixed-sys-excelsior.png)
+
+
 ### [Fira Mono](fonts/fira-mono)
 
 ![Fira Mono](images/fira-mono-TP.png)
