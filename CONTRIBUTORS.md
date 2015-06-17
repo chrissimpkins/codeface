@@ -12,6 +12,10 @@
 
 * Julie Engel ([@engelju](https://github.com/engelju))
 * Branimir Karadžić ([@bkaradzic](https://github.com/bkaradzic))
+* Jerry Lin ([@linjer](https://github.com/linjer))
+* Devon Parsons ([@devonparsons](https://github.com/devonparsons))
 * Kiran Rao ([@curioustechizen](https://github.com/curioustechizen))
+* Scott Squires ([@squires](https://github.com/squires))
 * Anon ([@dvvh](https://github.com/dvhh))
+* Anon ([@mbaz](https://github.com/mbaz))
 
