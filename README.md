@@ -149,6 +149,12 @@
 ![Lekton](images/lekton.png)
 
 
+### [Luculent](fonts/luculent)
+
+![Luculent](images/luculent-TP.png)
+![Luculent](images/luculent.png)
+
+
 ### [Luxi Mono](fonts/luxi-mono)
 
 ![Luxi Mono](images/luxi-mono-TP.png)
