@@ -102,6 +102,12 @@
 ![Droid Sans Mono](images/droid-sans-mono.png)
 
 
+### [Edlo](fonts/edlo)
+
+![Edlo](images/edlo-TP.png)
+![Edlo](images/edlo.png)
+
+
 ### [Elronet Monospace](fonts/elronet-monospace)
 
 ![Elronet Monospace](images/elronet-monospace-TP.png)
