@@ -204,6 +204,12 @@
 ![Meslo](images/meslo.png)
 
 
+### [Metrickal](fonts/metrickal)
+
+![Metrickal](images/metrickal-TP.png)
+![Metrickal](images/metrickal.png)
+
+
 ### [Monofur](fonts/monofur)
 
 ![Monofur](images/monofur-TP.png)
