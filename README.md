@@ -10,6 +10,7 @@
 * [Free, Non-Distrib EULA Font Gallery](NONDISTRIB.md)
 * [Contribute to the Project](CONTRIBUTING.md)
 * [Contributor List](CONTRIBUTORS.md)
+* [License](LICENSE.md)
 
 ## Fun Little Rant About Font Customization
 
