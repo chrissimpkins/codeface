@@ -11,6 +11,7 @@
 ## Thanks for the Comments, Critique, Criticism, and Cake!
 
 * Julie Engel ([@engelju](https://github.com/engelju))
+* Branimir Karadžić ([@bkaradzic](https://github.com/bkaradzic))
 * Kiran Rao ([@curioustechizen](https://github.com/curioustechizen))
 * Anon ([@dvvh](https://github.com/dvhh))
 
