@@ -138,6 +138,12 @@
 ![Free Mono](images/free-mono.png)
 
 
+### [Hasklig](fonts/hasklig)
+
+![Hasklig](images/hasklig-TP.png)
+![Hasklig](images/hasklig.png)
+
+
 ### [Inconsolata](fonts/inconsolata)
 
 ![Inconsolata](images/inconsolata-TP.png)
