@@ -198,6 +198,12 @@
 ![M+ 2m](images/mplus2m.png)
 
 
+### [Mensch](fonts/mensch)
+
+![Mensch](images/mensch-TP.png)
+![Mensch](images/mensch.png)
+
+
 ### [Meslo](fonts/meslo)
 
 ![Meslo](images/meslo-TP.png)
