@@ -2,7 +2,7 @@
 
 * Chris Simpkins ([@chrissimpkins](https://github.com/chrissimpkins)) - Apex
 * Matt Brzezinski ([@mattBrzezinski](https://github.com/mattBrzezinski)) - WYSIWYG
-* Andrew Kinsler ([@a-e-k](https://github.com/a-e-k)) - Justified (developer of [Luculent font](http://eastfarthing.com/luculent/))
+* Andrew Kensler ([@a-e-k](https://github.com/a-e-k)) - Justified (developer of [Luculent font](http://eastfarthing.com/luculent/))
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face (developer of [Monoid font](http://larsenwork.com/monoid/))
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
 * Caleb Xu ([@alebcay](https://github.com/alebcay)) - The Ascender
