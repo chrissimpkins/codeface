@@ -1,4 +1,4 @@
-![Codeface](images/codeface-header.png)
+![Codeface](images/codeface-header-HR.png)
 
 ![Typefaces for source code beautification](images/tagline.gif)
 
