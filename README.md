@@ -264,6 +264,12 @@
 ![Mono Spatial](images/mono-spatial.png)
 
 
+### [Monte Carlo](fonts/monte-carlo)
+
+![Monte Carlo](images/monte-carlo-TP.png)
+![Monte Carlo](images/monte-carlo.png)
+
+
 ### [Not Courier Sans](fonts/not-courier-sans)
 
 ![Not Courier Sans](images/not-courier-sans-TP.png)
