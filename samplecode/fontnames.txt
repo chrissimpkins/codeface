@@ -1,0 +1,63 @@
+Anonymous Pro
+Aurulent Sans Mono
+Bitstream Vera Sans Mono
+BPmono
+Code New Roman
+CodingFontTobi (bitmap)
+Consola Mono
+Cousine
+Crisp (bitmap)
+Cutive Mono
+DejaVu Sans Mono
+Dina ttf 10px (bitmap)
+Droid Sans Mono
+Edlo
+ElroNet Monospace
+Fantasque Sans Mono
+Fira Mono
+Fixedsys Excelsior 3.01 (bitmap)
+FreeMono
+Hasklig
+Inconsolata-dz
+Inconsolata-g
+Inconsolata LGC
+Inconsolata
+Lekton
+Liberation Mono
+Luculent
+Luxi Mono
+Mensch
+Meslo LG M DZ
+Metrickal
+monoMMM_5
+monoOne
+MonoSpatial
+monofur
+Monoid
+MonospaceTypewriter
+Monospace
+MonteCarlo Fixed 12 (bitmap)
+M+ 1m
+M+ 2m
+NotCourierSans
+Office Code Pro
+Oxygen Mono
+Panic Sans
+PixelCarnageMonoTT (bitmap)
+ProFontWindows
+ProggyCleanTT (bitmap)
+ProggySmallTT (bitmap)
+ProggySquareTT (bitmap)
+ProggyTinyTT (bitmap)
+PT Mono
+Roboto Mono
+saxMono
+Share-TechMonoTrue
+SmallTypeWriting
+Source Code Pro
+SV Basic Manual
+Terminus
+TeX Gyre Cursor
+Ubuntu Mono
+Verily Serif Mono
+
