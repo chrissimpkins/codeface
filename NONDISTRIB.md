@@ -8,6 +8,7 @@ The following typefaces are free to use; however, they do not permit redistribut
 ### [Envy Code R](http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released)
 
 ![Envy Code R](images/envy-code-r-TP.png)
+![Envy Code R](images/envy-code-r-TPC.png)
 ![Envy Code R](images/envy-code-r.png)
 
 
