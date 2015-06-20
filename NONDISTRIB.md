@@ -30,8 +30,9 @@ The following typefaces are free to use; however, they do not permit redistribut
 
 ### [Monoxil Regular](http://www.fontspring.com/fonts/urtd/monoxil)
 
-![Monoxil Regular](images/monoxil-regular-TP.png)
-![Monoxil Regular](images/monoxil-regular.png)
+<img src="images/monoxil-regular-TP.png" width="725">
+<img src="images/monoxil-regular-TPC.png" width="725">
+<img src="images/monoxil-regular.png" width="725">
 
 
 
