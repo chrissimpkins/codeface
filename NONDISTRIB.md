@@ -14,8 +14,9 @@ The following typefaces are free to use; however, they do not permit redistribut
 
 ### [Klartext Mono Light](http://www.fontspring.com/fonts/heimatdesign/klartext-mono)
 
-![Klartext Mono](images/klartext-mono-TP.png)
-![Klartext Mono](images/klartext-mono.png)
+<img src="images/klartext-mono-TP.png" width="725">
+<img src="images/klartext-mono-TPC.png" width="725">
+<img src="images/klartext-mono.png" width="725">
 
 
 
