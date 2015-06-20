@@ -38,5 +38,9 @@ The following typefaces are free to use; however, they do not permit redistribut
 
 ### [NK57 Monospace](http://www.fontspring.com/fonts/typodermic/nk57-monospace)
 
-![NK57 Monospace](images/nk57-monospace-TP.png)
-![NK57 Monospace](images/nk57-monospace.png)
+<img src="images/nk57-monospace-TP.png" width="725">
+<img src="images/nk57-monospace-TPC.png" width="725">
+<img src="images/nk57-monospace.png" width="725">
+
+
+
