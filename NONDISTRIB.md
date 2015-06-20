@@ -22,8 +22,9 @@ The following typefaces are free to use; however, they do not permit redistribut
 
 ### [Monofonto](http://www.fontspring.com/fonts/typodermic/monofonto)
 
-![Monofonto](images/monofonto-TP.png)
-![Monofonto](images/monofonto.png)
+<img src="images/monofonto-TP.png" width="725">
+<img src="images/monofonto-TPC.png" width="725">
+<img src="images/monofonto.png" width="725">
 
 
 
