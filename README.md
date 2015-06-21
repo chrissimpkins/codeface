@@ -227,6 +227,13 @@
 ![M+ 1m](images/mplus1m.png)
 
 
+### [M+ 1mn](fonts/mplus1mn)
+
+![M+ 1m](images/mplus1mn-TP.png)
+![M+ 1m](images/mplus1mn-TPC.png)
+![M+ 1m](images/mplus1mn.png)
+
+
 ### [M+ 2m](fonts/mplus2m)
 
 ![M+ 2m](images/mplus2m-TP.png)
