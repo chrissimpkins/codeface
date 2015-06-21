@@ -12,6 +12,13 @@ The following typefaces are free to use; however, they do not permit redistribut
 <img src="images/envy-code-r.png" width="725">
 
 
+### [Input Mono](http://input.fontbureau.com/download/)
+
+<img src="images/input-mono-TP.png" width="725">
+<img src="images/input-mono-TPC.png" width="725">
+<img src="images/input-mono.png" width="725">
+
+
 ### [Klartext Mono Light](http://www.fontspring.com/fonts/heimatdesign/klartext-mono)
 
 <img src="images/klartext-mono-TP.png" width="725">
