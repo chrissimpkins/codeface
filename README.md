@@ -157,6 +157,13 @@
 ![Free Mono](images/free-mono.png)
 
 
+### [Gohufont](fonts/gohufont)
+
+![Gohufont](images/gohufont-TP.png)
+![Gohufont](images/gohufont-TPC.png)
+![Gohufont](images/gohufont.png)
+
+
 ### [Hasklig](fonts/hasklig)
 
 ![Hasklig](images/hasklig-TP.png)
