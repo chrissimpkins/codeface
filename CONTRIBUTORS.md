@@ -1,6 +1,6 @@
 ## Codeface Contributors
 
-* Chris Simpkins ([@chrissimpkins](https://github.com/chrissimpkins)) - Apex
+* Chris Simpkins ([@chrissimpkins](https://github.com/chrissimpkins)) - Apex (developer of [Hack font](https://github.com/chrissimpkins/Hack))
 * Matt Brzezinski ([@mattBrzezinski](https://github.com/mattBrzezinski)) - WYSIWYG
 * Andrew Kensler ([@a-e-k](https://github.com/a-e-k)) - Justified (developer of [Luculent font](http://eastfarthing.com/luculent/))
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face (developer of [Monoid font](http://larsenwork.com/monoid/))
