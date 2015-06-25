@@ -19,4 +19,5 @@
 * Scott Squires ([@squires](https://github.com/squires))
 * Anon ([@dvvh](https://github.com/dvhh))
 * Anon ([@mbaz](https://github.com/mbaz))
+* Anon ([@Snack-X](https://github.com/Snack-X))
 
