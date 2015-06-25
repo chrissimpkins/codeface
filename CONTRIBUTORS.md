@@ -8,6 +8,7 @@
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
 * Caleb Xu ([@alebcay](https://github.com/alebcay)) - The Ascender
 * Anon [@evuez](https://github.com/evuez) - Majuscules
+* Anon ([@Snack-X](https://github.com/Snack-X)) - Baseline
 
 
 ## Thanks for the Comments, Critique, Criticism, and Cake!
@@ -21,5 +22,4 @@
 * Téo M ([@teogeos](https://github.com/teogeos))
 * Anon ([@dvvh](https://github.com/dvhh))
 * Anon ([@mbaz](https://github.com/mbaz))
-* Anon ([@Snack-X](https://github.com/Snack-X))
 
