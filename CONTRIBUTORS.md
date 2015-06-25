@@ -7,7 +7,7 @@
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face (developer of [Monoid font](http://larsenwork.com/monoid/))
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
 * Caleb Xu ([@alebcay](https://github.com/alebcay)) - The Ascender
-* Anon [@evuez](https://github.com/evuez) - Majuscules
+* Anon ([@evuez](https://github.com/evuez)) - Majuscules
 * Anon ([@Snack-X](https://github.com/Snack-X)) - Baseline
 
 
