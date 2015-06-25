@@ -476,6 +476,12 @@
 ![Verily Serif Mono](images/verily-serif-mono.png)
 
 
+### [Whois Mono](fonts/whois-mono)
+
+![Whois Mono](images/whois-mono-TP.png)
+![Whois Mono](images/whois-mono-TPC.png)
+![Whois Mono](images/whois-mono.png)
+
 ---
 
 § A proud member of the [Awesome Syndicate](https://github.com/sindresorhus/awesome)
