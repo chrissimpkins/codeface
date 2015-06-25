@@ -17,6 +17,7 @@
 * Devon Parsons ([@devonparsons](https://github.com/devonparsons))
 * Kiran Rao ([@curioustechizen](https://github.com/curioustechizen))
 * Scott Squires ([@squires](https://github.com/squires))
+* Téo M ([@teogeos](https://github.com/teogeos))
 * Anon ([@dvvh](https://github.com/dvhh))
 * Anon ([@mbaz](https://github.com/mbaz))
 * Anon ([@Snack-X](https://github.com/Snack-X))
