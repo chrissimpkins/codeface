@@ -1,8 +1,5 @@
 ![Codeface](images/codeface-header-HR.png)
 
-![Typefaces for source code beautification](images/tagline.gif)
-
-
 ## Contents
 
 * [About](ABOUT.md)
