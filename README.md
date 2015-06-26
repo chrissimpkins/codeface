@@ -77,6 +77,13 @@
 ![Cousine](images/cousine.png)
 
 
+### [CP Mono](fonts/cp-mono)
+
+![CP Mono](images/cp-mono-TP.png)
+![CP Mono](images/cp-mono-TPC.png)
+![CP Mono](images/cp-mono.png)
+
+
 ### [Crisp](fonts/crisp)
 
 ![Crisp](images/crisp-TP.png)
