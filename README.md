@@ -210,6 +210,13 @@
 ![Inconsolata LGC](images/inconsolata-lgc.png)
 
 
+### [Latin Modern Mono Light](fonts/latin-modern-mono)
+
+![Latin Modern Mono Light](images/latin-modern-mono-TP.png)
+![Latin Modern Mono Light](images/latin-modern-mono-TPC.png)
+![Latin Modern Mono Light](images/latin-modern-mono.png)
+
+
 ### [Liberation Mono](fonts/liberation-mono)
 
 ![Liberation Mono](images/liberation-mono-TP.png)
