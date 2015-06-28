@@ -224,6 +224,13 @@
 ![Liberation Mono](images/liberation-mono.png)
 
 
+### [Linux Libertine Mono](fonts/linux-libertine-mono)
+
+![Linux Libertine Mono](images/linux-libertine-mono-TP.png)
+![Linux Libertine Mono](images/linux-libertine-mono-TPC.png)
+![Linux Libertine Mono](images/linux-libertine-mono.png)
+
+
 ### [Lekton](fonts/lekton)
 
 ![Lekton](images/lekton-TP.png)
