@@ -13,6 +13,7 @@
 
 ## Thanks for the Comments, Critique, Criticism, and Cake!
 
+* Markus Birth ([@mbirth](https://github.com/mbirth))
 * Julie Engel ([@engelju](https://github.com/engelju))
 * Branimir Karadžić ([@bkaradzic](https://github.com/bkaradzic))
 * Jerry Lin ([@linjer](https://github.com/linjer))
