@@ -6,6 +6,7 @@
 * Andrew Kensler ([@a-e-k](https://github.com/a-e-k)) - Justified (developer of [Luculent font](http://eastfarthing.com/luculent/))
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face (developer of [Monoid font](http://larsenwork.com/monoid/))
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
+* Chris Wendt ([@chrismwendt](https://github.com/chrismwendt)) - Em-n-Em (developer of [Bront font](https://github.com/chrismwendt/bront))
 * Caleb Xu ([@alebcay](https://github.com/alebcay)) - The Ascender
 * Anon ([@evuez](https://github.com/evuez)) - Majuscules
 * Anon ([@Snack-X](https://github.com/Snack-X)) - Baseline
