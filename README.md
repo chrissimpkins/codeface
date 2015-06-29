@@ -469,6 +469,13 @@
 ![Source Code Pro](images/source-code-pro.png)
 
 
+### [Sudo](fonts/sudo)
+
+![Sudo](images/sudo-TP.png)
+![Sudo](images/sudo-TPC.png)
+![Sudo](images/sudo.png)
+
+
 ### [SV Basic Manual](fonts/sv-basic-manual)
 
 ![SV Basic Manual](images/sv-basic-manual-TP.png)
