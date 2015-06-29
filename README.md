@@ -49,6 +49,13 @@
 ![BP Mono](images/bp-mono.png)
 
 
+### [Bront](fonts/bront)
+
+![Bront](images/bront-TP.png)
+![Bront](images/bront-TPC.png)
+![Bront](images/bront.png)
+
+
 ### [Code New Roman](fonts/code-new-roman)
 
 ![Code New Roman](images/code-new-roman-TP.png)
