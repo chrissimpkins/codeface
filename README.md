@@ -189,6 +189,13 @@
 ![Hasklig](images/hasklig.png)
 
 
+### [Hermit](fonts/hermit)
+
+![Hermit](images/hermit-TP.png)
+![Hermit](images/hermit-TPC.png)
+![Hermit](images/hermit.png)
+
+
 ### [Inconsolata](fonts/inconsolata)
 
 ![Inconsolata](images/inconsolata-TP.png)
