@@ -177,9 +177,9 @@
 
 ### [Hack](fonts/hack)
 
-![Hack](images/hack-TP.png)
-![Hack](images/hack-TPC.png)
-![Hack](images/hack.png)
+![Hack](images/hack_1_002-TP.png)
+![Hack](images/hack_1_002-TPC.png)
+![Hack](images/hack_1_002.png)
 
 
 ### [Hasklig](fonts/hasklig)
