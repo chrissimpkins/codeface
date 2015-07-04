@@ -28,18 +28,18 @@
 ![Anonymous Pro](images/anonymous-pro.png)
 
 
-### [Average Mono](fonts/average-mono)
-
-![Average Mono](images/average-mono-TP.png)
-![Average Mono](images/average-mono-TPC.png)
-![Average Mono](images/average-mono.png)
-
-
 ### [Aurulent Sans Mono](fonts/aurulent-sans-mono)
 
 ![Aurulent Sans Mono](images/aurulent-sans-mono-TP.png)
 ![Aurulent Sans Mono](images/aurulent-sans-mono-TPC.png)
 ![Aurulent Sans Mono](images/aurulent-sans-mono.png)
+
+
+### [Average Mono](fonts/average-mono)
+
+![Average Mono](images/average-mono-TP.png)
+![Average Mono](images/average-mono-TPC.png)
+![Average Mono](images/average-mono.png)
 
 
 ### [Bitstream Vera Sans Mono](fonts/bitstream-vera-sans-mono)
