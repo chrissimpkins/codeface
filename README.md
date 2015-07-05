@@ -19,7 +19,7 @@
 
 ## Download Font ZIP Archive
 
-<a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="images/download_button.png" style="margin-left: 100px" alt="Download All Fonts" width="50%"></a>
+<a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="images/download_button.png" style="margin-left: 100px" alt="Download All Fonts" width="192"></a>
 
 
 ## The Gallery
