@@ -1,9 +1,5 @@
 ![Codeface](images/codeface-header-HR.png)
 
-<div style="width:100%; text-align:center">
-<a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="images/download_button.png" alt="Download All Fonts"></a>
-</div>
-
 ## Contents
 
 * [About](ABOUT.md)
@@ -20,6 +16,10 @@
 
 [Link](https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu)
 
+
+## Download Font ZIP Archive
+
+<a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="images/download_button.png" style="margin-left: 100px" alt="Download All Fonts" width="50%"></a>
 
 
 ## The Gallery
