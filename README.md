@@ -1,5 +1,9 @@
 ![Codeface](images/codeface-header-HR.png)
 
+<div style="width:100%; text-align:center">
+<a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="images/download_button.png" alt="Download All Fonts"></a>
+</div>
+
 ## Contents
 
 * [About](ABOUT.md)
