@@ -135,12 +135,16 @@
 
 ### [Crisp](fonts/crisp)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/crisp/license.txt) ]
+
 ![Crisp](images/crisp-TP.png)
 ![Crisp](images/crisp-TPC.png)
 ![Crisp](images/crisp.png)
 
 
 ### [Cutive Mono](fonts/cutive-mono)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/cutive-mono/OFL.txt) ]
 
 ![Cutive Mono](images/cutive-mono-TP.png)
 ![Cutive Mono](images/cutive-mono-TPC.png)
@@ -149,12 +153,16 @@
 
 ### [Dejavu Sans Mono](fonts/dejavu-sans-mono)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/dejavu-sans-mono/license.txt) ]
+
 ![Dejavu Sans Mono](images/dejavu-sans-mono-TP.png)
 ![Dejavu Sans Mono](images/dejavu-sans-mono-TPC.png)
 ![Dejavu Sans Mono](images/dejavu-sans-mono.png)
 
 
 ### [Dina](fonts/dina)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/dina/LICENSE) ]
 
 ![Dina](images/dina-TP.png)
 ![Dina](images/dina-TPC.png)
@@ -163,6 +171,8 @@
 
 ### [Droid Sans Mono](fonts/droid-sans-mono)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/droid-sans-mono/license.txt) ]
+
 ![Droid Sans Mono](images/droid-sans-mono-TP.png)
 ![Droid Sans Mono](images/droid-sans-mono-TPC.png)
 ![Droid Sans Mono](images/droid-sans-mono.png)
@@ -170,16 +180,11 @@
 
 ### [Edlo](fonts/edlo)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/edlo/license.txt) ]
+
 ![Edlo](images/edlo-TP.png)
 ![Edlo](images/edlo-TPC.png)
 ![Edlo](images/edlo.png)
-
-
-### [Elronet Monospace](fonts/elronet-monospace)
-
-![Elronet Monospace](images/elronet-monospace-TP.png)
-![Elronet Monospace](images/elronet-monospace-TPC.png)
-![Elronet Monospace](images/elronet-monospace.png)
 
 
 ### [Fantasque Sans Mono](fonts/fantasque-sans-mono)
