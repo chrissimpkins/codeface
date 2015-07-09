@@ -26,8 +26,8 @@
 
 
 ### [Anonymous Pro](fonts/anonymous-pro)
-
-[[License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/anonymous-pro/license.txt)]
+<br>
+[ <a href="https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/anonymous-pro/license.txt">License</a> ]
 
 ![Anonymous Pro](images/anonymous-pro-TP.png)
 ![Anonymous Pro](images/anonymous-pro-TPC.png)
