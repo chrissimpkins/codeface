@@ -216,12 +216,16 @@
 
 ### [Free Mono](fonts/free-mono)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/free-mono/license.txt) ]
+
 ![Free Mono](images/free-mono-TP.png)
 ![Free Mono](images/free-mono-TPC.png)
 ![Free Mono](images/free-mono.png)
 
 
 ### [Gohufont](fonts/gohufont)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/gohufont/license.txt) ]
 
 ![Gohufont](images/gohufont-TP.png)
 ![Gohufont](images/gohufont-TPC.png)
@@ -230,12 +234,16 @@
 
 ### [Hack](fonts/hack)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/hack/license.txt) ]
+
 ![Hack](images/hack_1_002-TP.png)
 ![Hack](images/hack_1_002-TPC.png)
 ![Hack](images/hack_1_002.png)
 
 
 ### [Hasklig](fonts/hasklig)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/hasklig/License.txt) ]
 
 ![Hasklig](images/hasklig-TP.png)
 ![Hasklig](images/hasklig-TPC.png)
@@ -244,12 +252,16 @@
 
 ### [Hermit](fonts/hermit)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/hermit/license.txt) ]
+
 ![Hermit](images/hermit-TP.png)
 ![Hermit](images/hermit-TPC.png)
 ![Hermit](images/hermit.png)
 
 
 ### [Inconsolata](fonts/inconsolata)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/inconsolata/license.txt) ]
 
 ![Inconsolata](images/inconsolata-TP.png)
 ![Inconsolata](images/inconsolata-TPC.png)
@@ -258,12 +270,16 @@
 
 ### [Inconsolata-dz](fonts/inconsolata-dz)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/inconsolata-dz/license.txt) ]
+
 ![Inconsolata-dz](images/inconsolata-dz-TP.png)
 ![Inconsolata-dz](images/inconsolata-dz-TPC.png)
 ![Inconsolata-dz](images/inconsolata-dz.png)
 
 
 ### [Inconsolata-g](fonts/inconsolata-g)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/inconsolata-g/license.txt) ]
 
 ![Inconsolata-g](images/inconsolata-g-TP.png)
 ![Inconsolata-g](images/inconsolata-g-TPC.png)
@@ -272,12 +288,16 @@
 
 ### [Inconsolata LGC](fonts/inconsolata-lgc)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/inconsolata-lgc/license.txt) ]
+
 ![Inconsolata LGC](images/inconsolata-lgc-TP.png)
 ![Inconsolata LGC](images/inconsolata-lgc-TPC.png)
 ![Inconsolata LGC](images/inconsolata-lgc.png)
 
 
 ### [Latin Modern Mono Light](fonts/latin-modern-mono)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/latin-modern-mono/license.txt) ]
 
 ![Latin Modern Mono Light](images/latin-modern-mono-TP.png)
 ![Latin Modern Mono Light](images/latin-modern-mono-TPC.png)
@@ -286,6 +306,8 @@
 
 ### [Liberation Mono](fonts/liberation-mono)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/liberation-mono/License.txt) ]
+
 ![Liberation Mono](images/liberation-mono-TP.png)
 ![Liberation Mono](images/liberation-mono-TPC.png)
 ![Liberation Mono](images/liberation-mono.png)
@@ -293,12 +315,16 @@
 
 ### [Linux Libertine Mono](fonts/linux-libertine-mono)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/linux-libertine-mono/license.txt) ]
+
 ![Linux Libertine Mono](images/linux-libertine-mono-TP.png)
 ![Linux Libertine Mono](images/linux-libertine-mono-TPC.png)
 ![Linux Libertine Mono](images/linux-libertine-mono.png)
 
 
 ### [Lekton](fonts/lekton)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/lekton/SIL%20Open%20Font%20License.txt) ]
 
 ![Lekton](images/lekton-TP.png)
 ![Lekton](images/lekton-TPC.png)
