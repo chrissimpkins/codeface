@@ -333,12 +333,16 @@
 
 ### [Luculent](fonts/luculent)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/luculent/license.txt) ]
+
 ![Luculent](images/luculent-TP.png)
 ![Luculent](images/luculent-TPC.png)
 ![Luculent](images/luculent.png)
 
 
 ### [Luxi Mono](fonts/luxi-mono)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/luxi-mono/Bigelow%20%26%20Holmes%20-%20Luxi%20License.txt) ]
 
 ![Luxi Mono](images/luxi-mono-TP.png)
 ![Luxi Mono](images/luxi-mono-TPC.png)
@@ -347,6 +351,8 @@
 
 ### [M+ 1m](fonts/mplus1m)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mplus1m/M%2B%20Fonts%20License.txt) ]
+
 ![M+ 1m](images/mplus1m-TP.png)
 ![M+ 1m](images/mplus1m-TPC.png)
 ![M+ 1m](images/mplus1m.png)
@@ -354,12 +360,16 @@
 
 ### [M+ 1mn](fonts/mplus1mn)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mplus1mn/M%2B%20Fonts%20License.txt) ]
+
 ![M+ 1m](images/mplus1mn-TP.png)
 ![M+ 1m](images/mplus1mn-TPC.png)
 ![M+ 1m](images/mplus1mn.png)
 
 
 ### [M+ 2m](fonts/mplus2m)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mplus2m/LICENSE_E.txt) ]
 
 ![M+ 2m](images/mplus2m-TP.png)
 ![M+ 2m](images/mplus2m-TPC.png)
