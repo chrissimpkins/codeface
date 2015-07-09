@@ -189,23 +189,29 @@
 
 ### [Fantasque Sans Mono](fonts/fantasque-sans-mono)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/fantasque-sans-mono/OFL.txt) ]
+
 ![Fantasque Sans Mono](images/fantasque-sans-mono-TP.png)
 ![Fantasque Sans Mono](images/fantasque-sans-mono-TPC.png)
 ![Fantasque Sans Mono](images/fantasque-sans-mono.png)
 
 
-### [Fixedsys Excelsior](fonts/fixed-sys-excelsior)
-
-![Fixedsys Excelsior](images/fixed-sys-excelsior-TP.png)
-![Fixedsys Excelsior](images/fixed-sys-excelsior-TPC.png)
-![Fixedsys Excelsior](images/fixed-sys-excelsior.png)
-
-
 ### [Fira Mono](fonts/fira-mono)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/fira-mono/SIL%20Open%20Font%20License.txt) ]
 
 ![Fira Mono](images/fira-mono-TP.png)
 ![Fira Mono](images/fira-mono-TPC.png)
 ![Fira Mono](images/fira-mono.png)
+
+
+### [Fixedsys Excelsior](fonts/fixed-sys-excelsior)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/fixed-sys-excelsior/license.txt) ]
+
+![Fixedsys Excelsior](images/fixed-sys-excelsior-TP.png)
+![Fixedsys Excelsior](images/fixed-sys-excelsior-TPC.png)
+![Fixedsys Excelsior](images/fixed-sys-excelsior.png)
 
 
 ### [Free Mono](fonts/free-mono)
