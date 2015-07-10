@@ -432,12 +432,16 @@
 
 ### [Monospace](fonts/monospace)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monospace/OFL.txt) ]
+
 ![Monospace](images/monospace-TP.png)
 ![Monospace](images/monospace-TPC.png)
 ![Monospace](images/monospace.png)
 
 
 ### [Monospace Typewriter](fonts/monospace-typewriter)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monospace-typewriter/license.txt) ]
 
 ![Monospace Typewriter](images/monospace-typewriter-TP.png)
 ![Monospace Typewriter](images/monospace-typewriter-TPC.png)
@@ -446,12 +450,16 @@
 
 ### [Mono Spatial](fonts/mono-spatial)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mono-spatial/source.txt) ]
+
 ![Mono Spatial](images/mono-spatial-TP.png)
 ![Mono Spatial](images/mono-spatial-TPC.png)
 ![Mono Spatial](images/mono-spatial.png)
 
 
 ### [Monte Carlo](fonts/monte-carlo)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monte-carlo/license.txt) ]
 
 ![Monte Carlo](images/monte-carlo-TP.png)
 ![Monte Carlo](images/monte-carlo-TPC.png)
@@ -460,12 +468,16 @@
 
 ### [Nanum Gothic Coding](fonts/nanum-gothic-coding)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/nanum-gothic-coding/license.txt) ]
+
 ![Nanum Gothic Coding](images/nanum-gothic-coding-TP.png)
 ![Nanum Gothic Coding](images/nanum-gothic-coding-TPC.png)
 ![Nanum Gothic Coding](images/nanum-gothic-coding.png)
 
 
 ### [Not Courier Sans](fonts/not-courier-sans)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/not-courier-sans/license.txt) ]
 
 ![Not Courier Sans](images/not-courier-sans-TP.png)
 ![Not Courier Sans](images/not-courier-sans-TPC.png)
@@ -474,12 +486,16 @@
 
 ### [Office Code Pro](fonts/office-code-pro)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/office-code-pro/LICENSE.txt) ]
+
 ![Office Code Pro](images/office-code-pro-TP.png)
 ![Office Code Pro](images/office-code-pro-TPC.png)
 ![Office Code Pro](images/office-code-pro.png)
 
 
 ### [Oxygen Mono](fonts/oxygen-mono)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/oxygen-mono/SIL%20Open%20Font%20License.txt) ]
 
 ![Oxygen Mono](images/oxygen-mono-TP.png)
 ![Oxygen Mono](images/oxygen-mono-TPC.png)
@@ -488,12 +504,16 @@
 
 ### [Panic Sans Mono](fonts/panic-sans-mono)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/panic-sans-mono/license.txt) ]
+
 ![Panic Sans Mono](images/panic-sans-mono-TP.png)
 ![Panic Sans Mono](images/panic-sans-mono-TPC.png)
 ![Panic Sans Mono](images/panic-sans-mono.png)
 
 
 ### [PixelCarnage Mono](fonts/pixel-carnage)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/pixel-carnage/license.txt) ]
 
 ![PixelCarnage Mono](images/pixel-carnage-noaa-TP.png)
 ![PixelCarnage Mono](images/pixel-carnage-noaa-TPC.png)
@@ -502,12 +522,16 @@
 
 ### [ProFontWindows](fonts/pro-font-windows)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/pro-font-windows/license.txt) ]
+
 ![Pro Font Windows](images/pro-font-windows-TP.png)
 ![Pro Font Windows](images/pro-font-windows-TPC.png)
 ![Pro Font Windows](images/pro-font-windows.png)
 
 
 ### [Proggy Clean](fonts/proggy-clean)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-clean/Licence.txt) ]
 
 ![Proggy Clean](images/proggy-clean-noaa-TP.png)
 ![Proggy Clean](images/proggy-clean-noaa-TPC.png)
@@ -516,12 +540,16 @@
 
 ### [Proggy Small](fonts/proggy-small)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-small/Licence.txt) ]
+
 ![Proggy Small](images/proggy-small-noaa-TP.png)
 ![Proggy Small](images/proggy-small-noaa-TPC.png)
 ![Proggy Small](images/proggy-small-noaa.png)
 
 
 ### [Proggy Square](fonts/proggy-square)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-square/Licence.txt) ]
 
 ![Proggy Square](images/proggy-square-noaa-TP.png)
 ![Proggy Square](images/proggy-square-noaa-TPC.png)
@@ -530,12 +558,16 @@
 
 ### [Proggy Tiny](fonts/proggy-tiny)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-tiny/Licence.txt) ]
+
 ![Proggy Tiny](images/proggy-tiny-noaa-TP.png)
 ![Proggy Tiny](images/proggy-tiny-noaa-TPC.png)
 ![Proggy Tiny](images/proggy-tiny-noaa.png)
 
 
 ### [PT Mono](fonts/pt-mono)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/pt-mono/license.txt) ]
 
 ![PT Mono](images/pt-mono-TP.png)
 ![PT Mono](images/pt-mono-TPC.png)
@@ -544,12 +576,16 @@
 
 ### [Roboto Mono](fonts/roboto-mono)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/roboto-mono/LICENSE.txt) ]
+
 ![Roboto Mono](images/roboto-mono-TP.png)
 ![Roboto Mono](images/roboto-mono-TPC.png)
 ![Roboto Mono](images/roboto-mono.png)
 
 
 ### [sax Mono](fonts/sax-mono)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/sax-mono/license.txt) ]
 
 ![sax Mono](images/sax-mono-TP.png)
 ![sax Mono](images/sax-mono-TPC.png)
@@ -558,12 +594,16 @@
 
 ### [Share-TechMonoTrue](fonts/share-tech-mono)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/share-tech-mono/license.txt) ]
+
 ![Share Tech Mono](images/share-tech-mono-TP.png)
 ![Share Tech Mono](images/share-tech-mono-TPC.png)
 ![Share Tech Mono](images/share-tech-mono.png)
 
 
 ### [Small Type Writing](fonts/small-type-writing)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/small-type-writing/license.txt) ]
 
 ![Small Type Writing](images/small-type-writing-TP.png)
 ![Small Type Writing](images/small-type-writing-TPC.png)
@@ -572,12 +612,16 @@
 
 ### [Source Code Pro](fonts/source-code-pro)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/source-code-pro/SIL%20Open%20Font%20License.txt) ]
+
 ![Source Code Pro](images/source-code-pro-TP.png)
 ![Source Code Pro](images/source-code-pro-TPC.png)
 ![Source Code Pro](images/source-code-pro.png)
 
 
 ### [Sudo](fonts/sudo)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/sudo/license.txt) ]
 
 ![Sudo](images/sudo-TP.png)
 ![Sudo](images/sudo-TPC.png)
@@ -586,12 +630,16 @@
 
 ### [SV Basic Manual](fonts/sv-basic-manual)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/sv-basic-manual/source.txt) ]
+
 ![SV Basic Manual](images/sv-basic-manual-TP.png)
 ![SV Basic Manual](images/sv-basic-manual-TPC.png)
 ![SV Basic Manual](images/sv-basic-manual.png)
 
 
 ### [Terminus](fonts/terminus)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/terminus/license.txt) ]
 
 ![Terminus](images/terminus-TP.png)
 ![Terminus](images/terminus-TPC.png)
@@ -600,12 +648,16 @@
 
 ### [TeX Gyre Cursor](fonts/tex-gyre-cursor)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/tex-gyre-cursor/GUST%20e-foundry%20License.txt) ]
+
 ![TeX Gyre Cursor](images/tex-gyre-cursor-TP.png)
 ![TeX Gyre Cursor](images/tex-gyre-cursor-TPC.png)
 ![TeX Gyre Cursor](images/tex-gyre-cursor.png)
 
 
 ### [Ubuntu Mono](fonts/ubuntu-mono)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/ubuntu-mono/UBUNTU%20FONT%20LICENCE.txt) ]
 
 ![Ubuntu Mono](images/ubuntu-mono-TP.png)
 ![Ubuntu Mono](images/ubuntu-mono-TPC.png)
@@ -614,12 +666,16 @@
 
 ### [Verily Serif Mono](fonts/verily-serif-mono)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/verily-serif-mono/Verily%20Serif%20Mono%20%28Stephen%20G.%20Hartke%29.txt) ]
+
 ![Verily Serif Mono](images/verily-serif-mono-TP.png)
 ![Verily Serif Mono](images/verily-serif-mono-TPC.png)
 ![Verily Serif Mono](images/verily-serif-mono.png)
 
 
 ### [Whois Mono](fonts/whois-mono)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/whois-mono/License.txt) ]
 
 ![Whois Mono](images/whois-mono-TP.png)
 ![Whois Mono](images/whois-mono-TPC.png)
