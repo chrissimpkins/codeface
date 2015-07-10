@@ -378,12 +378,16 @@
 
 ### [Mensch](fonts/mensch)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mensch/License.txt) ]
+
 ![Mensch](images/mensch-TP.png)
 ![Mensch](images/mensch-TPC.png)
 ![Mensch](images/mensch.png)
 
 
 ### [Meslo](fonts/meslo)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/meslo/license.txt) ]
 
 ![Meslo](images/meslo-TP.png)
 ![Meslo](images/meslo-TPC.png)
@@ -392,12 +396,16 @@
 
 ### [Metrickal](fonts/metrickal)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/metrickal/License.txt) ]
+
 ![Metrickal](images/metrickal-TP.png)
 ![Metrickal](images/metrickal-TPC.png)
 ![Metrickal](images/metrickal.png)
 
 
 ### [Monofur](fonts/monofur)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monofur/monof_tt.txt) ]
 
 ![Monofur](images/monofur-TP.png)
 ![Monofur](images/monofur-TPC.png)
@@ -406,6 +414,8 @@
 
 ### [Monoid](fonts/monoid)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monoid/license.txt) ]
+
 ![Monoid](images/monoid-TP.png)
 ![Monoid](images/monoid-TPC.png)
 ![Monoid](images/monoid.png)
@@ -413,16 +423,11 @@
 
 ### [monoOne](fonts/mono-one)
 
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mono-one/license.txt) ]
+
 ![monoOne](images/mono-one-TP.png)
 ![monoOne](images/mono-one-TPC.png)
 ![monoOne](images/mono-one.png)
-
-
-### [Mono MMM 5](fonts/mono-mmm-5)
-
-![Mono MMM 5](images/mono-mmm-5-TP.png)
-![Mono MMM 5](images/mono-mmm-5-TPC.png)
-![Mono MMM 5](images/mono-mmm-5.png)
 
 
 ### [Monospace](fonts/monospace)
