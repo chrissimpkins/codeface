@@ -304,6 +304,15 @@
 ![Latin Modern Mono Light](images/latin-modern-mono.png)
 
 
+### [Lekton](fonts/lekton)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/lekton/SIL%20Open%20Font%20License.txt) ]
+
+![Lekton](images/lekton-TP.png)
+![Lekton](images/lekton-TPC.png)
+![Lekton](images/lekton.png)
+
+
 ### [Liberation Mono](fonts/liberation-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/liberation-mono/License.txt) ]
@@ -320,15 +329,6 @@
 ![Linux Libertine Mono](images/linux-libertine-mono-TP.png)
 ![Linux Libertine Mono](images/linux-libertine-mono-TPC.png)
 ![Linux Libertine Mono](images/linux-libertine-mono.png)
-
-
-### [Lekton](fonts/lekton)
-
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/lekton/SIL%20Open%20Font%20License.txt) ]
-
-![Lekton](images/lekton-TP.png)
-![Lekton](images/lekton-TPC.png)
-![Lekton](images/lekton.png)
 
 
 ### [Luculent](fonts/luculent)
