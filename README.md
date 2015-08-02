@@ -245,9 +245,9 @@
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/hack/license.txt) ]
 
-![Hack](images/hack_1_002-TP.png)
-![Hack](images/hack_1_002-TPC.png)
-![Hack](images/hack_1_002.png)
+![Hack](images/hack-TP.png)
+![Hack](images/hack-TPC.png)
+![Hack](images/hack.png)
 
 
 ### [Hasklig](fonts/hasklig)
