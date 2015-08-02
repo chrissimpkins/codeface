@@ -36,7 +36,7 @@
 
 ### [Aurulent Sans Mono](fonts/aurulent-sans-mono)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/aurulent-sans-mono/source.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/aurulent-sans-mono/source.txt) ]
 
 ![Aurulent Sans Mono](images/aurulent-sans-mono-TP.png)
 ![Aurulent Sans Mono](images/aurulent-sans-mono-TPC.png)
@@ -45,7 +45,7 @@
 
 ### [Average Mono](fonts/average-mono)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/average-mono/license.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/average-mono/license.txt) ]
 
 ![Average Mono](images/average-mono-TP.png)
 ![Average Mono](images/average-mono-TPC.png)
@@ -54,7 +54,7 @@
 
 ### [Bitstream Vera Sans Mono](fonts/bitstream-vera-sans-mono)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/bitstream-vera-sans-mono/COPYRIGHT.TXT) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/bitstream-vera-sans-mono/COPYRIGHT.TXT) ]
 
 ![Bitstream Vera Sans Mono](images/bitstreamverasansmono-TP.png)
 ![Bitstream Vera Sans Mono](images/bitstreamverasansmono-TPC.png)
@@ -63,7 +63,7 @@
 
 ### [BP Mono](fonts/bp-mono)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/bp-mono/Creative%20Commons%20Attribution-No%20Derivative%20Works.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/bp-mono/Creative%20Commons%20Attribution-No%20Derivative%20Works.txt) ]
 
 ![BP Mono](images/bp-mono-TP.png)
 ![BP Mono](images/bp-mono-TPC.png)
@@ -72,7 +72,7 @@
 
 ### [Bront](fonts/bront)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/bront/LICENSE.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/bront/LICENSE.txt) ]
 
 ![Bront](images/bront-TP.png)
 ![Bront](images/bront-TPC.png)
@@ -81,7 +81,7 @@
 
 ### [Camingo Code](fonts/camingo-code)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/camingo-code/license.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/camingo-code/license.txt) ]
 
 ![Camingo Code](images/camingo-code-TP.png)
 ![Camingo Code](images/camingo-code-TPC.png)
@@ -90,7 +90,7 @@
 
 ### [CMU Typewriter](fonts/cmu-typewriter)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/cmu-typewriter/license.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/cmu-typewriter/license.txt) ]
 
 ![CMU Typewriter](images/cmu-typewriter-TP.png)
 ![CMU Typewriter](images/cmu-typewriter-TPC.png)
@@ -99,7 +99,7 @@
 
 ### [Code New Roman](fonts/code-new-roman)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/code-new-roman/cnr-note.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/code-new-roman/cnr-note.txt) ]
 
 ![Code New Roman](images/code-new-roman-TP.png)
 ![Code New Roman](images/code-new-roman-TPC.png)
@@ -108,7 +108,7 @@
 
 ### [Coding Font Tobi](fonts/coding-font-tobi)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/coding-font-tobi/Licence.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/coding-font-tobi/Licence.txt) ]
 
 ![Coding Font Tobi](images/coding-font-tobi-noaa-TP.png)
 ![Coding Font Tobi](images/coding-font-tobi-noaa-TPC.png)
@@ -117,7 +117,7 @@
 
 ### [Consola Mono](fonts/consola-mono)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/consola-mono/SIL%20-%20Open%20Font%20License.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/consola-mono/SIL%20-%20Open%20Font%20License.txt) ]
 
 ![Consola Mono](images/consola-mono-TP.png)
 ![Consola Mono](images/consola-mono-TPC.png)
@@ -126,7 +126,7 @@
 
 ### [Cousine](fonts/cousine)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/cousine/license.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/cousine/license.txt) ]
 
 ![Cousine](images/cousine-TP.png)
 ![Cousine](images/cousine-TPC.png)
@@ -135,7 +135,7 @@
 
 ### [CP Mono](fonts/cp-mono)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/cp-mono/CC_License.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/cp-mono/CC_License.txt) ]
 
 ![CP Mono](images/cp-mono-TP.png)
 ![CP Mono](images/cp-mono-TPC.png)
