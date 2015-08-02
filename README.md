@@ -88,6 +88,15 @@
 ![Camingo Code](images/camingo-code.png)
 
 
+### CMU Typewriter (fonts/cmu-typewriter)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/cmu-typewriter/license.txt) ]
+
+![CMU Typewriter](images/cmu-typewriter-TP.png)
+![CMU Typewriter](images/cmu-typewriter-TPC.png)
+![CMU Typewriter](images/cmu-typewriter.png)
+
+
 ### [Code New Roman](fonts/code-new-roman)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/code-new-roman/cnr-note.txt) ]
