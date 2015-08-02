@@ -88,7 +88,7 @@
 ![Camingo Code](images/camingo-code.png)
 
 
-### CMU Typewriter (fonts/cmu-typewriter)
+### [CMU Typewriter](fonts/cmu-typewriter)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/links/fonts/cmu-typewriter/license.txt) ]
 
