@@ -1,4 +1,4 @@
-![Bitstream Vera Sans Mono](images/codeface-header.png)
+<img src="images/codeface-HR-new.png" alt="Codeface | Typefaces for source code beautification" width="790">
 
 # Typefaces for source code beautification
 
