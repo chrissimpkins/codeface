@@ -2,7 +2,11 @@
 
 Codeface is a gallery and repository of monospaced fonts for developers.  Fonts displayed in the [main gallery](README.md) are distributed through this repository.  The font name link will open the respective font directory.  This directory includes the license associated with the font and the font binary (or binaries) that you can download by clicking on the binary name, then clicking on the `Raw` button in the upper right hand corner of the screen.
 
-If you would like to download all of the fonts in the repository you can use either of these approaches:
+If you would like to download all of the fonts in the repository you can use any of these approaches:
+
+#### Download Button
+
+Click on the download button on the main gallery README page and download the entire collection of font binaries in a ZIP archive file.
 
 #### Clone the Repository with Git
 
@@ -22,8 +26,8 @@ Fonts displayed in the [nondistrib gallery](NONDISTRIB.md) are free for desktop 
 
 ## Font Licensing
 
-I have made every effort to identify and include all licenses associated with the fonts that are distributed in this repository.  If you are the developer or copyright holder of any font and feel that it has an inappropriate license associated with it, please let me know and I will rectify this immediately.
+I have made every effort to identify and include all licenses associated with the fonts that are distributed in this repository.  These licenses are linked below the name of the font in the gallery.  If you are the developer or copyright holder of any font and feel that it has an inappropriate license associated with it, please let me know and I will rectify this immediately.
 
 ## Gallery Image Settings
 
-Gallery images were generated with code in the Sublime Text 3 editor (OS X version) using a font size of 14 and the `subpixel_antialias` font_options setting.  Bitmap fonts were generated without the `subpixel_antialias` setting at font-specific recommended sizes.
+Gallery images were generated with code in the Sublime Text 3 editor (OS X version) using a font size of 14 and the `subpixel_antialias` font_options setting.  Bitmap fonts were generated without the `subpixel_antialias` setting at font-specific recommended sizes (based upon review of the respective documentation).
