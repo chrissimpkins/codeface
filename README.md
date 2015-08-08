@@ -29,7 +29,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ## The Gallery
 
 
-### [Anonymous Pro](fonts/anonymous-pro)
+### ✪ [Anonymous Pro](fonts/anonymous-pro)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/anonymous-pro/license.txt) ]
 
@@ -38,7 +38,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Anonymous Pro](images/anonymous-pro.png)
 
 
-### [Aurulent Sans Mono](fonts/aurulent-sans-mono)
+### ✪ [Aurulent Sans Mono](fonts/aurulent-sans-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/aurulent-sans-mono/source.txt) ]
 
@@ -47,7 +47,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Aurulent Sans Mono](images/aurulent-sans-mono.png)
 
 
-### [Average Mono](fonts/average-mono)
+### ✪ [Average Mono](fonts/average-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/average-mono/license.txt) ]
 
@@ -56,7 +56,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Average Mono](images/average-mono.png)
 
 
-### [Bitstream Vera Sans Mono](fonts/bitstream-vera-sans-mono)
+### ✪ [Bitstream Vera Sans Mono](fonts/bitstream-vera-sans-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/bitstream-vera-sans-mono/COPYRIGHT.TXT) ]
 
@@ -65,7 +65,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Bitstream Vera Sans Mono](images/bitstreamverasansmono.png)
 
 
-### [BP Mono](fonts/bp-mono)
+### ✪ [BP Mono](fonts/bp-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/bp-mono/Creative%20Commons%20Attribution-No%20Derivative%20Works.txt) ]
 
@@ -74,7 +74,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![BP Mono](images/bp-mono.png)
 
 
-### [Bront](fonts/bront)
+### ✪ [Bront](fonts/bront)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/bront/LICENSE.txt) ]
 
@@ -83,7 +83,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Bront](images/bront.png)
 
 
-### [Camingo Code](fonts/camingo-code)
+### ✪ [Camingo Code](fonts/camingo-code)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/camingo-code/license.txt) ]
 
@@ -92,7 +92,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Camingo Code](images/camingo-code.png)
 
 
-### [CMU Typewriter](fonts/cmu-typewriter)
+### ✪ [CMU Typewriter](fonts/cmu-typewriter)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/cmu-typewriter/license.txt) ]
 
@@ -101,7 +101,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![CMU Typewriter](images/cmu-typewriter.png)
 
 
-### [Code New Roman](fonts/code-new-roman)
+### ✪ [Code New Roman](fonts/code-new-roman)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/code-new-roman/cnr-note.txt) ]
 
@@ -110,7 +110,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Code New Roman](images/code-new-roman.png)
 
 
-### [Coding Font Tobi](fonts/coding-font-tobi)
+### ✪ [Coding Font Tobi](fonts/coding-font-tobi)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/coding-font-tobi/Licence.txt) ]
 
@@ -119,7 +119,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Coding Font Tobi](images/coding-font-tobi-noaa.png)
 
 
-### [Consola Mono](fonts/consola-mono)
+### ✪ [Consola Mono](fonts/consola-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/consola-mono/SIL%20-%20Open%20Font%20License.txt) ]
 
@@ -128,7 +128,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Consola Mono](images/consola-mono.png)
 
 
-### [Cousine](fonts/cousine)
+### ✪ [Cousine](fonts/cousine)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/cousine/license.txt) ]
 
@@ -137,7 +137,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Cousine](images/cousine.png)
 
 
-### [CP Mono](fonts/cp-mono)
+### ✪ [CP Mono](fonts/cp-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/cp-mono/CC_License.txt) ]
 
@@ -146,7 +146,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![CP Mono](images/cp-mono.png)
 
 
-### [Crisp](fonts/crisp)
+### ✪ [Crisp](fonts/crisp)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/crisp/license.txt) ]
 
@@ -155,7 +155,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Crisp](images/crisp.png)
 
 
-### [Cutive Mono](fonts/cutive-mono)
+### ✪ [Cutive Mono](fonts/cutive-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/cutive-mono/OFL.txt) ]
 
@@ -164,7 +164,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Cutive Mono](images/cutive-mono.png)
 
 
-### [Dejavu Sans Mono](fonts/dejavu-sans-mono)
+### ✪ [Dejavu Sans Mono](fonts/dejavu-sans-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/dejavu-sans-mono/license.txt) ]
 
@@ -173,7 +173,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Dejavu Sans Mono](images/dejavu-sans-mono.png)
 
 
-### [Dina](fonts/dina)
+### ✪ [Dina](fonts/dina)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/dina/LICENSE) ]
 
@@ -182,7 +182,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Dina](images/dina.png)
 
 
-### [Droid Sans Mono](fonts/droid-sans-mono)
+### ✪ [Droid Sans Mono](fonts/droid-sans-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/droid-sans-mono/license.txt) ]
 
@@ -191,7 +191,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Droid Sans Mono](images/droid-sans-mono.png)
 
 
-### [Edlo](fonts/edlo)
+### ✪ [Edlo](fonts/edlo)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/edlo/license.txt) ]
 
@@ -200,7 +200,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Edlo](images/edlo.png)
 
 
-### [Fantasque Sans Mono](fonts/fantasque-sans-mono)
+### ✪ [Fantasque Sans Mono](fonts/fantasque-sans-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/fantasque-sans-mono/OFL.txt) ]
 
@@ -209,7 +209,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Fantasque Sans Mono](images/fantasque-sans-mono.png)
 
 
-### [Fira Mono](fonts/fira-mono)
+### ✪ [Fira Mono](fonts/fira-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/fira-mono/SIL%20Open%20Font%20License.txt) ]
 
@@ -218,7 +218,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Fira Mono](images/fira-mono.png)
 
 
-### [Fixedsys Excelsior](fonts/fixed-sys-excelsior)
+### ✪ [Fixedsys Excelsior](fonts/fixed-sys-excelsior)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/fixed-sys-excelsior/license.txt) ]
 
@@ -227,7 +227,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Fixedsys Excelsior](images/fixed-sys-excelsior.png)
 
 
-### [Free Mono](fonts/free-mono)
+### ✪ [Free Mono](fonts/free-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/free-mono/license.txt) ]
 
@@ -236,7 +236,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Free Mono](images/free-mono.png)
 
 
-### [Gohufont](fonts/gohufont)
+### ✪ [Gohufont](fonts/gohufont)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/gohufont/license.txt) ]
 
@@ -245,7 +245,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Gohufont](images/gohufont.png)
 
 
-### [Hack](fonts/hack)
+### ✪ [Hack](fonts/hack)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/hack/license.txt) ]
 
@@ -254,7 +254,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Hack](images/hack.png)
 
 
-### [Hasklig](fonts/hasklig)
+### ✪ [Hasklig](fonts/hasklig)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/hasklig/License.txt) ]
 
@@ -263,7 +263,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Hasklig](images/hasklig.png)
 
 
-### [Hermit](fonts/hermit)
+### ✪ [Hermit](fonts/hermit)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/hermit/license.txt) ]
 
@@ -272,7 +272,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Hermit](images/hermit.png)
 
 
-### [Inconsolata](fonts/inconsolata)
+### ✪ [Inconsolata](fonts/inconsolata)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/inconsolata/license.txt) ]
 
@@ -281,7 +281,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Inconsolata](images/inconsolata.png)
 
 
-### [Inconsolata-dz](fonts/inconsolata-dz)
+### ✪ [Inconsolata-dz](fonts/inconsolata-dz)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/inconsolata-dz/license.txt) ]
 
@@ -290,7 +290,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Inconsolata-dz](images/inconsolata-dz.png)
 
 
-### [Inconsolata-g](fonts/inconsolata-g)
+### ✪ [Inconsolata-g](fonts/inconsolata-g)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/inconsolata-g/license.txt) ]
 
@@ -299,7 +299,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Inconsolata-g](images/inconsolata-g.png)
 
 
-### [Inconsolata LGC](fonts/inconsolata-lgc)
+### ✪ [Inconsolata LGC](fonts/inconsolata-lgc)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/inconsolata-lgc/license.txt) ]
 
@@ -308,7 +308,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Inconsolata LGC](images/inconsolata-lgc.png)
 
 
-### [Latin Modern Mono Light](fonts/latin-modern-mono)
+### ✪ [Latin Modern Mono Light](fonts/latin-modern-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/latin-modern-mono/license.txt) ]
 
@@ -317,7 +317,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Latin Modern Mono Light](images/latin-modern-mono.png)
 
 
-### [Lekton](fonts/lekton)
+### ✪ [Lekton](fonts/lekton)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/lekton/SIL%20Open%20Font%20License.txt) ]
 
@@ -326,7 +326,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Lekton](images/lekton.png)
 
 
-### [Liberation Mono](fonts/liberation-mono)
+### ✪ [Liberation Mono](fonts/liberation-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/liberation-mono/License.txt) ]
 
@@ -335,7 +335,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Liberation Mono](images/liberation-mono.png)
 
 
-### [Linux Libertine Mono](fonts/linux-libertine-mono)
+### ✪ [Linux Libertine Mono](fonts/linux-libertine-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/linux-libertine-mono/license.txt) ]
 
@@ -344,7 +344,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Linux Libertine Mono](images/linux-libertine-mono.png)
 
 
-### [Luculent](fonts/luculent)
+### ✪ [Luculent](fonts/luculent)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/luculent/license.txt) ]
 
@@ -353,7 +353,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Luculent](images/luculent.png)
 
 
-### [Luxi Mono](fonts/luxi-mono)
+### ✪ [Luxi Mono](fonts/luxi-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/luxi-mono/Bigelow%20%26%20Holmes%20-%20Luxi%20License.txt) ]
 
@@ -362,7 +362,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Luxi Mono](images/luxi-mono.png)
 
 
-### [M+ 1m](fonts/mplus1m)
+### ✪ [M+ 1m](fonts/mplus1m)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mplus1m/M%2B%20Fonts%20License.txt) ]
 
@@ -371,7 +371,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![M+ 1m](images/mplus1m.png)
 
 
-### [M+ 1mn](fonts/mplus1mn)
+### ✪ [M+ 1mn](fonts/mplus1mn)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mplus1mn/M%2B%20Fonts%20License.txt) ]
 
@@ -380,7 +380,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![M+ 1m](images/mplus1mn.png)
 
 
-### [M+ 2m](fonts/mplus2m)
+### ✪ [M+ 2m](fonts/mplus2m)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mplus2m/LICENSE_E.txt) ]
 
@@ -389,7 +389,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![M+ 2m](images/mplus2m.png)
 
 
-### [Mensch](fonts/mensch)
+### ✪ [Mensch](fonts/mensch)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mensch/License.txt) ]
 
@@ -398,7 +398,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Mensch](images/mensch.png)
 
 
-### [Meslo](fonts/meslo)
+### ✪ [Meslo](fonts/meslo)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/meslo/license.txt) ]
 
@@ -407,7 +407,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Meslo](images/meslo.png)
 
 
-### [Metrickal](fonts/metrickal)
+### ✪ [Metrickal](fonts/metrickal)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/metrickal/License.txt) ]
 
@@ -416,7 +416,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Metrickal](images/metrickal.png)
 
 
-### [Monofur](fonts/monofur)
+### ✪ [Monofur](fonts/monofur)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monofur/monof_tt.txt) ]
 
@@ -425,7 +425,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Monofur](images/monofur.png)
 
 
-### [Monoid](fonts/monoid)
+### ✪ [Monoid](fonts/monoid)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monoid/license.txt) ]
 
@@ -434,7 +434,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Monoid](images/monoid.png)
 
 
-### [monoOne](fonts/mono-one)
+### ✪ [monoOne](fonts/mono-one)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mono-one/license.txt) ]
 
@@ -443,7 +443,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![monoOne](images/mono-one.png)
 
 
-### [Monospace](fonts/monospace)
+### ✪ [Monospace](fonts/monospace)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monospace/OFL.txt) ]
 
@@ -452,7 +452,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Monospace](images/monospace.png)
 
 
-### [Monospace Typewriter](fonts/monospace-typewriter)
+### ✪ [Monospace Typewriter](fonts/monospace-typewriter)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monospace-typewriter/license.txt) ]
 
@@ -461,7 +461,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Monospace Typewriter](images/monospace-typewriter.png)
 
 
-### [Mono Spatial](fonts/mono-spatial)
+### ✪ [Mono Spatial](fonts/mono-spatial)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/mono-spatial/source.txt) ]
 
@@ -470,7 +470,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Mono Spatial](images/mono-spatial.png)
 
 
-### [Monte Carlo](fonts/monte-carlo)
+### ✪ [Monte Carlo](fonts/monte-carlo)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monte-carlo/license.txt) ]
 
@@ -479,7 +479,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Monte Carlo](images/monte-carlo.png)
 
 
-### [Nanum Gothic Coding](fonts/nanum-gothic-coding)
+### ✪ [Nanum Gothic Coding](fonts/nanum-gothic-coding)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/nanum-gothic-coding/license.txt) ]
 
@@ -488,7 +488,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Nanum Gothic Coding](images/nanum-gothic-coding.png)
 
 
-### [Not Courier Sans](fonts/not-courier-sans)
+### ✪ [Not Courier Sans](fonts/not-courier-sans)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/not-courier-sans/license.txt) ]
 
@@ -497,7 +497,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Not Courier Sans](images/not-courier-sans.png)
 
 
-### [Office Code Pro](fonts/office-code-pro)
+### ✪ [Office Code Pro](fonts/office-code-pro)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/office-code-pro/LICENSE.txt) ]
 
@@ -506,7 +506,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Office Code Pro](images/office-code-pro.png)
 
 
-### [Oxygen Mono](fonts/oxygen-mono)
+### ✪ [Oxygen Mono](fonts/oxygen-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/oxygen-mono/SIL%20Open%20Font%20License.txt) ]
 
@@ -515,7 +515,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Oxygen Mono](images/oxygen-mono.png)
 
 
-### [Panic Sans Mono](fonts/panic-sans-mono)
+### ✪ [Panic Sans Mono](fonts/panic-sans-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/panic-sans-mono/license.txt) ]
 
@@ -524,7 +524,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Panic Sans Mono](images/panic-sans-mono.png)
 
 
-### [PixelCarnage Mono](fonts/pixel-carnage)
+### ✪ [PixelCarnage Mono](fonts/pixel-carnage)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/pixel-carnage/license.txt) ]
 
@@ -533,7 +533,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![PixelCarnage Mono](images/pixel-carnage-noaa.png)
 
 
-### [ProFontWindows](fonts/pro-font-windows)
+### ✪ [ProFontWindows](fonts/pro-font-windows)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/pro-font-windows/license.txt) ]
 
@@ -542,7 +542,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Pro Font Windows](images/pro-font-windows.png)
 
 
-### [Proggy Clean](fonts/proggy-clean)
+### ✪ [Proggy Clean](fonts/proggy-clean)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-clean/Licence.txt) ]
 
@@ -551,7 +551,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Proggy Clean](images/proggy-clean-noaa.png)
 
 
-### [Proggy Small](fonts/proggy-small)
+### ✪ [Proggy Small](fonts/proggy-small)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-small/Licence.txt) ]
 
@@ -560,7 +560,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Proggy Small](images/proggy-small-noaa.png)
 
 
-### [Proggy Square](fonts/proggy-square)
+### ✪ [Proggy Square](fonts/proggy-square)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-square/Licence.txt) ]
 
@@ -569,7 +569,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Proggy Square](images/proggy-square-noaa.png)
 
 
-### [Proggy Tiny](fonts/proggy-tiny)
+### ✪ [Proggy Tiny](fonts/proggy-tiny)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-tiny/Licence.txt) ]
 
@@ -578,7 +578,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Proggy Tiny](images/proggy-tiny-noaa.png)
 
 
-### [PT Mono](fonts/pt-mono)
+### ✪ [PT Mono](fonts/pt-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/pt-mono/license.txt) ]
 
@@ -587,7 +587,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![PT Mono](images/pt-mono.png)
 
 
-### [Roboto Mono](fonts/roboto-mono)
+### ✪ [Roboto Mono](fonts/roboto-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/roboto-mono/LICENSE.txt) ]
 
@@ -596,7 +596,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Roboto Mono](images/roboto-mono.png)
 
 
-### [sax Mono](fonts/sax-mono)
+### ✪ [sax Mono](fonts/sax-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/sax-mono/license.txt) ]
 
@@ -605,7 +605,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![sax Mono](images/sax-mono.png)
 
 
-### [Share-TechMonoTrue](fonts/share-tech-mono)
+### ✪ [Share-TechMonoTrue](fonts/share-tech-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/share-tech-mono/license.txt) ]
 
@@ -614,7 +614,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Share Tech Mono](images/share-tech-mono.png)
 
 
-### [Small Type Writing](fonts/small-type-writing)
+### ✪ [Small Type Writing](fonts/small-type-writing)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/small-type-writing/license.txt) ]
 
@@ -623,7 +623,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Small Type Writing](images/small-type-writing.png)
 
 
-### [Source Code Pro](fonts/source-code-pro)
+### ✪ [Source Code Pro](fonts/source-code-pro)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/source-code-pro/SIL%20Open%20Font%20License.txt) ]
 
@@ -632,7 +632,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Source Code Pro](images/source-code-pro.png)
 
 
-### [Sudo](fonts/sudo)
+### ✪ [Sudo](fonts/sudo)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/sudo/license.txt) ]
 
@@ -641,7 +641,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Sudo](images/sudo.png)
 
 
-### [SV Basic Manual](fonts/sv-basic-manual)
+### ✪ [SV Basic Manual](fonts/sv-basic-manual)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/sv-basic-manual/source.txt) ]
 
@@ -650,7 +650,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![SV Basic Manual](images/sv-basic-manual.png)
 
 
-### [Terminus](fonts/terminus)
+### ✪ [Terminus](fonts/terminus)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/terminus/license.txt) ]
 
@@ -659,7 +659,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Terminus](images/terminus.png)
 
 
-### [TeX Gyre Cursor](fonts/tex-gyre-cursor)
+### ✪ [TeX Gyre Cursor](fonts/tex-gyre-cursor)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/tex-gyre-cursor/GUST%20e-foundry%20License.txt) ]
 
@@ -668,7 +668,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![TeX Gyre Cursor](images/tex-gyre-cursor.png)
 
 
-### [Ubuntu Mono](fonts/ubuntu-mono)
+### ✪ [Ubuntu Mono](fonts/ubuntu-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/ubuntu-mono/UBUNTU%20FONT%20LICENCE.txt) ]
 
@@ -677,7 +677,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Ubuntu Mono](images/ubuntu-mono.png)
 
 
-### [Verily Serif Mono](fonts/verily-serif-mono)
+### ✪ [Verily Serif Mono](fonts/verily-serif-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/verily-serif-mono/Verily%20Serif%20Mono%20%28Stephen%20G.%20Hartke%29.txt) ]
 
@@ -686,7 +686,7 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Verily Serif Mono](images/verily-serif-mono.png)
 
 
-### [Whois Mono](fonts/whois-mono)
+### ✪ [Whois Mono](fonts/whois-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/whois-mono/License.txt) ]
 
