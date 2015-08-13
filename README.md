@@ -23,7 +23,7 @@
 
 <a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="images/download-button-new.png" style="margin-left: 100px" alt="Download All Fonts" width="125"></a>
 
-All font binaries in the Codeface collection (29.4MB ZIP archive)
+All font binaries in the Codeface collection (29.9MB ZIP archive)
 
 
 ## The Gallery
@@ -306,6 +306,15 @@ All font binaries in the Codeface collection (29.4MB ZIP archive)
 ![Inconsolata LGC](images/inconsolata-lgc-TP.png)
 ![Inconsolata LGC](images/inconsolata-lgc-TPC.png)
 ![Inconsolata LGC](images/inconsolata-lgc.png)
+
+
+### [Iosevka](fonts/iosevka)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/iosevka/license.txt) ]
+
+![Iosevka](images/iosevka-TP.png)
+![Iosevka](images/iosevka-TPC.png)
+![Iosevka](images/iosevka.png)
 
 
 ### [Latin Modern Mono Light](fonts/latin-modern-mono)
