@@ -13,6 +13,7 @@
 * Anon ([@efermi](https://github.com/efermi)) - Wide Stroke
 * Anon ([@evuez](https://github.com/evuez)) - Majuscules
 * Anon ([@Snack-X](https://github.com/Snack-X)) - Baseline
+* Anon ([@wizawu](https://github.com/wizawu)) - Long Arm
 
 
 ## Thanks for the Comments, Critique, Criticism, and Cake!
