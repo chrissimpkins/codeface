@@ -130,6 +130,15 @@ SHA1: `6aa3416f15a8c0aae4eaeeec2a1dd22a9c5b1bf9`
 ![Consola Mono](images/consola-mono.png)
 
 
+### [Courier Prime Code](fonts/courierprime-code)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/courierprime-code/LICENSE.txt) ]
+
+![Courier Prime Code](images/courierprime-code-TP.png)
+![Courier Prime Code](images/courierprime-code-TPC.png)
+![Courier Prime Code](images/courierprime-code.png)
+
+
 ### [Cousine](fonts/cousine)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/cousine/license.txt) ]
