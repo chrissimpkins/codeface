@@ -4,6 +4,7 @@
 * Raphaël Bastide ([@raphaelbastide](https://github.com/raphaelbastide)) - The Half Uncial (developer of [Whois Mono font](https://github.com/raphaelbastide/Whois-mono))
 * Matt Brzezinski ([@mattBrzezinski](https://github.com/mattBrzezinski)) - My Own Worst Diacritic
 * Tom Byrer ([@tomByrer](https://github.com/tomByrer)) - Big Bowls
+* Peter Czibik ([@peteyy](https://github.com/peteyy)) - Bottom Bracket
 * Andrew Kensler ([@a-e-k](https://github.com/a-e-k)) - Justified (developer of [Luculent font](http://eastfarthing.com/luculent/))
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face (developer of [Monoid font](http://larsenwork.com/monoid/))
 * Frederik Ring ([@m90](https://github.com/m90)) - Wide Shoulder
