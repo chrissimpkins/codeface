@@ -545,7 +545,7 @@ SHA1: `6aa3416f15a8c0aae4eaeeec2a1dd22a9c5b1bf9`
 
 
 ### [Pointfree](fonts/pointfree)
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/pointfree/License.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/pointfree/LICENSE.txt) ]
 
 ![Pointfree](images/pointfree-TP.png)
 ![Pointfree](images/pointfree-TPC.png)
