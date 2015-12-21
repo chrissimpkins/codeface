@@ -220,6 +220,15 @@ SHA1: `045b74fd893c3f29b64addcaf0636ae89e3a79cd`
 ![Fantasque Sans Mono](images/fantasque-sans-mono.png)
 
 
+### [Fira Code](fonts/fira-code)
+
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/fira-code/license.txt) ]
+
+![Fira Mono](images/fira-code-TP.png)
+![Fira Mono](images/fira-code-TPC.png)
+![Fira Mono](images/fira-code.png)
+
+
 ### [Fira Mono](fonts/fira-mono)
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/fira-mono/SIL%20Open%20Font%20License.txt) ]
