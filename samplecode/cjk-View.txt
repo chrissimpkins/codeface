@@ -1,0 +1,34 @@
+
+/*******************************************************
+    既存のファイルを開くためのスクリプト
+
+    作成者：折原　大
+    作成日：2014/05/17
+*******************************************************/
+
+// アプリケーション名とバージョン情報を取得します。
+var message = "Welcome to " + app.name;
+message += " version " + app.version + "\n\n";
+// アプリがインストールされているフォルダーを取得します。
+// "fsName" を使うと、Win/Mac それぞれに適した形でファイルパスを表示できます。
+message += "I’m installed in " + app.path.fsName + "\n\n";
+// 利用可能なメモリー量を取得します。
+message += "You have this much memory available : " + app.freeMemory + "\n\n";
+
+// 関数 alert を使って、メッセージダイアログを表示させます。
+alert(message);
+
+if (app.documents.length == 0) {
+    // 開いているドキュメントが1つもないので、ここではサンプルとして
+    // デスクトップ > ESTK > Testfiles > ESTK_sample_1.psd を開きます。
+    var sampleDocToOpen = File(Folder.desktop + "/Testfiles/ESTK_sample_1.psd")
+    open(sampleDocToOpen)
+}
+else{
+    // 開いているファイルの数をメッセージダイアログに表示させます。
+    message = "You currently have " + documentsOpen + " document(s) open.\n\n";
+    alert(message);
+}
+
+
+
