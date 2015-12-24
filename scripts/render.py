@@ -13,10 +13,10 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 # Plain text specimen
-#   python render.py -t ../samplecode/test-pattern.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Anonymous Pro 16" -p 20
+#   python render.py -t ../samplecode/test-pattern.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Hack 14" -p 20
 
 # Plain text compact specimen
-#   python render.py -t ../samplecode/compact.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Anonymous Pro 16" -p 20
+#   python render.py -t ../samplecode/compact.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Hack 14" -p 20
 
 # Dark syntax highlighter
 #   python render.py -t ../samplecode/samplecode.c --lang c --style native -x 2175 -i test.png -f "Hack 14" -p 20 -b "#202020ff"
