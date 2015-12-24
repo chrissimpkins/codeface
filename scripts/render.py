@@ -1,4 +1,4 @@
-# Copyright (c) 2015  Andrew Kensler
+# Copyright (c) 2015  Andrew Kensler with modifications by Chris Simpkins
 #
 # Permission to use, copy, modify, and/or distribute this software for any
 # purpose with or without fee is hereby granted, provided that the above
@@ -13,7 +13,7 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 
-# python render.py -t samplecode/test-pattern.txt -l text -x 725 -b "\#ddddddff" -i test.png -f "Anonymous Pro 16"
+# python render.py -t samplecode/test-pattern.txt -l text -x 1450 -b "#ddddddff" -i test.png -f "Anonymous Pro 16"
 
 import argparse
 import codecs
@@ -24,6 +24,8 @@ import re
 import cairo
 import pango
 import pangocairo
+
+RESOLUTION = 216
 
 # Basic argument parsing
 
@@ -89,7 +91,7 @@ mode = { "grey" : -1,
          "bilevel" : cairo.ANTIALIAS_NONE,
          "subpixel" : cairo.ANTIALIAS_SUBPIXEL
        }[ args.mode ]
-pangocairo.cairo_font_map_get_default().set_resolution( 72 )
+pangocairo.cairo_font_map_get_default().set_resolution( RESOLUTION )
 surface = cairo.ImageSurface( cairo.FORMAT_ARGB32, 0, 0 )
 context = pangocairo.CairoContext( cairo.Context( surface ) )
 layout = context.create_layout()
