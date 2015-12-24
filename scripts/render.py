@@ -1,4 +1,4 @@
-# Copyright (c) 2015  Andrew Kensler with modifications by Chris Simpkins
+# Copyright (c) 2015  Andrew Kensler, modifications Copyright 2015 Christopher Simpkins
 #
 # Permission to use, copy, modify, and/or distribute this software for any
 # purpose with or without fee is hereby granted, provided that the above
@@ -12,8 +12,17 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
+# Plain text specimen
+#   python render.py -t ../samplecode/test-pattern.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Anonymous Pro 16" -p 20
 
-# python render.py -t samplecode/test-pattern.txt -l text -x 1450 -b "#ddddddff" -i test.png -f "Anonymous Pro 16"
+# Plain text compact specimen
+#   python render.py -t ../samplecode/compact.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Anonymous Pro 16" -p 20
+
+# Dark syntax highlighter
+#   python render.py -t ../samplecode/samplecode.c --lang c --style native -x 2175 -i test.png -f "Hack 14" -p 20 -b "#202020ff"
+
+# Light syntax highlighter
+#   python render.py -t ../samplecode/samplecode.c --lang c --style borland -x 2175 -i test.png -f "Hack 14" -p 20
 
 import argparse
 import codecs
