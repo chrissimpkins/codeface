@@ -24,6 +24,10 @@
 # Light syntax highlighter
 #   python render.py -t ../samplecode/samplecode.c --lang c --style borland -x 2175 -i test.png -f "Hack 14" -p 20
 
+
+# CJK Example
+#   python render.py -t ../samplecode/cjk-specimen.txt -l text -x 2175 -b "#fcfdffff" -i cjktest.png -f "Source Han Code JP 14" -p 20
+
 import argparse
 import codecs
 import pygments
@@ -109,18 +113,30 @@ options.set_antialias( mode )
 pangocairo.context_set_font_options( layout.get_context(), options )
 layout.set_font_description( pango.FontDescription( args.font ) )
 layout.set_markup( text )
+
 width = max( layout.get_pixel_size()[ 0 ] + args.pad * 2, args.width )
 height = max( layout.get_pixel_size()[ 1 ] + args.pad * 2, args.height )
+
+
 
 # Second pass, render actual image and save it.
 
 surface = cairo.ImageSurface( cairo.FORMAT_ARGB32, width, height )
 context = pangocairo.CairoContext( cairo.Context( surface ) )
 layout = context.create_layout()
+
+# Disable use of fallback font for missing glyphs (want to display what is missing)
+attr = pango.AttrList()
+fallback = pango.AttrFallback(False)
+attr.insert(fallback)
+layout.set_attributes(attr)
+
 options = cairo.FontOptions()
 options.set_antialias( mode )
 pangocairo.context_set_font_options( layout.get_context(), options )
 layout.set_font_description( pango.FontDescription( args.font ) )
+
+# define the markup text
 layout.set_markup( text )
 context.set_source_rgba(
     int( args.background[ 1 : 3 ], 16 ) / 255.0,
