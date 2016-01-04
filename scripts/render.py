@@ -19,14 +19,16 @@
 #   python render.py -t ../samplecode/compact.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Hack 14" -p 20
 
 # Dark syntax highlighter
-#   python render.py -t ../samplecode/samplecode.c --lang c --style native -x 2175 -i test.png -f "Hack 14" -p 20 -b "#202020ff"
+#   python render_highlight.py -t ../samplecode/samplecode.c --lang c --style native -x 2175 -i test.png -f "Hack 14" -p 20 -b "#202020ff"
 
 # Light syntax highlighter
-#   python render.py -t ../samplecode/samplecode.c --lang c --style borland -x 2175 -i test.png -f "Hack 14" -p 20
-
+#   python render_highlight.py -t ../samplecode/samplecode.c --lang c --style borland -x 2175 -i test.png -f "Hack 14" -p 20
 
 # CJK Example
 #   python render.py -t ../samplecode/cjk-specimen.txt -l text -x 2175 -b "#fcfdffff" -i cjktest.png -f "Source Han Code JP 14" -p 20
+
+# CJK Source Example
+#   python render.py -t ../samplecode/cjk-View.txt -l javascript --style borland -x 2175 -i cjksource.png -f "Source Han Code JP 14" -p 20
 
 import argparse
 import codecs
@@ -113,7 +115,6 @@ options.set_antialias( mode )
 pangocairo.context_set_font_options( layout.get_context(), options )
 layout.set_font_description( pango.FontDescription( args.font ) )
 layout.set_markup( text )
-
 width = max( layout.get_pixel_size()[ 0 ] + args.pad * 2, args.width )
 height = max( layout.get_pixel_size()[ 1 ] + args.pad * 2, args.height )
 
@@ -137,6 +138,7 @@ layout.set_font_description( pango.FontDescription( args.font ) )
 
 # define the markup text
 layout.set_markup( text )
+layout.set_attributes(attrs)
 context.set_source_rgba(
     int( args.background[ 1 : 3 ], 16 ) / 255.0,
     int( args.background[ 3 : 5 ], 16 ) / 255.0,
@@ -146,7 +148,6 @@ context.rectangle( 0, 0, width, height )
 context.fill()
 context.set_source_rgb( 0, 0, 0 )
 context.translate( args.pad, args.pad )
-layout.set_attributes(attrs)
 context.update_layout( layout )
 context.show_layout( layout )
 with open( args.image, "wb" ) as result:
