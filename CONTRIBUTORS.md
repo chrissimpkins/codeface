@@ -10,7 +10,7 @@
 * Mark Kastner ([@mkasu](https://github.com/mkasu)) - Curvacious Bezier
 * Andrew Kensler ([@a-e-k](https://github.com/a-e-k)) - Justified (developer of [Luculent font](http://eastfarthing.com/luculent/))
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face (developer of [Monoid font](http://larsenwork.com/monoid/))
-* Ken Lunde ([@kenlunde](https://github.com/kenlunde)) - The Boustrophedon (author of [CJK Type blog](http://blogs.adobe.com/CCJKType/))
+* Ken Lunde ([@kenlunde](https://github.com/kenlunde)) - The Boustrophedon (Adobe CJKV type guru, author of [CJK Type blog](http://blogs.adobe.com/CCJKType/))
 * Frederik Ring ([@m90](https://github.com/m90)) - Wide Shoulder
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
 * Chris Wendt ([@chrismwendt](https://github.com/chrismwendt)) - Em-n-Em (developer of [Bront font](https://github.com/chrismwendt/bront))
