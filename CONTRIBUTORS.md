@@ -5,8 +5,12 @@
 * Matt Brzezinski ([@mattBrzezinski](https://github.com/mattBrzezinski)) - My Own Worst Diacritic
 * Tom Byrer ([@tomByrer](https://github.com/tomByrer)) - Big Bowls
 * Peter Czibik ([@peteyy](https://github.com/peteyy)) - Bottom Bracket
+* Masataka Hattori ([@hatchzo](https://github.com/hatchzo)) - High Contrast (contributor to [Source Han Code JP font](https://github.com/adobe-fonts/source-han-code-jp))
+* Belleve Invis ([@be5invis](https://github.com/be5invis)) - Arc of the Stem (developer of [Iosevka font](https://github.com/be5invis/Iosevka))
+* Mark Kastner ([@mkasu](https://github.com/mkasu)) - Curvacious Bezier
 * Andrew Kensler ([@a-e-k](https://github.com/a-e-k)) - Justified (developer of [Luculent font](http://eastfarthing.com/luculent/))
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face (developer of [Monoid font](http://larsenwork.com/monoid/))
+* Ken Lunde ([@kenlunde](https://github.com/kenlunde)) - The Boustrophedon (author of [CJK Type blog](http://blogs.adobe.com/CCJKType/))
 * Frederik Ring ([@m90](https://github.com/m90)) - Wide Shoulder
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
 * Chris Wendt ([@chrismwendt](https://github.com/chrismwendt)) - Em-n-Em (developer of [Bront font](https://github.com/chrismwendt/bront))
@@ -26,6 +30,7 @@
 * Devon Parsons ([@devonparsons](https://github.com/devonparsons))
 * Kiran Rao ([@curioustechizen](https://github.com/curioustechizen))
 * Scott Squires ([@squires](https://github.com/squires))
+* Kevin Suttle ([@kevinSuttle](https://github.com/kevinSuttle))
 * Téo M ([@teogeos](https://github.com/teogeos))
 * Anon ([@dvvh](https://github.com/dvhh))
 * Anon ([@mbaz](https://github.com/mbaz))
