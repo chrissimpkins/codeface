@@ -5,7 +5,17 @@
 
 ### M+ 1m
 
-<img src="/images/cjk/m-plus-1m.png" alt="Nanum Gothic Coding" width="725">
+<img src="/images/cjk/m-plus-1m.png" alt="M+ 1m" width="725">
+
+
+### M+ 1mn
+
+<img src="/images/cjk/m-plus-1mn.png" alt="M+ 1mn" width="725">
+
+
+### M+ 2m
+
+<img src="/images/cjk/m-plus-2m.png" alt="M+ 2m" width="725">
 
 
 ### Nanum Gothic Coding
