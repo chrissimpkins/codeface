@@ -12,13 +12,13 @@ color_comment = '#ff8000'
 color_neutral = '#888'
 
 class MinimalLight(Style):
-    default_style = ""
+    default_style = "bg:#"+color_bg+" "+color_fg
     styles = {
 
         Text:                       color_fg,
-        # Whitespace:
-        # Error:
-        # Other:
+        Whitespace:                 color_fg,
+        Error:                      color_constant,
+        Other:                      color_fg,
 
         Keyword:                    color_code,
         Keyword.Constant:           'bold '+color_constant,
@@ -26,7 +26,7 @@ class MinimalLight(Style):
         Keyword.Namespace:          'bold '+color_code,
         Keyword.Pseudo:             'bold '+color_constant,
         Keyword.Reserved:           'bold '+color_code,
-        Keyword.Type:               'nobold '+color_code,
+        Keyword.Type:               'bold '+color_constant,
 
         Name:                       color_code,
         # Name.Attribute: (inherit from Name)
@@ -74,7 +74,8 @@ class MinimalLight(Style):
         Operator:                   color_fg,
         Operator.Word:              color_code,
 
-        # Punctuation: (want to make it semi-transparent, but isn't an option)
+        # (want to make it semi-transparent, but isn't an option)
+        Punctuation:                color_fg,
 
         Comment:                    'italic '+color_comment,
         # Comment.Multiline: (inherit from Comment)
@@ -82,7 +83,7 @@ class MinimalLight(Style):
         # Comment.Single: (inherit from Comment)
         # Comment.Special: (inherit from Comment)
 
-        # Generic:
+        Generic:                    color_fg,
         Generic.Deleted:            color_constant,
         Generic.Emph:               'bold',
         Generic.Error:              color_constant,
