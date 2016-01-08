@@ -1,5 +1,5 @@
 from pygments.style import Style
-from pygments.token import Text, Literal, Keyword, Name, Comment, String, Error, Number, Operator, Generic
+from pygments.token import Text, Whitespace, Literal, Keyword, Name, Comment, String, Error, Number, Operator, Generic, Other, Punctuation
 
 color_bg = '#fff'
 color_fg = '#000'
