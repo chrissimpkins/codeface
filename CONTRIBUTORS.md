@@ -5,7 +5,7 @@
 * Matt Brzezinski ([@mattBrzezinski](https://github.com/mattBrzezinski)) - My Own Worst Diacritic
 * Tom Byrer ([@tomByrer](https://github.com/tomByrer)) - Big Bowls
 * Peter Czibik ([@peteyy](https://github.com/peteyy)) - Bottom Bracket
-* Masataka Hattori ([@hatchzo](https://github.com/hatchzo)) - High Contrast (contributor to [Source Han Code JP font](https://github.com/adobe-fonts/source-han-code-jp))
+* Masataka Hattori ([@hatchzo](https://github.com/hatchzo)) - High Contrast (developer of [Source Han Code JP font](https://github.com/adobe-fonts/source-han-code-jp))
 * Belleve Invis ([@be5invis](https://github.com/be5invis)) - Arc of the Stem (developer of [Iosevka font](https://github.com/be5invis/Iosevka))
 * Mark Kastner ([@mkasu](https://github.com/mkasu)) - Curvacious Bezier
 * Andrew Kensler ([@a-e-k](https://github.com/a-e-k)) - Justified (developer of [Luculent font](http://eastfarthing.com/luculent/))
