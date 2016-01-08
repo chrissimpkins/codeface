@@ -1,5 +1,5 @@
 from pygments.style import Style
-from pygments.tokens import Text, Literal, Keyword, Name, Comment, String, Error, Number, Operator, Generic
+from pygments.token import Text, Literal, Keyword, Name, Comment, String, Error, Number, Operator, Generic
 
 color_bg = '#33333f'
 color_fg = '#ccc'
@@ -11,7 +11,7 @@ color_highlight = '#fd0'
 color_comment = '#888'
 color_neutral = '#888'
 
-class MinimalLight(Style):
+class MinimalDark(Style):
     default_style = ""
     styles = {
 
