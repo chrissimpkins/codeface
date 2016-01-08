@@ -8,19 +8,19 @@
 <img src="/images/cjk/d2-coding.png" alt="D2 Coding" width="725">
 
 
-### Iosevka Inziu J
+### Inziu Iosevka J
 
-<img src="/images/cjk/iosevka-inziu-J.png" alt="Iosevka Inziu J" width="725">
-
-
-### Iosevka Inziu SC
-
-<img src="/images/cjk/iosevka-inziu-SC.png" alt="Iosevka Inziu SC" width="725">
+<img src="/images/cjk/inziu-iosevka-J.png" alt="Iosevka Inziu J" width="725">
 
 
-### Iosevka Inziu TC
+### Inziu Iosevka SC
 
-<img src="/images/cjk/iosevka-inziu-TC.png" alt="Iosevka Inziu TC" width="725">
+<img src="/images/cjk/inziu-iosevka-SC.png" alt="Iosevka Inziu SC" width="725">
+
+
+### Inziu Iosevka TC
+
+<img src="/images/cjk/inziu-iosevka-TC.png" alt="Iosevka Inziu TC" width="725">
 
 
 ### M+ 1m
