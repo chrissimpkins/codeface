@@ -8,47 +8,46 @@
 <img src="/images/cjk/d2-coding.png" alt="D2 Coding" width="725">
 
 
-
-### Inziu Iosevka CL
+### [Inziu Iosevka CL](cjk-fonts/inziu-iosevka-CL)
 
 <img src="/images/cjk/inziu-iosevka-CL.png" alt="Iosevka Inziu CL" width="725">
 
 
-### Inziu Iosevka J
+### [Inziu Iosevka J](cjk-fonts/inziu-iosevka-J)
 
 <img src="/images/cjk/inziu-iosevka-J.png" alt="Iosevka Inziu J" width="725">
 
 
-### Inziu Iosevka SC
+### [Inziu Iosevka SC](cjk-fonts/inziu-iosevka-SC)
 
 <img src="/images/cjk/inziu-iosevka-SC.png" alt="Iosevka Inziu SC" width="725">
 
 
-### Inziu Iosevka TC
+### [Inziu Iosevka TC](cjk-fonts/inziu-iosevka-TC)
 
 <img src="/images/cjk/inziu-iosevka-TC.png" alt="Iosevka Inziu TC" width="725">
 
 
-### M+ 1m
+### [M+ 1m](cjk-fonts/mplus1m)
 
 <img src="/images/cjk/m-plus-1m.png" alt="M+ 1m" width="725">
 
 
-### M+ 1mn
+### [M+ 1mn](cjk-fonts/mplus1mn)
 
 <img src="/images/cjk/m-plus-1mn.png" alt="M+ 1mn" width="725">
 
 
-### M+ 2m
+### [M+ 2m](cjk-fonts/mplus2m)
 
 <img src="/images/cjk/m-plus-2m.png" alt="M+ 2m" width="725">
 
 
-### Nanum Gothic Coding
+### [Nanum Gothic Coding](cjk-fonts/nanum-gothic-coding)
 
 <img src="/images/cjk/nanum-gothic-coding.png" alt="Nanum Gothic Coding" width="725">
 
 
-### Source Han Code JP
+### [Source Han Code JP](cjk-fonts/source-han-code-JP)
 
 <img src="/images/cjk/source-han-code-JP.png" alt="Source Han Code JP" width="725">
