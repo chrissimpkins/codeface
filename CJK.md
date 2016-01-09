@@ -8,6 +8,12 @@
 <img src="/images/cjk/d2-coding.png" alt="D2 Coding" width="725">
 
 
+
+### Inziu Iosevka CL
+
+<img src="/images/cjk/inziu-iosevka-CL.png" alt="Iosevka Inziu CL" width="725">
+
+
 ### Inziu Iosevka J
 
 <img src="/images/cjk/inziu-iosevka-J.png" alt="Iosevka Inziu J" width="725">
