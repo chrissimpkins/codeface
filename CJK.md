@@ -63,5 +63,7 @@
 <img src="/images/cjk/source-han-sans-HWK.png" alt="Source Han Sans HWK" width="725">
 
 
+### [Source Han Sans HWSC](cjk-fonts/source-han-sans-HWSC)
 
+<img src="/images/cjk/source-han-sans-HWSC.png" alt="Source Han Sans HWSC" width="725">
 
