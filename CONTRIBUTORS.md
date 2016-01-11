@@ -8,7 +8,7 @@
 * David van Gemeren ([@burodepeper](https://github.com/burodepeper)) - Leonardo da Glyphi (developer of [Hack font](https://github.com/chrissimpkins/Hack))
 * Masataka Hattori ([@hatchzo](https://github.com/hatchzo)) - High Contrast (developer of [Source Han Code JP font](https://github.com/adobe-fonts/source-han-code-jp))
 * Belleve Invis ([@be5invis](https://github.com/be5invis)) - Arc of the Stem (developer of [Iosevka font](https://github.com/be5invis/Iosevka))
-* Mark Kastner ([@mkasu](https://github.com/mkasu)) - Curvacious Bezier
+* Marc Kastner ([@mkasu](https://github.com/mkasu)) - Curvacious Bezier
 * Andrew Kensler ([@a-e-k](https://github.com/a-e-k)) - Justified (developer of [Luculent font](http://eastfarthing.com/luculent/))
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face (developer of [Monoid font](http://larsenwork.com/monoid/))
 * Ken Lunde ([@kenlunde](https://github.com/kenlunde)) - The Boustrophedon (developer of [Source Han Sans](https://github.com/adobe-fonts/source-han-sans/))
