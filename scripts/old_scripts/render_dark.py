@@ -25,6 +25,8 @@ import cairo
 import pango
 import pangocairo
 
+from styles.minimal_dark import MinimalDark
+
 RESOLUTION = 216
 
 # Basic argument parsing
@@ -66,7 +68,7 @@ lexer = pygments.lexers.get_lexer_by_name( args.lang )
 formatter = pygments.formatters.HtmlFormatter(
     noclasses = True,
     nowrap = True,
-    style = args.style )
+    style = MinimalDark )
 text = pygments.highlight( text, lexer, formatter )
 text = re.sub( "style=\"color: (#[0-9A-Fa-f]{6})(?:; )?",
                "foreground=\"\\1\" style=\"", text )

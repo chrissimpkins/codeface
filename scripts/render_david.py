@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # Copyright (c) 2015  Andrew Kensler, modifications Copyright 2015 Christopher Simpkins
 #
 # Permission to use, copy, modify, and/or distribute this software for any
@@ -14,15 +17,16 @@
 
 import argparse
 import codecs
-# import pygments
-# import pygments.lexers
-# import pygments.formatters
 import re
 import cairo
 import pango
 import pangocairo
 
-# from styles.minimal_light import MinimalLight
+from styles.colors import dark as dark_color_key
+from styles.colors import light as light_color_key
+from specimens.sourcecode import c_specimen
+from utilities.ink import Template, Renderer
+
 
 RESOLUTION = 216
 
@@ -56,26 +60,12 @@ parser.add_argument( "-y", "--height", default = 0, type = int,
                      help = "minimum height of image to generate" )
 args = parser.parse_args()
 
+## Parse tags in code specimen template and replace with appropriate definitions
+specimen_template = Template(c_specimen)
+specimen_renderer = Renderer(specimen_template, light_color_key)
+text = specimen_renderer.render()
 
-
-
-# Get the style
-from styles.styles import dark
-style = dark
-
-# Read text from 'styles/sample.html'
-# TODO use the text argument
-with codecs.open('styles/sample.html', encoding='utf-8') as source:
-    text = source.read()
-
-# Swap all placeholders in `text` for the value from `style`
-for key, value in style:
-    placeholder = '{'+key+'}'
-    text = re.sub(placeholder, value, text)
-
-
-
-
+# Substitute Pango markup formatting
 text = re.sub( "style=\"color: (#[0-9A-Fa-f]{6})(?:; )?",
                "foreground=\"\\1\" style=\"", text )
 if args.regular:

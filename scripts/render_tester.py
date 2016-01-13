@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # Copyright (c) 2015  Andrew Kensler, modifications Copyright 2015 Christopher Simpkins
 #
 # Permission to use, copy, modify, and/or distribute this software for any
@@ -14,15 +17,16 @@
 
 import argparse
 import codecs
-import pygments
-import pygments.lexers
-import pygments.formatters
 import re
-import cairo
-import pango
-import pangocairo
+# import cairo
+# import pango
+# import pangocairo
 
-from styles.minimal_dark import MinimalDark
+from styles.colors import dark as dark_color_key
+from styles.colors import light as light_color_key
+from specimens.sourcecode import c_specimen
+from utilities.ink import Template, Renderer
+
 
 RESOLUTION = 216
 
@@ -33,10 +37,10 @@ parser = argparse.ArgumentParser(
     formatter_class = argparse.ArgumentDefaultsHelpFormatter )
 parser.add_argument( "-t", "--text", default = "sample.txt",
                      help = "name of sample text to render" )
-parser.add_argument( "-l", "--lang", default = "text",
-                     help = "Pygments language to interpret sample as" )
-parser.add_argument( "-s", "--style", default = "borland",
-                     help = "Pygments style to render sample in" )
+# parser.add_argument( "-l", "--lang", default = "text",
+#                      help = "Pygments language to interpret sample as" )
+# parser.add_argument( "-s", "--style", default = "borland",
+#                      help = "Pygments style to render sample in" )
 parser.add_argument( "-r", "--regular", action="store_true",
                      help = "regular only, ignore bold and italic in style" )
 parser.add_argument( "-i", "--image", default = "sample.png",
@@ -56,17 +60,12 @@ parser.add_argument( "-y", "--height", default = 0, type = int,
                      help = "minimum height of image to generate" )
 args = parser.parse_args()
 
-# Read sample text in (may be utf-8) and optionally syntax highlight it
-# with Pygments.  The markup will be adapted for Pango.
+## Parse tags in code specimen template and replace with appropriate definitions
+specimen_template = Template(c_specimen)
+specimen_renderer = Renderer(specimen_template, light_color_key)
+text = specimen_renderer.render()
 
-with codecs.open( args.text, encoding = "utf-8" ) as source:
-    text = source.read().strip( "\n" )
-lexer = pygments.lexers.get_lexer_by_name( args.lang )
-formatter = pygments.formatters.HtmlFormatter(
-    noclasses = True,
-    nowrap = True,
-    style = MinimalDark )
-text = pygments.highlight( text, lexer, formatter )
+# Substitute Pango markup formatting
 text = re.sub( "style=\"color: (#[0-9A-Fa-f]{6})(?:; )?",
                "foreground=\"\\1\" style=\"", text )
 if args.regular:
@@ -84,44 +83,48 @@ text = re.sub( "style=\"background-color: (#[0-9A-Fa-f]{6})(?:; )?",
 text = re.sub( "style=\"\"", "", text )
 text = text.strip()
 
-# First pass, find image size to hold the text.
 
-mode = { "grey" : -1,
-         "bilevel" : cairo.ANTIALIAS_NONE,
-         "subpixel" : cairo.ANTIALIAS_SUBPIXEL
-       }[ args.mode ]
-pangocairo.cairo_font_map_get_default().set_resolution( RESOLUTION )
-surface = cairo.ImageSurface( cairo.FORMAT_ARGB32, 0, 0 )
-context = pangocairo.CairoContext( cairo.Context( surface ) )
-layout = context.create_layout()
-options = cairo.FontOptions()
-options.set_antialias( mode )
-pangocairo.context_set_font_options( layout.get_context(), options )
-layout.set_font_description( pango.FontDescription( args.font ) )
-layout.set_markup( text )
-width = max( layout.get_pixel_size()[ 0 ] + args.pad * 2, args.width )
-height = max( layout.get_pixel_size()[ 1 ] + args.pad * 2, args.height )
+# Print the markup to standard output
+print(text)
 
-# Second pass, render actual image and save it.
+# # First pass, find image size to hold the text.
 
-surface = cairo.ImageSurface( cairo.FORMAT_ARGB32, width, height )
-context = pangocairo.CairoContext( cairo.Context( surface ) )
-layout = context.create_layout()
-options = cairo.FontOptions()
-options.set_antialias( mode )
-pangocairo.context_set_font_options( layout.get_context(), options )
-layout.set_font_description( pango.FontDescription( args.font ) )
-layout.set_markup( text )
-context.set_source_rgba(
-    int( args.background[ 1 : 3 ], 16 ) / 255.0,
-    int( args.background[ 3 : 5 ], 16 ) / 255.0,
-    int( args.background[ 5 : 7 ], 16 ) / 255.0,
-    int( args.background[ 7 : 9 ], 16 ) / 255.0 )
-context.rectangle( 0, 0, width, height )
-context.fill()
-context.set_source_rgb( 0, 0, 0 )
-context.translate( args.pad, args.pad )
-context.update_layout( layout )
-context.show_layout( layout )
-with open( args.image, "wb" ) as result:
-    surface.write_to_png( result )
+# mode = { "grey" : -1,
+#          "bilevel" : cairo.ANTIALIAS_NONE,
+#          "subpixel" : cairo.ANTIALIAS_SUBPIXEL
+#        }[ args.mode ]
+# pangocairo.cairo_font_map_get_default().set_resolution( RESOLUTION )
+# surface = cairo.ImageSurface( cairo.FORMAT_ARGB32, 0, 0 )
+# context = pangocairo.CairoContext( cairo.Context( surface ) )
+# layout = context.create_layout()
+# options = cairo.FontOptions()
+# options.set_antialias( mode )
+# pangocairo.context_set_font_options( layout.get_context(), options )
+# layout.set_font_description( pango.FontDescription( args.font ) )
+# layout.set_markup( text )
+# width = max( layout.get_pixel_size()[ 0 ] + args.pad * 2, args.width )
+# height = max( layout.get_pixel_size()[ 1 ] + args.pad * 2, args.height )
+
+# # Second pass, render actual image and save it.
+
+# surface = cairo.ImageSurface( cairo.FORMAT_ARGB32, width, height )
+# context = pangocairo.CairoContext( cairo.Context( surface ) )
+# layout = context.create_layout()
+# options = cairo.FontOptions()
+# options.set_antialias( mode )
+# pangocairo.context_set_font_options( layout.get_context(), options )
+# layout.set_font_description( pango.FontDescription( args.font ) )
+# layout.set_markup( text )
+# context.set_source_rgba(
+#     int( args.background[ 1 : 3 ], 16 ) / 255.0,
+#     int( args.background[ 3 : 5 ], 16 ) / 255.0,
+#     int( args.background[ 5 : 7 ], 16 ) / 255.0,
+#     int( args.background[ 7 : 9 ], 16 ) / 255.0 )
+# context.rectangle( 0, 0, width, height )
+# context.fill()
+# context.set_source_rgb( 0, 0, 0 )
+# context.translate( args.pad, args.pad )
+# context.update_layout( layout )
+# context.show_layout( layout )
+# with open( args.image, "wb" ) as result:
+#     surface.write_to_png( result )
