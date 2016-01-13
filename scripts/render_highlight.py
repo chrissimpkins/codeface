@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # Copyright (c) 2015  Andrew Kensler, modifications Copyright 2015 Christopher Simpkins
 #
 # Permission to use, copy, modify, and/or distribute this software for any
