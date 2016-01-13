@@ -1,3 +1,5 @@
+
+# light syntax highlighter
 light = {
     bg:         '#ffffff',
     fg:         '#000000',
@@ -10,6 +12,8 @@ light = {
     neutral:    '#888888'
 }
 
+
+# dark syntax highlighter
 dark = {
     bg:         '#33333f',
     fg:         '#cccccc',
