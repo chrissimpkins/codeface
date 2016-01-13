@@ -48,6 +48,11 @@
 <img src="/images/cjk/migu-1m.png" alt="Migu 1m" width="725">
 
 
+### [Migu 2m](cjk-fonts/migu2m)
+
+<img src="/images/cjk/migu-2m.png" alt="Migu 2m" width="725">
+
+
 ### [Nanum Gothic Coding](cjk-fonts/nanum-gothic-coding)
 
 <img src="/images/cjk/nanum-gothic-coding.png" alt="Nanum Gothic Coding" width="725">
