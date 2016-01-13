@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 c_specimen="""
 <span style="color: {{comment}}; font-style: italic">// sample code from commit.c of the Git repository (https://github.com/git)</span>
 
