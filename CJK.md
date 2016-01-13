@@ -43,6 +43,11 @@
 <img src="/images/cjk/m-plus-2m.png" alt="M+ 2m" width="725">
 
 
+### [MigMix 1m](cjk-fonts/migmix-1m)
+
+<img src="/images/cjk/migmix-1m.png" alt="MigMix 1m" width="725">
+
+
 ### [Migu 1m](cjk-fonts/migu1m)
 
 <img src="/images/cjk/migu-1m.png" alt="Migu 1m" width="725">
