@@ -67,6 +67,7 @@
 
 ### [Migu 2m](cjk-fonts/migu2m)
 
+<img src="/images/cjk/confusedchar-migu-2m.png" alt="Migu 2m" width="725">
 <img src="/images/cjk/migu-2m.png" alt="Migu 2m" width="725">
 
 
