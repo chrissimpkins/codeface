@@ -61,6 +61,7 @@
 
 ### [Migu 1m](cjk-fonts/migu1m)
 
+<img src="/images/cjk/confusedchar-migu-1m.png" alt="Migu 1m" width="725">
 <img src="/images/cjk/migu-1m.png" alt="Migu 1m" width="725">
 
 
