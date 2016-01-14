@@ -78,6 +78,7 @@
 
 ### [Ricty Diminished](cjk-fonts/ricty-diminished)
 
+<img src="/images/cjk/confusedchar-ricty-diminished.png" alt="Ricty Diminished" width="725">
 <img src="/images/cjk/ricty-diminished.png" alt="Ricty Diminished" width="725">
 
 
