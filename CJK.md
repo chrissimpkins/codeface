@@ -37,6 +37,7 @@
 
 ### [M+ 1mn](cjk-fonts/mplus1mn)
 
+<img src="/images/cjk/confusedchar-m-plus-1mn.png" alt="M+ 1mn" width="725">
 <img src="/images/cjk/m-plus-1mn.png" alt="M+ 1mn" width="725">
 
 
