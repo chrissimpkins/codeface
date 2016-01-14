@@ -55,6 +55,7 @@
 
 ### [MigMix 2m](cjk-fonts/migmix-2m)
 
+<img src="/images/cjk/confusedchar-migmix-2m.png" alt="MigMix 2m" width="725">
 <img src="/images/cjk/migmix-2m.png" alt="MigMix 2m" width="725">
 
 
