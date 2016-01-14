@@ -15,7 +15,8 @@
 
 ### [Inziu Iosevka J](cjk-fonts/inziu-iosevka-J)
 
-<img src="/images/cjk/inziu-iosevka-J.png" alt="Iosevka Inziu J" width="725">
+<img src="/images/cjk/confusedchar-inziu-iosevka-J.png" alt="Inziu Iosevka J" width="725">
+<img src="/images/cjk/inziu-iosevka-J.png" alt="Inziu Iosevka J" width="725">
 
 
 ### [Inziu Iosevka SC](cjk-fonts/inziu-iosevka-SC)
