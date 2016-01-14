@@ -49,6 +49,7 @@
 
 ### [MigMix 1m](cjk-fonts/migmix-1m)
 
+<img src="/images/cjk/confusedchar-migmix-1m.png" alt="MigMix 1m" width="725">
 <img src="/images/cjk/migmix-1m.png" alt="MigMix 1m" width="725">
 
 
