@@ -30,6 +30,7 @@
 # CJK Source Example
 #   python render.py -t ../samplecode/cjk-View.txt -l javascript --style borland -x 2175 -i cjksource.png -f "Source Han Code JP 14" -p 20
 
+import sys
 import argparse
 import codecs
 import pygments
@@ -100,6 +101,9 @@ text = re.sub( "style=\"background-color: (#[0-9A-Fa-f]{6})(?:; )?",
 text = re.sub( "style=\"\"", "", text )
 text = text.strip()
 
+print(text)
+sys.exit(0)
+
 # First pass, find image size to hold the text.
 
 mode = { "grey" : -1,
@@ -117,7 +121,6 @@ layout.set_font_description( pango.FontDescription( args.font ) )
 layout.set_markup( text )
 width = max( layout.get_pixel_size()[ 0 ] + args.pad * 2, args.width )
 height = max( layout.get_pixel_size()[ 1 ] + args.pad * 2, args.height )
-
 
 
 # Second pass, render actual image and save it.
