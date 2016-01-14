@@ -43,6 +43,7 @@
 
 ### [M+ 2m](cjk-fonts/mplus2m)
 
+<img src="/images/cjk/confusedchar-m-plus-2m.png" alt="M+ 2m" width="725">
 <img src="/images/cjk/m-plus-2m.png" alt="M+ 2m" width="725">
 
 
