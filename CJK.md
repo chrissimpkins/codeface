@@ -84,6 +84,7 @@
 
 ### [Source Han Code JP](cjk-fonts/source-han-code-JP)
 
+<img src="/images/cjk/confusedchar-source-han-code-JP.png" alt="Source Han Code JP" width="725">
 <img src="/images/cjk/source-han-code-JP.png" alt="Source Han Code JP" width="725">
 
 
