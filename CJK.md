@@ -11,6 +11,7 @@
 
 ### [Inziu Iosevka CL](cjk-fonts/inziu-iosevka-CL)
 
+<img src="/images/cjk/confusedchar-inziu-iosevka-CL.png" alt="Iosevka Inziu CL" width="725">
 <img src="/images/cjk/inziu-iosevka-CL.png" alt="Iosevka Inziu CL" width="725">
 
 
