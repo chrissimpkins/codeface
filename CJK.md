@@ -111,5 +111,6 @@
 
 ### [Source Han Sans HWTC](cjk-fonts/source-han-sans-HWTC)
 
+<img src="/images/cjk/confusedchar-source-han-sans-hwtc.png" alt="Source Han Sans HWTC" width="725">
 <img src="/images/cjk/source-han-sans-HWTC.png" alt="Source Han Sans HWTC" width="725">
 
