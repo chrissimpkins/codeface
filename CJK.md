@@ -107,6 +107,7 @@
 
 ### [Source Han Sans HWSC](cjk-fonts/source-han-sans-HWSC)
 
+<img src="/images/cjk/confusedchar-source-han-sans-hwsc.png" alt="Source Han Sans HWSC" width="725">
 <img src="/images/cjk/source-han-sans-HWSC.png" alt="Source Han Sans HWSC" width="725">
 
 
