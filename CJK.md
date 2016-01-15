@@ -74,6 +74,7 @@
 
 ### [Nanum Gothic Coding](cjk-fonts/nanum-gothic-coding)
 
+<img src="/images/cjk/confusedchar-nanum-gothic-coding.png" alt="Nanum Gothic Coding" width="725">
 <img src="/images/cjk/nanum-gothic-coding.png" alt="Nanum Gothic Coding" width="725">
 
 
