@@ -28,6 +28,7 @@
 
 ### [Inziu Iosevka TC](cjk-fonts/inziu-iosevka-TC)
 
+<img src="/images/cjk/confusedchar-inziu-iosevka-TC.png" alt="Iosevka Inziu TC" width="725">
 <img src="/images/cjk/inziu-iosevka-TC.png" alt="Iosevka Inziu TC" width="725">
 
 
