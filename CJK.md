@@ -97,6 +97,7 @@
 
 ### [Source Han Sans HWK](cjk-fonts/source-han-sans-HWK)
 
+<img src="/images/cjk/confusedchar-source-han-sans-hwk.png" alt="Source Han Sans HWK" width="725">
 <img src="/images/cjk/source-han-sans-HWK.png" alt="Source Han Sans HWK" width="725">
 
 
