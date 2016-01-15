@@ -5,6 +5,7 @@
 
 ### [D2 Coding](cjk-fonts/d2-coding)
 
+<img src="/images/cjk/confusedchar-d2-coding.png" alt="D2 Coding" width="725">
 <img src="/images/cjk/d2-coding.png" alt="D2 Coding" width="725">
 
 
