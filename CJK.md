@@ -23,6 +23,7 @@
 
 ### [Inziu Iosevka SC](cjk-fonts/inziu-iosevka-SC)
 
+<img src="/images/cjk/confusedchar-inziu-iosevka-SC.png" alt="Iosevka Inziu SC" width="725">
 <img src="/images/cjk/inziu-iosevka-SC.png" alt="Iosevka Inziu SC" width="725">
 
 
