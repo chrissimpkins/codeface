@@ -15,6 +15,7 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
+import sys
 import argparse
 import codecs
 import pygments
@@ -68,6 +69,7 @@ formatter = pygments.formatters.HtmlFormatter(
     nowrap = True,
     style = args.style )
 text = pygments.highlight( text, lexer, formatter )
+
 text = re.sub( "style=\"color: (#[0-9A-Fa-f]{6})(?:; )?",
                "foreground=\"\\1\" style=\"", text )
 if args.regular:
