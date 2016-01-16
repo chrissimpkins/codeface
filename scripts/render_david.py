@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Copyright (c) 2015  Andrew Kensler, modifications Copyright 2015 Christopher Simpkins
+# Copyright (c) 2015  Andrew Kensler, modifications Copyright 2015 Christopher Simpkins and David van Gemeren
 #
 # Permission to use, copy, modify, and/or distribute this software for any
 # purpose with or without fee is hereby granted, provided that the above
@@ -15,6 +15,8 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
+# python render_david.py -t ../samplecode/samplecode.c -x 2175 -i test.png -f "Hack 14" -p 20 --style light
+
 import argparse
 import codecs
 import re
@@ -22,7 +24,7 @@ import cairo
 import pango
 import pangocairo
 
-from styles.colors import styles
+from styles.colors import SyntaxHighlighter
 from specimens.sourcecode import c_specimen
 from utilities.ink import Template, Renderer
 
@@ -57,7 +59,14 @@ parser.add_argument( "-s", "--style", default = "light",
 args = parser.parse_args()
 
 # Set style_keys via the 'style' argument
-style_keys = styles[args.style]
+syntax_highlighter = SyntaxHighlighter()
+if args.style == 'light':
+  style_keys = syntax_highlighter.light
+elif args.style == 'dark':
+  style_keys = syntax_highlighter.dark
+else:
+  sys.stderr.write("ERROR: Please include 'light' or 'dark' as the argument to the style option in your command")
+  sys.exit(1)
 
 # Parse tags in code specimen template and replace with appropriate definitions
 specimen_template = Template(c_specimen)
@@ -111,7 +120,7 @@ layout.set_markup( text )
 
 # Set background_color to value defined by the chosen style.
 # The alpha-channel for the background defaults to 100%
-background_color = style_keys.bg
+background_color = style_keys['bg']
 context.set_source_rgba(
     int( background_color[ 1 : 3 ], 16 ) / 255.0,
     int( background_color[ 3 : 5 ], 16 ) / 255.0,
