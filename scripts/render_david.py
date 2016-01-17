@@ -17,8 +17,8 @@
 
 # python render_david.py -t ../samplecode/samplecode.c -x 2175 -i test.png -f "Hack 14" -p 20 --style light
 
+import sys
 import argparse
-import codecs
 import re
 import cairo
 import pango
@@ -61,12 +61,12 @@ args = parser.parse_args()
 # Set style_keys via the 'style' argument
 syntax_highlighter = SyntaxHighlighter()
 if args.style == 'light':
-  style_keys = syntax_highlighter.light
+    style_keys = syntax_highlighter.light
 elif args.style == 'dark':
-  style_keys = syntax_highlighter.dark
+    style_keys = syntax_highlighter.dark
 else:
-  sys.stderr.write("ERROR: Please include 'light' or 'dark' as the argument to the style option in your command")
-  sys.exit(1)
+    sys.stderr.write("ERROR: Please include 'light' or 'dark' as the argument to the style option in your command")
+    sys.exit(1)
 
 # Parse tags in code specimen template and replace with appropriate definitions
 specimen_template = Template(c_specimen)
