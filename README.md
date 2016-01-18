@@ -331,7 +331,7 @@ SHA1: `eeae7ee1bc21c7b98d88ef8e39feb12ff92aaf0a`
 
 ### [Iosevka](fonts/iosevka)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/iosevka/license.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/iosevka/license.txt) ] [ [Home](https://be5invis.github.io/Iosevka/) ] [ [Repo](https://github.com/be5invis/Iosevka) ] v0.1.2
 
 <img src="images/iosevka-TP.png" width="725">
 <img src="images/iosevka-TPC.png" width="725">
