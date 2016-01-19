@@ -1,0 +1,9 @@
+abcdefghijklmnopqrstuvwxyz  12345
+ABCDEFGHIJKLMNOPQRSTUVWXYZ  67890
+
+{}[]()<>$*-+=/#_%^@\&|~?'"`!,.;:
+
+the quick brown fox jumps over the lazy dog
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+
+float Fox.quick(h){ is_brown && it_jumps_over(doges.lazy) }
