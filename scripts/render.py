@@ -106,9 +106,6 @@ text = re.sub( "style=\"background-color: (#[0-9A-Fa-f]{6})(?:; )?",
 text = re.sub( "style=\"\"", "", text )
 text = text.strip()
 
-print(text)
-sys.exit(0)
-
 # First pass, find image size to hold the text.
 
 mode = { "grey" : -1,
