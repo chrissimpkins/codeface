@@ -16,25 +16,17 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 # Plain text specimen
-#   python render.py -t ../samplecode/test-pattern.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Hack 14" -p 20
+#   python render.py -t specimens/test-pattern.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Hack 14" -p 20
 
 # Plain text compact specimen
-#   python render.py -t ../samplecode/compact.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Hack 14" -p 20
-
-# Dark syntax highlighter
-#   python render_highlight.py -t ../samplecode/samplecode.c --lang c --style native -x 2175 -i test.png -f "Hack 14" -p 20 -b "#202020ff"
-
-# Light syntax highlighter
-#   python render_highlight.py -t ../samplecode/samplecode.c --lang c --style borland -x 2175 -i test.png -f "Hack 14" -p 20
+#   python render.py -t specimens/test-pattern-compact.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Hack 14" -p 20
 
 # CJK Example
-#   python render.py -t ../samplecode/cjk-specimen.txt -l text -x 2175 -b "#fcfdffff" -i cjktest.png -f "Source Han Code JP 14" -p 20
+#   python render.py -t specimens/cjk-specimen.txt -l text -x 2175 -b "#fcfdffff" -i cjktest.png -f "Source Han Code JP 14" -p 20
 
 # CJK Source Example
-#   python render.py -t ../samplecode/cjk-View.txt -l javascript --style borland -x 2175 -i cjksource.png -f "Source Han Code JP 14" -p 20
+#   python render.py -t specimens/cjk-View.txt -l javascript --style borland -x 2175 -i cjksource.png -f "Source Han Code JP 14" -p 20
 
-# Minimal Light Render
-#   python render_dark.py -t ../samplecode/samplecode.c --lang c -x 2175 -i test.png -f "Hack 14" -p 20
 
 import argparse
 import codecs
