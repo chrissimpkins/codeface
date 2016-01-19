@@ -17,10 +17,10 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 # Render dark on light
-#    python render_highlight.py -t ../samplecode/samplecode.c -x 2175 -i test.png -f "Hack 14" -p 20 --style light
+#    python render_highlight.py -t specimen/samplecode.c -x 2175 -i ../images/hack-light.png -f "Hack 14" -p 20 --style light
 
 # Render light on dark
-#    python render_highlight.py -t ../samplecode/samplecode.c -x 2175 -i test.png -f "Hack 14" -p 20 --style dark
+#    python render_highlight.py -t specimen/samplecode.c -x 2175 -i ../images/hack-dark.png -f "Hack 14" -p 20 --style dark
 
 import sys
 import argparse

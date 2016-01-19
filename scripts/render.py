@@ -16,10 +16,10 @@
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 # Plain text specimen
-#   python render.py -t specimens/test-pattern.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Hack 14" -p 20
+#   python render.py -t specimens/test-pattern.txt -l text -x 2175 -b "#fcfdffff" -i ../images/hack-STP.png -f "Hack 14" -p 20
 
 # Plain text compact specimen
-#   python render.py -t specimens/test-pattern-compact.txt -l text -x 2175 -b "#fcfdffff" -i test.png -f "Hack 14" -p 20
+#   python render.py -t specimens/test-pattern-compact.txt -l text -x 2175 -b "#fcfdffff" -i ../images/hack-STPC.png -f "Hack 14" -p 20
 
 # CJK Example
 #   python render.py -t specimens/cjk-specimen.txt -l text -x 2175 -b "#fcfdffff" -i cjktest.png -f "Source Han Code JP 14" -p 20
