@@ -36,9 +36,10 @@ SHA1: `d2e6b2dbf0b749f095c5f02e82ac06e5553ca22c`
 
 [ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/anonymous-pro/license.txt) ]
 
-<img src="images/anonymous-pro-TP.png" width="725">
-<img src="images/anonymous-pro-TPC.png" width="725">
-<img src="images/anonymous-pro.png" width="725">
+<img src="images/anonymous-pro-STP.png" width="725">
+<img src="images/anonymous-pro-STPC.png" width="725">
+<img src="images/anonymous-pro-dark.png" width="725">
+<img src="images/anonymous-pro-light.png" width="725">
 
 
 ### [Aurulent Sans Mono](fonts/aurulent-sans-mono)
