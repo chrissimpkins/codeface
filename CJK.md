@@ -18,9 +18,10 @@ This gallery contains typefaces that include traditional Chinese, simplified Chi
 
 All font binaries in the Codeface CJK gallery collection. 
 
-[codeface-cjk-fonts.zip](https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.zip) SHA1: `36f4ae90234c80e52c7f137ccd83164e5ec6a2e6` (436 MB)
-
-[codeface-cjk-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.tar.xz) SHA1: `bc1af8fd9da45ccc9940f945aca51836d37b5f2c` (175 MB)
+| Archive  | SHA1  | Size |
+| :------------: |:---------------:| :-----:|
+| [codeface-cjk-fonts.zip](https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.zip) | `36f4ae90234c80e52c7f137ccd83164e5ec6a2e6` | 436 MB
+| [codeface-cjk-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.tar.xz) | `bc1af8fd9da45ccc9940f945aca51836d37b5f2c`  | 175 MB
 
 
 
