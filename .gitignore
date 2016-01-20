@@ -1,5 +1,6 @@
 # Scribus autosave files
 *.sla.gz.autosave
 
-# local archives directory
-scripts/archives
+# local archives
+scripts/archives/*.tar.xz
+scripts/archives/*.zip
