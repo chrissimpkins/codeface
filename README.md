@@ -20,13 +20,15 @@
 [Link](https://www.reddit.com/r/programming/comments/39wz4l/hey_reddit_developers_what_is_your_favorite_text/cs86fnu)
 
 
-## Download Font ZIP Archive
+## Download Font Archive
 
 <a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="images/download-button-new.png" style="margin-left: 100px" alt="Download All Fonts" width="125"></a>
 
-All font binaries in the Codeface main gallery collection (27.9 MB compressed ZIP archive)
+All font binaries in the Codeface main gallery collection
 
-SHA1: `d2e6b2dbf0b749f095c5f02e82ac06e5553ca22c`
+[codeface-fonts.zip](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip) SHA1: `d2e6b2dbf0b749f095c5f02e82ac06e5553ca22c` (27.9 MB)
+
+[codeface-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz) SHA1: `789eb0342dd8ba3835ef015ec55964161a795e0a` (14.8 MB)
 
 
 ## The Gallery
