@@ -12,6 +12,20 @@ This gallery contains typefaces that include traditional Chinese, simplified Chi
 - zh-CN: simplified Chinese character sets
 - zh-TW: traditional Chinese character sets
 
+### Download CJK Font Archive
+
+<a href="https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.zip"><img src="images/download-button-new.png" style="margin-left: 100px" alt="Download All CJK Fonts" width="125"></a>
+
+All font binaries in the Codeface main gallery collection. 
+
+[codeface-cjk-fonts.zip](https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.zip) SHA1: `36f4ae90234c80e52c7f137ccd83164e5ec6a2e6` (456 MB)
+
+[codeface-cjk-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.tar.xz) SHA1: `bc1af8fd9da45ccc9940f945aca51836d37b5f2c` (175 MB)
+
+
+
+
+
 ## Gallery
 
 ### [D2 Coding](cjk-fonts/d2-coding)
