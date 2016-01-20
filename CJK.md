@@ -3,6 +3,17 @@
 
 ## Typefaces for Source Code Beautification [![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
 
+This gallery contains typefaces that include traditional Chinese, simplified Chinese, Japanese, and/or Korean character sets.  The first specimen image for each typeface includes examples of ASCII characters with a line that includes glyphs from the Chinese, Japanese, or Korean sets that are included in the typeface.  The second specimen image displays the included CJK character set(s) in black under a line of red numerals so that you can examine shapes of the CJK glyphs as well as their width relative to the glyphs in the ASCII set.  CJK sets that are not supported in the typeface are shown in light grey.  
+
+### Label Definitions
+
+- ja-JP : Japanese character sets
+- ko-KR: Korean character sets
+- zh-CN: simplified Chinese character sets
+- zh-TW: traditional Chinese character sets
+
+## Gallery
+
 ### [D2 Coding](cjk-fonts/d2-coding)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/d2-coding/license.txt) ]
