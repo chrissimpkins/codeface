@@ -42,16 +42,16 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/cjk-font-coll
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/d2-coding/license.txt) ]
 
-<img src="/images/cjk/confusedchar-d2-coding.png" alt="D2 Coding" width="725">
-<img src="/images/cjk/d2-coding.png" alt="D2 Coding" width="725">
+<img src="/images/gallery/cjk/confusedchar-d2-coding.png" alt="D2 Coding" width="725">
+<img src="/images/gallery/cjk/d2-coding.png" alt="D2 Coding" width="725">
 
 
 ### [Inziu Iosevka CL](cjk-fonts/inziu-iosevka-CL)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/inziu-iosevka-CL/license.txt) ]
 
-<img src="/images/cjk/confusedchar-inziu-iosevka-CL.png" alt="Iosevka Inziu CL" width="725">
-<img src="/images/cjk/inziu-iosevka-CL.png" alt="Iosevka Inziu CL" width="725">
+<img src="/images/gallery/cjk/confusedchar-inziu-iosevka-CL.png" alt="Iosevka Inziu CL" width="725">
+<img src="/images/gallery/cjk/inziu-iosevka-CL.png" alt="Iosevka Inziu CL" width="725">
 
 
 ### [Inziu Iosevka J](cjk-fonts/inziu-iosevka-J)
@@ -59,134 +59,134 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/cjk-font-coll
 [ [License, SIL OFL](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/inziu-iosevka-J/license.txt) ]
 [ [License, M+](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/inziu-iosevka-J/M%2B%20Fonts%20License.txt) ]
 
-<img src="/images/cjk/confusedchar-inziu-iosevka-J.png" alt="Inziu Iosevka J" width="725">
-<img src="/images/cjk/inziu-iosevka-J.png" alt="Inziu Iosevka J" width="725">
+<img src="/images/gallery/cjk/confusedchar-inziu-iosevka-J.png" alt="Inziu Iosevka J" width="725">
+<img src="/images/gallery/cjk/inziu-iosevka-J.png" alt="Inziu Iosevka J" width="725">
 
 
 ### [Inziu Iosevka SC](cjk-fonts/inziu-iosevka-SC)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/inziu-iosevka-SC/license.txt) ]
 
-<img src="/images/cjk/confusedchar-inziu-iosevka-SC.png" alt="Iosevka Inziu SC" width="725">
-<img src="/images/cjk/inziu-iosevka-SC.png" alt="Iosevka Inziu SC" width="725">
+<img src="/images/gallery/cjk/confusedchar-inziu-iosevka-SC.png" alt="Iosevka Inziu SC" width="725">
+<img src="/images/gallery/cjk/inziu-iosevka-SC.png" alt="Iosevka Inziu SC" width="725">
 
 
 ### [Inziu Iosevka TC](cjk-fonts/inziu-iosevka-TC)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/inziu-iosevka-TC/license.txt) ]
 
-<img src="/images/cjk/confusedchar-inziu-iosevka-TC.png" alt="Iosevka Inziu TC" width="725">
-<img src="/images/cjk/inziu-iosevka-TC.png" alt="Iosevka Inziu TC" width="725">
+<img src="/images/gallery/cjk/confusedchar-inziu-iosevka-TC.png" alt="Iosevka Inziu TC" width="725">
+<img src="/images/gallery/cjk/inziu-iosevka-TC.png" alt="Iosevka Inziu TC" width="725">
 
 
 ### [M+ 1m](cjk-fonts/mplus1m)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/mplus1m/M%2B%20Fonts%20License.txt) ]
 
-<img src="/images/cjk/confusedchar-m-plus-1m.png" alt="M+ 1m" width="725">
-<img src="/images/cjk/m-plus-1m.png" alt="M+ 1m" width="725">
+<img src="/images/gallery/cjk/confusedchar-m-plus-1m.png" alt="M+ 1m" width="725">
+<img src="/images/gallery/cjk/m-plus-1m.png" alt="M+ 1m" width="725">
 
 
 ### [M+ 1mn](cjk-fonts/mplus1mn)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/mplus1mn/M%2B%20Fonts%20License.txt) ]
 
-<img src="/images/cjk/confusedchar-m-plus-1mn.png" alt="M+ 1mn" width="725">
-<img src="/images/cjk/m-plus-1mn.png" alt="M+ 1mn" width="725">
+<img src="/images/gallery/cjk/confusedchar-m-plus-1mn.png" alt="M+ 1mn" width="725">
+<img src="/images/gallery/cjk/m-plus-1mn.png" alt="M+ 1mn" width="725">
 
 
 ### [M+ 2m](cjk-fonts/mplus2m)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/mplus2m/M%2B%20Fonts%20License.txt) ]
 
-<img src="/images/cjk/confusedchar-m-plus-2m.png" alt="M+ 2m" width="725">
-<img src="/images/cjk/m-plus-2m.png" alt="M+ 2m" width="725">
+<img src="/images/gallery/cjk/confusedchar-m-plus-2m.png" alt="M+ 2m" width="725">
+<img src="/images/gallery/cjk/m-plus-2m.png" alt="M+ 2m" width="725">
 
 
 ### [MigMix 1m](cjk-fonts/migmix-1m)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/migmix-1m/IPA_Font_License_Agreement_v1.0.txt) ]
 
-<img src="/images/cjk/confusedchar-migmix-1m.png" alt="MigMix 1m" width="725">
-<img src="/images/cjk/migmix-1m.png" alt="MigMix 1m" width="725">
+<img src="/images/gallery/cjk/confusedchar-migmix-1m.png" alt="MigMix 1m" width="725">
+<img src="/images/gallery/cjk/migmix-1m.png" alt="MigMix 1m" width="725">
 
 
 ### [MigMix 2m](cjk-fonts/migmix-2m)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/migmix-2m/IPA_Font_License_Agreement_v1.0.txt) ]
 
-<img src="/images/cjk/confusedchar-migmix-2m.png" alt="MigMix 2m" width="725">
-<img src="/images/cjk/migmix-2m.png" alt="MigMix 2m" width="725">
+<img src="/images/gallery/cjk/confusedchar-migmix-2m.png" alt="MigMix 2m" width="725">
+<img src="/images/gallery/cjk/migmix-2m.png" alt="MigMix 2m" width="725">
 
 
 ### [Migu 1m](cjk-fonts/migu1m)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/migu1m/IPA_Font_License_Agreement_v1.0.txt) ]
 
-<img src="/images/cjk/confusedchar-migu-1m.png" alt="Migu 1m" width="725">
-<img src="/images/cjk/migu-1m.png" alt="Migu 1m" width="725">
+<img src="/images/gallery/cjk/confusedchar-migu-1m.png" alt="Migu 1m" width="725">
+<img src="/images/gallery/cjk/migu-1m.png" alt="Migu 1m" width="725">
 
 
 ### [Migu 2m](cjk-fonts/migu2m)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/migu2m/IPA_Font_License_Agreement_v1.0.txt) ]
 
-<img src="/images/cjk/confusedchar-migu-2m.png" alt="Migu 2m" width="725">
-<img src="/images/cjk/migu-2m.png" alt="Migu 2m" width="725">
+<img src="/images/gallery/cjk/confusedchar-migu-2m.png" alt="Migu 2m" width="725">
+<img src="/images/gallery/cjk/migu-2m.png" alt="Migu 2m" width="725">
 
 
 ### [Nanum Gothic Coding](cjk-fonts/nanum-gothic-coding)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/nanum-gothic-coding/license.txt) ]
 
-<img src="/images/cjk/confusedchar-nanum-gothic-coding.png" alt="Nanum Gothic Coding" width="725">
-<img src="/images/cjk/nanum-gothic-coding.png" alt="Nanum Gothic Coding" width="725">
+<img src="/images/gallery/cjk/confusedchar-nanum-gothic-coding.png" alt="Nanum Gothic Coding" width="725">
+<img src="/images/gallery/cjk/nanum-gothic-coding.png" alt="Nanum Gothic Coding" width="725">
 
 
 ### [Ricty Diminished](cjk-fonts/ricty-diminished)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/ricty-diminished/license.txt) ]
 
-<img src="/images/cjk/confusedchar-ricty-diminished.png" alt="Ricty Diminished" width="725">
-<img src="/images/cjk/ricty-diminished.png" alt="Ricty Diminished" width="725">
+<img src="/images/gallery/cjk/confusedchar-ricty-diminished.png" alt="Ricty Diminished" width="725">
+<img src="/images/gallery/cjk/ricty-diminished.png" alt="Ricty Diminished" width="725">
 
 
 ### [Source Han Code JP](cjk-fonts/source-han-code-JP)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/source-han-code-JP/license.txt) ]
 
-<img src="/images/cjk/confusedchar-source-han-code-JP.png" alt="Source Han Code JP" width="725">
-<img src="/images/cjk/source-han-code-JP.png" alt="Source Han Code JP" width="725">
+<img src="/images/gallery/cjk/confusedchar-source-han-code-JP.png" alt="Source Han Code JP" width="725">
+<img src="/images/gallery/cjk/source-han-code-JP.png" alt="Source Han Code JP" width="725">
 
 
 ### [Source Han Sans HW](cjk-fonts/source-han-sans-HW)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/source-han-sans-HW/license.txt) ]
 
-<img src="/images/cjk/confusedchar-source-han-sans-hw.png" alt="Source Han Sans HW" width="725">
-<img src="/images/cjk/source-han-sans-HW.png" alt="Source Han Sans HW" width="725">
+<img src="/images/gallery/cjk/confusedchar-source-han-sans-hw.png" alt="Source Han Sans HW" width="725">
+<img src="/images/gallery/cjk/source-han-sans-HW.png" alt="Source Han Sans HW" width="725">
 
 
 ### [Source Han Sans HWK](cjk-fonts/source-han-sans-HWK)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/source-han-sans-HWK/license.txt) ]
 
-<img src="/images/cjk/confusedchar-source-han-sans-hwk.png" alt="Source Han Sans HWK" width="725">
-<img src="/images/cjk/source-han-sans-HWK.png" alt="Source Han Sans HWK" width="725">
+<img src="/images/gallery/cjk/confusedchar-source-han-sans-hwk.png" alt="Source Han Sans HWK" width="725">
+<img src="/images/gallery/cjk/source-han-sans-HWK.png" alt="Source Han Sans HWK" width="725">
 
 
 ### [Source Han Sans HWSC](cjk-fonts/source-han-sans-HWSC)
 
 [ [License](https://github.com/chrissimpkins/codeface/tree/master/cjk-fonts/source-han-sans-HWSC) ]
 
-<img src="/images/cjk/confusedchar-source-han-sans-hwsc.png" alt="Source Han Sans HWSC" width="725">
-<img src="/images/cjk/source-han-sans-HWSC.png" alt="Source Han Sans HWSC" width="725">
+<img src="/images/gallery/cjk/confusedchar-source-han-sans-hwsc.png" alt="Source Han Sans HWSC" width="725">
+<img src="/images/gallery/cjk/source-han-sans-HWSC.png" alt="Source Han Sans HWSC" width="725">
 
 
 ### [Source Han Sans HWTC](cjk-fonts/source-han-sans-HWTC)
 
 [ [License](https://github.com/chrissimpkins/codeface/blob/master/cjk-fonts/source-han-sans-HWTC/license.txt) ]
 
-<img src="/images/cjk/confusedchar-source-han-sans-hwtc.png" alt="Source Han Sans HWTC" width="725">
-<img src="/images/cjk/source-han-sans-HWTC.png" alt="Source Han Sans HWTC" width="725">
+<img src="/images/gallery/cjk/confusedchar-source-han-sans-hwtc.png" alt="Source Han Sans HWTC" width="725">
+<img src="/images/gallery/cjk/source-han-sans-HWTC.png" alt="Source Han Sans HWTC" width="725">
 
