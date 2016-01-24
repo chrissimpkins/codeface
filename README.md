@@ -110,7 +110,7 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 
 
-### [Camingo Code](fonts/camingo-code)
+### [CamingoCode](fonts/camingo-code)
 
 [ [License](fonts/camingo-code/license.txt) ]
 
@@ -118,6 +118,116 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/camingo-code-STPC.png" width="725">
 <img src="images/gallery/camingo-code-dark.png" width="725">
 <img src="images/gallery/camingo-code-light.png" width="725">
+
+
+
+### [CMU Typewriter Text](fonts/cmu-typewriter)
+
+[ [License](fonts/cmu-typewriter/license.txt) ]
+
+<img src="images/gallery/cmu-typewriter-STP.png" width="725">
+<img src="images/gallery/cmu-typewriter-STPC.png" width="725">
+<img src="images/gallery/cmu-typewriter-dark.png" width="725">
+<img src="images/gallery/cmu-typewriter-light.png" width="725">
+
+
+
+### [Code New Roman](fonts/code-new-roman)
+
+[ [License](fonts/code-new-roman/license.txt) ]
+
+<img src="images/gallery/code-new-roman-STP.png" width="725">
+<img src="images/gallery/code-new-roman-STPC.png" width="725">
+<img src="images/gallery/code-new-roman-dark.png" width="725">
+<img src="images/gallery/code-new-roman-light.png" width="725">
+
+
+
+### [CodingFontTobi](fonts/coding-font-tobi)
+
+[ [License](fonts/coding-font-tobi/license.txt) ]
+
+<img src="images/gallery/coding-font-tobi-STP.png" width="725">
+<img src="images/gallery/coding-font-tobi-STPC.png" width="725">
+<img src="images/gallery/coding-font-tobi-dark.png" width="725">
+<img src="images/gallery/coding-font-tobi-light.png" width="725">
+
+
+
+### [Consola Mono](fonts/consola-mono)
+
+[ [License](fonts/consola-mono/license.txt) ]
+
+<img src="images/gallery/consola-mono-STP.png" width="725">
+<img src="images/gallery/consola-mono-STPC.png" width="725">
+<img src="images/gallery/consola-mono-dark.png" width="725">
+<img src="images/gallery/consola-mono-light.png" width="725">
+
+
+
+### [Courier Prime Code](fonts/courierprime-code)
+
+[ [License](fonts/courierprime-code/license.txt) ]
+
+<img src="images/gallery/courierprime-code-STP.png" width="725">
+<img src="images/gallery/courierprime-code-STPC.png" width="725">
+<img src="images/gallery/courierprime-code-dark.png" width="725">
+<img src="images/gallery/courierprime-code-light.png" width="725">
+
+
+
+### [Cousine](fonts/cousine)
+
+[ [License](fonts/cousine/license.txt) ]
+
+<img src="images/gallery/cousine-STP.png" width="725">
+<img src="images/gallery/cousine-STPC.png" width="725">
+<img src="images/gallery/cousine-dark.png" width="725">
+<img src="images/gallery/cousine-light.png" width="725">
+
+
+
+### [CPMono_v07](fonts/cp-mono)
+
+[ [License](fonts/cp-mono/license.txt) ]
+
+<img src="images/gallery/cp-mono-STP.png" width="725">
+<img src="images/gallery/cp-mono-STPC.png" width="725">
+<img src="images/gallery/cp-mono-dark.png" width="725">
+<img src="images/gallery/cp-mono-light.png" width="725">
+
+
+
+### [Crisp](fonts/crisp)
+
+[ [License](fonts/crisp/license.txt) ]
+
+<img src="images/gallery/crisp-STP.png" width="725">
+<img src="images/gallery/crisp-STPC.png" width="725">
+<img src="images/gallery/crisp-dark.png" width="725">
+<img src="images/gallery/crisp-light.png" width="725">
+
+
+
+### [Cutive Mono](fonts/cutive-mono)
+
+[ [License](fonts/cutive-mono/license.txt) ]
+
+<img src="images/gallery/cutive-mono-STP.png" width="725">
+<img src="images/gallery/cutive-mono-STPC.png" width="725">
+<img src="images/gallery/cutive-mono-dark.png" width="725">
+<img src="images/gallery/cutive-mono-light.png" width="725">
+
+
+
+### [DejaVu Sans Mono](fonts/dejavu-sans-mono)
+
+[ [License](fonts/dejavu-sans-mono/license.txt) ]
+
+<img src="images/gallery/dejavu-sans-mono-STP.png" width="725">
+<img src="images/gallery/dejavu-sans-mono-STPC.png" width="725">
+<img src="images/gallery/dejavu-sans-mono-dark.png" width="725">
+<img src="images/gallery/dejavu-sans-mono-light.png" width="725">
 
 
 
@@ -129,6 +239,61 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/dina-STPC.png" width="725">
 <img src="images/gallery/dina-dark.png" width="725">
 <img src="images/gallery/dina-light.png" width="725">
+
+
+
+### [Droid Sans Mono](fonts/droid-sans-mono)
+
+[ [License](fonts/droid-sans-mono/license.txt) ]
+
+<img src="images/gallery/droid-sans-mono-STP.png" width="725">
+<img src="images/gallery/droid-sans-mono-STPC.png" width="725">
+<img src="images/gallery/droid-sans-mono-dark.png" width="725">
+<img src="images/gallery/droid-sans-mono-light.png" width="725">
+
+
+
+### [Edlo](fonts/edlo)
+
+[ [License](fonts/edlo/license.txt) ]
+
+<img src="images/gallery/edlo-STP.png" width="725">
+<img src="images/gallery/edlo-STPC.png" width="725">
+<img src="images/gallery/edlo-dark.png" width="725">
+<img src="images/gallery/edlo-light.png" width="725">
+
+
+
+### [Fantasque Sans Mono](fonts/fantasque-sans-mono)
+
+[ [License](fonts/fantasque-sans-mono/license.txt) ]
+
+<img src="images/gallery/fantasque-sans-mono-STP.png" width="725">
+<img src="images/gallery/fantasque-sans-mono-STPC.png" width="725">
+<img src="images/gallery/fantasque-sans-mono-dark.png" width="725">
+<img src="images/gallery/fantasque-sans-mono-light.png" width="725">
+
+
+
+### [Fira Code](fonts/fira-code)
+
+[ [License](fonts/fira-code/license.txt) ]
+
+<img src="images/gallery/fira-code-STP.png" width="725">
+<img src="images/gallery/fira-code-STPC.png" width="725">
+<img src="images/gallery/fira-code-dark.png" width="725">
+<img src="images/gallery/fira-code-light.png" width="725">
+
+
+
+### [Fira Mono](fonts/fira-mono)
+
+[ [License](fonts/fira-mono/license.txt) ]
+
+<img src="images/gallery/fira-mono-STP.png" width="725">
+<img src="images/gallery/fira-mono-STPC.png" width="725">
+<img src="images/gallery/fira-mono-dark.png" width="725">
+<img src="images/gallery/fira-mono-light.png" width="725">
 
 
 
