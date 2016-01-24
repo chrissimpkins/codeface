@@ -44,11 +44,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 ## The Gallery
 
 
-  <!---
-START GALLERY
--->
-
-
 ### [Anonymous Pro](fonts/anonymous-pro)
 
 [ [License](fonts/anonymous-pro/license.txt) ]
@@ -135,13 +130,6 @@ START GALLERY
 <img src="images/gallery/dina-dark.png" width="725">
 <img src="images/gallery/dina-light.png" width="725">
 
-
-
-
-
-  <!---
-END GALLERY
--->
 
 
 
