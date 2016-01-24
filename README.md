@@ -83,7 +83,7 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 ### [BP Mono](fonts/bp-mono)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/bp-mono/Creative%20Commons%20Attribution-No%20Derivative%20Works.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/bp-mono/backpacker_license.txt) ]
 
 <img src="images/bp-mono-TP.png" width="725">
 <img src="images/bp-mono-TPC.png" width="725">
