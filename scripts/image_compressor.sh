@@ -43,7 +43,7 @@
 
 if [ $# -eq 0 ]; then
 	# excecute imageoptim-cli on all png files in the images directory
-	find ../images -name '*.png' | imageOptim -a
+	find ../images/gallery -name '*.png' | imageOptim -a
 else
 	for file in "$@";
 		do
