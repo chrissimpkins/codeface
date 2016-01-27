@@ -40,5 +40,10 @@ font_list = [
     ["Liberation Mono", {'size': DEFAULT_SIZE, 'filename': 'liberation-mono'}],
     ["Linux Libertine Mono", {'size': DEFAULT_SIZE, 'filename': 'linux-libertine-mono'}],
     ["Luculent", {'size': DEFAULT_SIZE, 'filename': 'luculent'}],
-
+    ["Luxi Mono", {'size': DEFAULT_SIZE, 'filename': 'luxi-mono'}],
+    ["Mensch", {'size': DEFAULT_SIZE, 'filename': 'mensch'}],
+    ["Meslo LG M DZ", {'size': DEFAULT_SIZE, 'filename': 'meslo'}],
+    ["Metrickal", {'size': DEFAULT_SIZE, 'filename': 'metrickal'}],
+    ["monoOne", {'size': DEFAULT_SIZE, 'filename': 'mono-one'}],
+    ["MonoSpatial", {'size': DEFAULT_SIZE, 'filename': 'mono-spatial'}],
 ]
