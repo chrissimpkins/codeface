@@ -26,5 +26,19 @@ font_list = [
     ["Edlo", {'size': DEFAULT_SIZE, 'filename': 'edlo'}],
     ["Fantasque Sans Mono", {'size': DEFAULT_SIZE, 'filename': 'fantasque-sans-mono'}],
     ["Fira Code", {'size': DEFAULT_SIZE, 'filename': 'fira-code'}],
-    ["Fira Mono", {'size': DEFAULT_SIZE, 'filename': 'fira-mono'}]
+    ["Fira Mono", {'size': DEFAULT_SIZE, 'filename': 'fira-mono'}],
+    ["Fixedsys Excelsior 3.01", {'size': DEFAULT_SIZE, 'filename': 'fixed-sys-excelsior'}],
+    ["FreeMono", {'size': DEFAULT_SIZE, 'filename': 'free-mono'}],
+    ["GohuFont", {'size': DEFAULT_SIZE, 'filename': 'gohufont'}],
+    ["Hack", {'size': DEFAULT_SIZE, 'filename': 'hack'}],
+    ["Hasklig", {'size': DEFAULT_SIZE, 'filename': 'hasklig'}],
+    ["Hermit", {'size': DEFAULT_SIZE, 'filename': 'hermit'}],
+    ["Inconsolata", {'size': DEFAULT_SIZE}, 'filename': 'inconsolata'],
+    ["Iosevka", {'size': DEFAULT_SIZE, 'filename': 'iosevka'}],
+    ["Latin Modern Mono Light 10", {'size': DEFAULT_SIZE, 'filename': 'latin-modern-mono'}],
+    ["Lekton", {'size': DEFAULT_SIZE, 'filename': 'lekton'}],
+    ["Liberation Mono", {'size': DEFAULT_SIZE, 'filename': 'liberation-mono'}],
+    ["Linux Libertine Mono", {'size': DEFAULT_SIZE, 'filename': 'linux-libertine-mono'}],
+    ["Luculent", {'size': DEFAULT_SIZE, 'filename': 'luculent'}],
+
 ]
