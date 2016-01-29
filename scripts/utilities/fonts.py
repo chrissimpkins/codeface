@@ -12,7 +12,6 @@ font_list = [
     ["Bront", {'size': DEFAULT_SIZE, 'filename': 'bront'}],
     ["CamingoCode", {'size': DEFAULT_SIZE, 'filename': 'camingo-code'}],
     ["CMU Typewriter Text", {'size': DEFAULT_SIZE, 'filename': 'cmu-typewriter'}],
-    ["Code New Roman", {'size': DEFAULT_SIZE, 'filename': 'code-new-roman'}],
     ["Courier Prime Code", {'size': DEFAULT_SIZE, 'filename': 'courierprime-code'}],
     ["Cousine", {'size': DEFAULT_SIZE, 'filename': 'cousine'}],
     ["CPMono_v07", {'size': DEFAULT_SIZE, 'filename': 'cp-mono'}],
