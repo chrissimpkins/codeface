@@ -132,17 +132,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 
 
-### [Code New Roman](fonts/code-new-roman)
-
-[ [License](fonts/code-new-roman/license.txt) ]
-
-<img src="images/gallery/code-new-roman-STP.png" width="725">
-<img src="images/gallery/code-new-roman-STPC.png" width="725">
-<img src="images/gallery/code-new-roman-dark.png" width="725">
-<img src="images/gallery/code-new-roman-light.png" width="725">
-
-
-
 ### [Courier Prime Code](fonts/courierprime-code)
 
 [ [License](fonts/courierprime-code/license.txt) ]
