@@ -33,7 +33,7 @@ font_list = [
     ["Hack", {'size': DEFAULT_SIZE, 'filename': 'hack'}],
     ["Hasklig", {'size': DEFAULT_SIZE, 'filename': 'hasklig'}],
     ["Hermit", {'size': DEFAULT_SIZE, 'filename': 'hermit'}],
-    ["Inconsolata", {'size': DEFAULT_SIZE}, 'filename': 'inconsolata'],
+    ["Inconsolata", {'size': DEFAULT_SIZE, 'filename': 'inconsolata'}],
     ["Iosevka", {'size': DEFAULT_SIZE, 'filename': 'iosevka'}],
     ["Latin Modern Mono Light 10", {'size': DEFAULT_SIZE, 'filename': 'latin-modern-mono'}],
     ["Lekton", {'size': DEFAULT_SIZE, 'filename': 'lekton'}],
@@ -46,4 +46,47 @@ font_list = [
     ["Metrickal", {'size': DEFAULT_SIZE, 'filename': 'metrickal'}],
     ["monoOne", {'size': DEFAULT_SIZE, 'filename': 'mono-one'}],
     ["MonoSpatial", {'size': DEFAULT_SIZE, 'filename': 'mono-spatial'}],
+    ["monofur", {'size': DEFAULT_SIZE, 'filename': 'monofur'}],
+    ["Monoid", {'size': DEFAULT_SIZE, 'filename': 'monoid'}],
+    ["Monospace", {'size': DEFAULT_SIZE, 'filename': 'monospace'}],
+    ["MonospaceTypewriter", {'size': DEFAULT_SIZE, 'filename': 'monospace-typewriter'}],
+    ["MonteCarlo Fixed 12", {'size': 12, 'filename': 'monte-carlo'}],
+    ["M+ 1m", {'size': DEFAULT_SIZE, 'filename': 'mplus1m'}],
+    ["M+ 1mn", {'size': DEFAULT_SIZE, 'filename': 'mplus1mn'}],
+    ["M+ 2m", {'size': DEFAULT_SIZE, 'filename': 'mplus2m'}],
+    ["NotCourierSans", {'size': DEFAULT_SIZE, 'filename': 'not-courier-sans'}],
+    ["Office Code Pro", {'size': DEFAULT_SIZE, 'filename': 'office-code-pro'}],
+    ["Oxygen Mono", {'size': DEFAULT_SIZE, 'filename': 'oxygen-mono'}],
+    ["Panic Sans", {'size': DEFAULT_SIZE, 'filename': 'panic-sans'}],
+    ["Pointfree", {'size': DEFAULT_SIZE, 'filename': 'pointfree'}],
+    ["ProFontWindows", {'size': DEFAULT_SIZE, 'filename': 'pro-font-windows'}],
+    ["PT Mono", {'size': DEFAULT_SIZE, 'filename': 'pt-mono'}],
+    ["Roboto Mono", {'size': DEFAULT_SIZE, 'filename': 'roboto-mono'}],
+    ["saxMono", {'size': DEFAULT_SIZE, 'filename': 'sax-mono'}],
+    ["Share-TechMonoTrue", {'size': DEFAULT_SIZE, 'filename': 'sharetech-mono'}],
+    ["SmallTypeWriting", {'size': DEFAULT_SIZE, 'filename': 'small-type-writing'}],
+    ["Source Code Pro", {'size': DEFAULT_SIZE, 'filename': 'source-code-pro'}],
+    ["Sudo", {'size': DEFAULT_SIZE, 'filename': 'sudo'}],
+    ["SV Basic Manual", {'size': DEFAULT_SIZE, 'filename': 'sv-basic-manual'}],
+    ["Terminus", {'size': DEFAULT_SIZE, 'filename': 'terminus'}],
+    ["TeX Gyre Cursor", {'size': DEFAULT_SIZE, 'filename': 'tex-gyre-cursor'}],
+    ["Ubuntu Mono", {'size': DEFAULT_SIZE, 'filename': 'ubuntu-mono'}],
+    ["Verily Serif Mono", {'size': DEFAULT_SIZE, 'filename': 'verily-serif-mono'}],
+    ["Whois", {'size': DEFAULT_SIZE, 'filename': 'whois-mono'}]
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
