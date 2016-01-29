@@ -143,28 +143,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 
 
-### [CodingFontTobi](fonts/coding-font-tobi)
-
-[ [License](fonts/coding-font-tobi/license.txt) ]
-
-<img src="images/gallery/coding-font-tobi-STP.png" width="725">
-<img src="images/gallery/coding-font-tobi-STPC.png" width="725">
-<img src="images/gallery/coding-font-tobi-dark.png" width="725">
-<img src="images/gallery/coding-font-tobi-light.png" width="725">
-
-
-
-### [Consola Mono](fonts/consola-mono)
-
-[ [License](fonts/consola-mono/license.txt) ]
-
-<img src="images/gallery/consola-mono-STP.png" width="725">
-<img src="images/gallery/consola-mono-STPC.png" width="725">
-<img src="images/gallery/consola-mono-dark.png" width="725">
-<img src="images/gallery/consola-mono-light.png" width="725">
-
-
-
 ### [Courier Prime Code](fonts/courierprime-code)
 
 [ [License](fonts/courierprime-code/license.txt) ]
@@ -198,17 +176,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 
 
-### [Crisp](fonts/crisp)
-
-[ [License](fonts/crisp/license.txt) ]
-
-<img src="images/gallery/crisp-STP.png" width="725">
-<img src="images/gallery/crisp-STPC.png" width="725">
-<img src="images/gallery/crisp-dark.png" width="725">
-<img src="images/gallery/crisp-light.png" width="725">
-
-
-
 ### [Cutive Mono](fonts/cutive-mono)
 
 [ [License](fonts/cutive-mono/license.txt) ]
@@ -217,28 +184,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/cutive-mono-STPC.png" width="725">
 <img src="images/gallery/cutive-mono-dark.png" width="725">
 <img src="images/gallery/cutive-mono-light.png" width="725">
-
-
-
-### [DejaVu Sans Mono](fonts/dejavu-sans-mono)
-
-[ [License](fonts/dejavu-sans-mono/license.txt) ]
-
-<img src="images/gallery/dejavu-sans-mono-STP.png" width="725">
-<img src="images/gallery/dejavu-sans-mono-STPC.png" width="725">
-<img src="images/gallery/dejavu-sans-mono-dark.png" width="725">
-<img src="images/gallery/dejavu-sans-mono-light.png" width="725">
-
-
-
-### [Dina ttf 10px](fonts/dina)
-
-[ [License](fonts/dina/license.txt) ]
-
-<img src="images/gallery/dina-STP.png" width="725">
-<img src="images/gallery/dina-STPC.png" width="725">
-<img src="images/gallery/dina-dark.png" width="725">
-<img src="images/gallery/dina-light.png" width="725">
 
 
 
@@ -297,17 +242,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 
 
-### [Fixedsys Excelsior 3.01](fonts/fixed-sys-excelsior)
-
-[ [License](fonts/fixed-sys-excelsior/license.txt) ]
-
-<img src="images/gallery/fixed-sys-excelsior-STP.png" width="725">
-<img src="images/gallery/fixed-sys-excelsior-STPC.png" width="725">
-<img src="images/gallery/fixed-sys-excelsior-dark.png" width="725">
-<img src="images/gallery/fixed-sys-excelsior-light.png" width="725">
-
-
-
 ### [FreeMono](fonts/free-mono)
 
 [ [License](fonts/free-mono/license.txt) ]
@@ -316,17 +250,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/free-mono-STPC.png" width="725">
 <img src="images/gallery/free-mono-dark.png" width="725">
 <img src="images/gallery/free-mono-light.png" width="725">
-
-
-
-### [GohuFont](fonts/gohufont)
-
-[ [License](fonts/gohufont/license.txt) ]
-
-<img src="images/gallery/gohufont-STP.png" width="725">
-<img src="images/gallery/gohufont-STPC.png" width="725">
-<img src="images/gallery/gohufont-dark.png" width="725">
-<img src="images/gallery/gohufont-light.png" width="725">
 
 
 
@@ -382,17 +305,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/iosevka-STPC.png" width="725">
 <img src="images/gallery/iosevka-dark.png" width="725">
 <img src="images/gallery/iosevka-light.png" width="725">
-
-
-
-### [Latin Modern Mono Light 10](fonts/latin-modern-mono)
-
-[ [License](fonts/latin-modern-mono/license.txt) ]
-
-<img src="images/gallery/latin-modern-mono-STP.png" width="725">
-<img src="images/gallery/latin-modern-mono-STPC.png" width="725">
-<img src="images/gallery/latin-modern-mono-dark.png" width="725">
-<img src="images/gallery/latin-modern-mono-light.png" width="725">
 
 
 
@@ -547,17 +459,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/monospace-typewriter-STPC.png" width="725">
 <img src="images/gallery/monospace-typewriter-dark.png" width="725">
 <img src="images/gallery/monospace-typewriter-light.png" width="725">
-
-
-
-### [MonteCarlo Fixed 12](fonts/monte-carlo)
-
-[ [License](fonts/monte-carlo/license.txt) ]
-
-<img src="images/gallery/monte-carlo-STP.png" width="725">
-<img src="images/gallery/monte-carlo-STPC.png" width="725">
-<img src="images/gallery/monte-carlo-dark.png" width="725">
-<img src="images/gallery/monte-carlo-light.png" width="725">
 
 
 
@@ -737,17 +638,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 
 
-### [SV Basic Manual](fonts/sv-basic-manual)
-
-[ [License](fonts/sv-basic-manual/license.txt) ]
-
-<img src="images/gallery/sv-basic-manual-STP.png" width="725">
-<img src="images/gallery/sv-basic-manual-STPC.png" width="725">
-<img src="images/gallery/sv-basic-manual-dark.png" width="725">
-<img src="images/gallery/sv-basic-manual-light.png" width="725">
-
-
-
 ### [Terminus](fonts/terminus)
 
 [ [License](fonts/terminus/license.txt) ]
@@ -800,6 +690,8 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/whois-mono-STPC.png" width="725">
 <img src="images/gallery/whois-mono-dark.png" width="725">
 <img src="images/gallery/whois-mono-light.png" width="725">
+
+
 
 
 
