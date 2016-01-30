@@ -60,6 +60,41 @@
 <img src="images/gallery/bitmap/monte-carlo-TPC.png" width="725">
 <img src="images/gallery/bitmap/monte-carlo.png" width="725">
 
+### [Proggy Clean](fonts/proggy-clean)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-clean/Licence.txt) ]
+
+<img src="images/gallery/bitmap/proggy-clean-noaa-TP.png" width="725">
+<img src="images/gallery/bitmap/proggy-clean-noaa-TPC.png" width="725">
+<img src="images/gallery/bitmap/proggy-clean-noaa.png" width="725">
+
+
+### [Proggy Small](fonts/proggy-small)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-small/Licence.txt) ]
+
+<img src="images/gallery/bitmap/proggy-small-noaa-TP.png" width="725">
+<img src="images/gallery/bitmap/proggy-small-noaa-TPC.png" width="725">
+<img src="images/gallery/bitmap/proggy-small-noaa.png" width="725">
+
+
+### [Proggy Square](fonts/proggy-square)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-square/Licence.txt) ]
+
+<img src="images/gallery/bitmap/proggy-square-noaa-TP.png" width="725">
+<img src="images/gallery/bitmap/proggy-square-noaa-TPC.png" width="725">
+<img src="images/gallery/bitmap/proggy-square-noaa.png" width="725">
+
+
+### [Proggy Tiny](fonts/proggy-tiny)
+
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-tiny/Licence.txt) ]
+
+<img src="images/gallery/bitmap/proggy-tiny-noaa-TP.png" width="725">
+<img src="images/gallery/bitmap/proggy-tiny-noaa-TPC.png" width="725">
+<img src="images/gallery/bitmap/proggy-tiny-noaa.png" width="725">
+
 
 
 
