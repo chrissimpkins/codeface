@@ -1,4 +1,11 @@
 
+# Minimal Syntax and Minimal Syntax Dark syntax highlighting themes
+#  Color schemes Copyright 2016 David van Gemeren
+#  MIT License
+#  Minimal Syntax:      https://github.com/burodepeper/minimal-syntax
+#  Minimal Syntax Dark: https://github.com/burodepeper/minimal-syntax-dark
+
+
 class SyntaxHighlighter(object):
     def __init__(self):
         self.light = {
