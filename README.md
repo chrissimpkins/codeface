@@ -22,7 +22,7 @@
 
 ## Download Font Archive
 
-<a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="images/download-button-new.png" style="margin-left: 100px" alt="Download All Fonts" width="125"></a>
+<a href="https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip"><img src="images/non-gallery/download-button.png" style="margin-left: 100px" alt="Download All Fonts" width="125"></a>
 
 Click a link below to download all font binaries in the Codeface main gallery collection:
 
