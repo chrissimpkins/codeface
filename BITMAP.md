@@ -8,7 +8,7 @@
 
 ### [Coding Font Tobi](fonts/coding-font-tobi)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/coding-font-tobi/licence.txt) ]
+[ [License](fonts/coding-font-tobi/licence.txt) ]
 
 <img src="images/gallery/bitmap/coding-font-tobi-TP.png" width="725">
 <img src="images/gallery/bitmap/coding-font-tobi-TPC.png" width="725">
@@ -17,7 +17,7 @@
 
 ### [Crisp](fonts/crisp)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/crisp/license.txt) ]
+[ [License](fonts/crisp/license.txt) ]
 
 <img src="images/gallery/bitmap/crisp-TP.png" width="725">
 <img src="images/gallery/bitmap/crisp-TPC.png" width="725">
@@ -26,7 +26,7 @@
 
 ### [Dina](fonts/dina)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/dina/license.txt) ]
+[ [License](fonts/dina/license.txt) ]
 
 <img src="images/gallery/bitmap/dina-TP.png" width="725">
 <img src="images/gallery/bitmap/dina-TPC.png" width="725">
@@ -35,7 +35,7 @@
 
 ### [Fixedsys Excelsior](fonts/fixed-sys-excelsior)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/fixed-sys-excelsior/license.txt) ]
+[ [License](fonts/fixed-sys-excelsior/license.txt) ]
 
 <img src="images/gallery/bitmap/fixed-sys-excelsior-TP.png" width="725">
 <img src="images/gallery/bitmap/fixed-sys-excelsior-TPC.png" width="725">
@@ -45,7 +45,7 @@
 
 ### [Gohufont](fonts/gohufont)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/gohufont/license.txt) ]
+[ [License](fonts/gohufont/license.txt) ]
 
 <img src="images/gallery/bitmap/gohufont-TP.png" width="725">
 <img src="images/gallery/bitmap/gohufont-TPC.png" width="725">
@@ -54,7 +54,7 @@
 
 ### [Monte Carlo](fonts/monte-carlo)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/monte-carlo/license.txt) ]
+[ [License](fonts/monte-carlo/license.txt) ]
 
 <img src="images/gallery/bitmap/monte-carlo-TP.png" width="725">
 <img src="images/gallery/bitmap/monte-carlo-TPC.png" width="725">
@@ -62,7 +62,7 @@
 
 ### [Proggy Clean](fonts/proggy-clean)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-clean/license.txt) ]
+[ [License](fonts/proggy-clean/license.txt) ]
 
 <img src="images/gallery/bitmap/proggy-clean-noaa-TP.png" width="725">
 <img src="images/gallery/bitmap/proggy-clean-noaa-TPC.png" width="725">
@@ -71,7 +71,7 @@
 
 ### [Proggy Small](fonts/proggy-small)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-small/license.txt) ]
+[ [License](fonts/proggy-small/license.txt) ]
 
 <img src="images/gallery/bitmap/proggy-small-noaa-TP.png" width="725">
 <img src="images/gallery/bitmap/proggy-small-noaa-TPC.png" width="725">
@@ -80,7 +80,7 @@
 
 ### [Proggy Square](fonts/proggy-square)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-square/license.txt) ]
+[ [License](fonts/proggy-square/license.txt) ]
 
 <img src="images/gallery/bitmap/proggy-square-noaa-TP.png" width="725">
 <img src="images/gallery/bitmap/proggy-square-noaa-TPC.png" width="725">
@@ -89,7 +89,7 @@
 
 ### [Proggy Tiny](fonts/proggy-tiny)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-tiny/license.txt) ]
+[ [License](fonts/proggy-tiny/license.txt) ]
 
 <img src="images/gallery/bitmap/proggy-tiny-noaa-TP.png" width="725">
 <img src="images/gallery/bitmap/proggy-tiny-noaa-TPC.png" width="725">
