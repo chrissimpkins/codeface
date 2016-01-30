@@ -8,7 +8,7 @@
 
 ### [Coding Font Tobi](fonts/coding-font-tobi)
 
-[ [License](fonts/coding-font-tobi/licence.txt) ]
+[ [License](fonts/coding-font-tobi/license.txt) ]
 
 <img src="images/gallery/bitmap/coding-font-tobi-TP.png" width="725">
 <img src="images/gallery/bitmap/coding-font-tobi-TPC.png" width="725">
