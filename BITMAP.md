@@ -8,7 +8,7 @@
 
 ### [Coding Font Tobi](fonts/coding-font-tobi)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/coding-font-tobi/Licence.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/coding-font-tobi/licence.txt) ]
 
 <img src="images/gallery/bitmap/coding-font-tobi-TP.png" width="725">
 <img src="images/gallery/bitmap/coding-font-tobi-TPC.png" width="725">
@@ -26,7 +26,7 @@
 
 ### [Dina](fonts/dina)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/dina/LICENSE) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/dina/license.txt) ]
 
 <img src="images/gallery/bitmap/dina-TP.png" width="725">
 <img src="images/gallery/bitmap/dina-TPC.png" width="725">
@@ -62,7 +62,7 @@
 
 ### [Proggy Clean](fonts/proggy-clean)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-clean/Licence.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-clean/license.txt) ]
 
 <img src="images/gallery/bitmap/proggy-clean-noaa-TP.png" width="725">
 <img src="images/gallery/bitmap/proggy-clean-noaa-TPC.png" width="725">
@@ -71,7 +71,7 @@
 
 ### [Proggy Small](fonts/proggy-small)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-small/Licence.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-small/license.txt) ]
 
 <img src="images/gallery/bitmap/proggy-small-noaa-TP.png" width="725">
 <img src="images/gallery/bitmap/proggy-small-noaa-TPC.png" width="725">
@@ -80,7 +80,7 @@
 
 ### [Proggy Square](fonts/proggy-square)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-square/Licence.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-square/license.txt) ]
 
 <img src="images/gallery/bitmap/proggy-square-noaa-TP.png" width="725">
 <img src="images/gallery/bitmap/proggy-square-noaa-TPC.png" width="725">
@@ -89,7 +89,7 @@
 
 ### [Proggy Tiny](fonts/proggy-tiny)
 
-[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-tiny/Licence.txt) ]
+[ [License](https://raw.githubusercontent.com/chrissimpkins/codeface/master/fonts/proggy-tiny/license.txt) ]
 
 <img src="images/gallery/bitmap/proggy-tiny-noaa-TP.png" width="725">
 <img src="images/gallery/bitmap/proggy-tiny-noaa-TPC.png" width="725">
