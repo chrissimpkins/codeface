@@ -28,6 +28,7 @@ font_list = [
     ["Inconsolata", {'size': DEFAULT_SIZE, 'filename': 'inconsolata'}],
     ["Iosevka", {'size': DEFAULT_SIZE, 'filename': 'iosevka'}],
     ["Iosevka Slab", {'size': DEFAULT_SIZE, 'filename': 'iosevka-slab'}],
+    ["Kawkab Mono", {'size': DEFAULT_SIZE, 'filename': 'kawkab-mono'}],
     ["Lekton", {'size': DEFAULT_SIZE, 'filename': 'lekton'}],
     ["Liberation Mono", {'size': DEFAULT_SIZE, 'filename': 'liberation-mono'}],
     ["Linux Libertine Mono", {'size': DEFAULT_SIZE, 'filename': 'linux-libertine-mono'}],

@@ -308,6 +308,17 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 
 
+### [Kawkab Mono](fonts/kawkab-mono)
+
+[ [License](fonts/kawkab-mono/license.txt) ]
+
+<img src="images/gallery/kawkab-mono-STP.png" width="725">
+<img src="images/gallery/kawkab-mono-STPC.png" width="725">
+<img src="images/gallery/kawkab-mono-dark.png" width="725">
+<img src="images/gallery/kawkab-mono-light.png" width="725">
+
+
+
 ### [Lekton](fonts/lekton)
 
 [ [License](fonts/lekton/license.txt) ]
@@ -690,7 +701,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/whois-mono-STPC.png" width="725">
 <img src="images/gallery/whois-mono-dark.png" width="725">
 <img src="images/gallery/whois-mono-light.png" width="725">
-
 
 
 
