@@ -27,6 +27,7 @@ font_list = [
     ["Hermit", {'size': DEFAULT_SIZE, 'filename': 'hermit'}],
     ["Inconsolata", {'size': DEFAULT_SIZE, 'filename': 'inconsolata'}],
     ["Iosevka", {'size': DEFAULT_SIZE, 'filename': 'iosevka'}],
+    ["Iosevka Slab", {'size': DEFAULT_SIZE, 'filename': 'iosevka-slab'}],
     ["Lekton", {'size': DEFAULT_SIZE, 'filename': 'lekton'}],
     ["Liberation Mono", {'size': DEFAULT_SIZE, 'filename': 'liberation-mono'}],
     ["Linux Libertine Mono", {'size': DEFAULT_SIZE, 'filename': 'linux-libertine-mono'}],
