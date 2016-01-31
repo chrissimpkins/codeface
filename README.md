@@ -297,6 +297,17 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 
 
+### [Iosevka Slab](fonts/iosevka-slab)
+
+[ [License](fonts/iosevka-slab/license.txt) ]
+
+<img src="images/gallery/iosevka-slab-STP.png" width="725">
+<img src="images/gallery/iosevka-slab-STPC.png" width="725">
+<img src="images/gallery/iosevka-slab-dark.png" width="725">
+<img src="images/gallery/iosevka-slab-light.png" width="725">
+
+
+
 ### [Lekton](fonts/lekton)
 
 [ [License](fonts/lekton/license.txt) ]
@@ -679,6 +690,7 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/whois-mono-STPC.png" width="725">
 <img src="images/gallery/whois-mono-dark.png" width="725">
 <img src="images/gallery/whois-mono-light.png" width="725">
+
 
 
 
