@@ -5,6 +5,7 @@
 
 * [About](ABOUT.md)
 * [Main Font Gallery](#the-gallery)
+* [Bitmap Font Gallery](BITMAP.md)
 * [Chinese, Japanese, Korean Developer Font Gallery](CJK.md)
 * [Free, Non-Distrib EULA Developer Font Gallery](NONDISTRIB.md)
 * [Contribute to the Project](CONTRIBUTING.md)
