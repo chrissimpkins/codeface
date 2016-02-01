@@ -45,6 +45,17 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 ## The Gallery
 
 
+### [agave](fonts/agave)
+
+[ [License](fonts/agave/license.txt) ]
+
+<img src="images/gallery/agave-STP.png" width="725">
+<img src="images/gallery/agave-STPC.png" width="725">
+<img src="images/gallery/agave-dark.png" width="725">
+<img src="images/gallery/agave-light.png" width="725">
+
+
+
 ### [Anonymous Pro](fonts/anonymous-pro)
 
 [ [License](fonts/anonymous-pro/license.txt) ]

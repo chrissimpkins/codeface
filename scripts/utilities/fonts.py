@@ -4,6 +4,7 @@
 DEFAULT_SIZE = "14"
 
 font_list = [
+    ["agave", {'size': DEFAULT_SIZE, 'filename': 'agave'}],
     ["Anonymous Pro", {'size': DEFAULT_SIZE, 'filename': 'anonymous-pro'}],
     ["Aurulent Sans Mono", {'size': DEFAULT_SIZE, 'filename': 'aurulent-sans-mono'}],
     ["AverageMono", {'size': DEFAULT_SIZE, 'filename': 'average-mono'}],
