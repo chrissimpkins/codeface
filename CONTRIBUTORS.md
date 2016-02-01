@@ -16,6 +16,7 @@
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
 * Chris Wendt ([@chrismwendt](https://github.com/chrismwendt)) - Em-n-Em (developer of [Bront font](https://github.com/chrismwendt/bront))
 * Caleb Xu ([@alebcay](https://github.com/alebcay)) - The Ascender
+* Jilen Zhang ([@jilen](https://github.com/jilen)) - Condensed and Compressed
 * Anon ([@efermi](https://github.com/efermi)) - Wide Stroke
 * Anon ([@evuez](https://github.com/evuez)) - Majuscules
 * Anon ([@Snack-X](https://github.com/Snack-X)) - Baseline
@@ -34,6 +35,5 @@
 * Kevin Suttle ([@kevinSuttle](https://github.com/kevinSuttle))
 * Téo M ([@teogeos](https://github.com/teogeos))
 * Anon ([@dvvh](https://github.com/dvhh))
-* Anon ([@jilen](https://github.com/jilen))
 * Anon ([@mbaz](https://github.com/mbaz))
 
