@@ -1,0 +1,15 @@
+{
+	"name": "GNU Unifont",
+	"author": "Roman Czyborra",
+	"year": 1998,
+	"license": "GNU GPL",
+	"websites": [
+		"http://www.unifoundry.com/unifont.html",
+		"https://savannah.gnu.org/projects/unifont"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"open source"
+	]
+}

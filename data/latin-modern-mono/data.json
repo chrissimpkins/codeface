@@ -1,0 +1,16 @@
+{
+	"name": "Latin Modern Mono",
+	"author": "Bogusław Jackowski, Janusz M. Nowacki",
+	"year": 2002,
+	"license": "GUST Font License",
+	"websites": [
+		"http://www.gust.org.pl/gust/projects/e-foundry/latin-modern",
+		"http://www.fontsquirrel.com/fonts/Latin-Modern-Mono"
+	],
+	"serif": true,
+	"free": "open license",
+	"tags": [
+		"latex",
+		"gust"
+	]
+}

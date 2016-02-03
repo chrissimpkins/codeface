@@ -1,0 +1,17 @@
+{
+	"name": "Cousine",
+	"author": "Steve Matteson",
+	"year": 2010,
+	"license": "Apache",
+	"websites": [
+		"http://www.fontsquirrel.com/fonts/cousine",
+		"http://www.google.com/fonts/specimen/Cousine"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"courier",
+		"professional",
+		"free"
+	]
+}

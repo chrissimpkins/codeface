@@ -1,0 +1,15 @@
+{
+	"name": "Bitstream Vera Sans Mono",
+	"author": "Jim Lyles",
+	"year": 2002,
+	"license": "Bitstream Vera License",
+	"websites": [
+		"http://www.fontsquirrel.com/fonts/Bitstream-Vera-Sans-Mono"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"bitstream vera",
+		"professional"
+	]
+}

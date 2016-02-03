@@ -1,0 +1,15 @@
+{
+	"name": "Verily Serif Mono",
+	"author": "Stephen G. Hartke",
+	"year": 2006,
+	"license": "Bitstream Vera License",
+	"websites": [
+		"http://delubrum.org",
+		"http://www.fontsquirrel.com/fonts/Verily-Serif-Mono"
+	],
+	"serif": true,
+	"free": "open license",
+	"tags": [
+		"bistream vera"
+	]
+}

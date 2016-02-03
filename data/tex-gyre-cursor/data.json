@@ -1,0 +1,16 @@
+{
+	"name": "TeX Gyre Cursor",
+	"author": "GUST e-foundry",
+	"year": 2006,
+	"license": "LPPL",
+	"websites": [
+		"http://www.gust.org.pl/projects/e-foundry/tex-gyre",
+		"http://www.fontsquirrel.com/fonts/TeX-Gyre-Cursor"
+	],
+	"serif": true,
+	"free": "open license",
+	"tags": [
+		"gust",
+		"nimbus"
+	]
+}

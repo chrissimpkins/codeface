@@ -1,0 +1,16 @@
+{
+	"name": "Inconsolata",
+	"author": "Raph Levien",
+	"year": 2001,
+	"license": "SIL OFL",
+	"websites": [
+		"http://www.levien.com/type/myfonts/inconsolata.html",
+		"http://www.google.com/fonts/specimen/Inconsolata",
+		"http://www.fontsquirrel.com/fonts/Inconsolata"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"consolas"
+	]
+}

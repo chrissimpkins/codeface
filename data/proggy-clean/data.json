@@ -1,0 +1,15 @@
+{
+	"name": "Proggy Clean",
+	"author": "Tristan Grimmer",
+	"year": 2004,
+	"license": "MIT",
+	"websites": [
+		"http://www.proggyfonts.net/"
+	],
+	"serif": false,
+	"free": "open license",
+	"tags": [
+		"bitmap",
+		"retro"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Ubuntu Mono",
+	"author": "Dalton Maag",
+	"year": 2010,
+	"license": "Ubuntu/SIL OFL",
+	"websites": [
+		"http://font.ubuntu.com",
+		"http://www.fontsquirrel.com/fonts/ubuntu-mono",
+		"http://www.google.com/fonts/specimen/Ubuntu+Mono"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"professional"
+	]
+}

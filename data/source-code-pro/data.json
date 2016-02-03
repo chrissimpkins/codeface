@@ -1,0 +1,19 @@
+{
+	"name": "Source Code Pro",
+	"author": "Paul D. Hunt",
+	"year": 2012,
+	"license": "SIL OFL",
+	"websites": [
+		"https://github.com/adobe-fonts/source-sans-pro",
+		"http://blog.typekit.com/2012/09/24/source-code-pro/",
+		"http://www.fontsquirrel.com/fonts/source-code-pro",
+		"http://www.google.com/fonts/specimen/Source+Code+Pro"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"professional",
+		"open source",
+		"github"
+	]
+}

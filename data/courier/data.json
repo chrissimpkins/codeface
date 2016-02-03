@@ -1,0 +1,15 @@
+{
+	"name": "Courier",
+	"author": "Howard (Bud) Kettler",
+	"year": 1955,
+	"websites": [
+		"https://en.wikipedia.org/wiki/Courier_(typeface)"
+	],
+	"free": "non-free",
+	"serif": true,
+	"tags": [
+		"typewriter",
+		"professional",
+		"courier"
+	]
+}

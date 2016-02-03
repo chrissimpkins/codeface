@@ -1,0 +1,16 @@
+{
+	"name": "PT Mono",
+	"author": "Alexandra Korolkova, Isabella Chaeva",
+	"year": 2011,
+	"license": "SIL OFL",
+	"websites": [
+		"http://paratype.com/public/",
+		"http://www.fontsquirrel.com/fonts/pt-mono",
+		"http://www.google.com/fonts/specimen/PT+Mono"
+	],
+	"serif": true,
+	"free": "open license",
+	"tags": [
+		"professional"
+	]
+}
