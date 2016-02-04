@@ -1,0 +1,15 @@
+{
+	"name": "DejaVu Mono",
+	"author": "Deja Vu Project",
+	"year": 2004,
+	"license": "Bitstream Vera License",
+	"websites": [
+		"http://dejavu-fonts.org/wiki/Main_Page"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"open source",
+		"bistream vera"
+	]
+}

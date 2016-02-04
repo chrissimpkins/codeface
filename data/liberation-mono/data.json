@@ -1,0 +1,15 @@
+{
+	"name": "Liberation Mono",
+	"author": "Steve Matteson",
+	"year": 2007,
+	"license": "Red Hat Liberation License",
+	"websites": [
+		"https://fedorahosted.org/liberation-fonts/",
+		"http://www.fontsquirrel.com/fonts/Liberation-Mono"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"professional"
+	]
+}

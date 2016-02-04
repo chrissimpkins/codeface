@@ -1,0 +1,16 @@
+{
+	"name": "Fantasque Sans Mono",
+	"author": "Jany Belluz",
+	"year": 2013,
+	"license": "SIL OFL",
+	"websites": [
+		"http://openfontlibrary.org/en/font/fantasque-sans-mono",
+		"https://github.com/belluzj/fantasque-sans"
+	],
+	"serif": false,
+	"free": "open license",
+	"tags": [
+		"github",
+		"open source"
+	]
+}
