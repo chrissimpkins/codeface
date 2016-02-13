@@ -4,7 +4,8 @@
 	"websites": [
 		"https://en.wikipedia.org/wiki/Andale_Mono"
 	],
-	"free": "non-free",
+	"license": "all rights reserved",
+	"free": "commercial",
 	"serif": false,
 	"tags": [
 		"professional"

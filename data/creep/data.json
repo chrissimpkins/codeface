@@ -1,0 +1,14 @@
+{
+	"name": "Creep",
+	"author": "Romeo Van Snick",
+	"license": "MIT",
+	"websites": [
+		"https://github.com/romeovs/creep"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"bitmap",
+		"github"
+	]
+}

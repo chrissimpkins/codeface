@@ -5,7 +5,8 @@
 	"websites": [
 		"https://en.wikipedia.org/wiki/Courier_(typeface)"
 	],
-	"free": "non-free",
+	"license": "all rights reserved",
+	"free": "commercial",
 	"serif": true,
 	"tags": [
 		"typewriter",

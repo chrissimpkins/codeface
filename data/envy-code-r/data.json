@@ -4,7 +4,7 @@
 	"websites": [
 		"http://www.fontsquirrel.com/fonts/Envy-Code-R"
 	],
-	"free": "personal use, no redistribution",
-	"serif": false,
-	"tags": [ ]
+	"license": "custom",
+	"free": "free for personal use",
+	"serif": false
 }

@@ -1,0 +1,16 @@
+{
+	"name": "Fixedsys",
+	"author": "Microsoft",
+	"year": 1980,
+	"license": "GNU GPL",
+	"websites": [
+		"http://www.moviecorner.de/en/font-fixedsys-ttf/description",
+		"https://en.wikipedia.org/wiki/Fixedsys"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"bitmap",
+		"retro"
+	]
+}
