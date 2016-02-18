@@ -1,0 +1,15 @@
+{
+	"name": "Terminus",
+	"author": "Dimitar Zhekov",
+	"license": "SIL-OFL",
+	"websites": [
+		"http://terminus-font.sourceforge.net"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"bitmap",
+		"free",
+		"sans"
+	]
+}

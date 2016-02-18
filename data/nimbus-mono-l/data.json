@@ -1,0 +1,14 @@
+{
+	"name": "Nimbus Mono L",
+	"author": "URW++ Studio",
+	"year": 1984,
+	"license": "GNU GPL",
+	"websites": [
+		"https://en.wikipedia.org/wiki/Nimbus_Mono_L"
+	],
+	"serif": true,
+	"free": "open license",
+	"tags": [
+		"professional"
+	]
+}

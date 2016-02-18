@@ -1,0 +1,14 @@
+{
+	"name": "Lucida Console",
+	"author": "Charles Bigelow and Kris Holmes",
+	"year": 1985,
+	"websites": [
+		"https://en.wikipedia.org/wiki/Lucida_(typeface)"
+	],
+	"license": "all rights reserved",
+	"free": "commercial",
+	"serif": false,
+	"tags": [
+		"professional"
+	]
+}

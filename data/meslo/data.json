@@ -1,0 +1,15 @@
+{
+	"name": "Meslo",
+	"author": "André Berg",
+	"year": 2010,
+	"license": "Apache",
+	"websites": [
+		"https://github.com/andreberg/Meslo-Font"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"bitstream vera",
+		"github"
+	]
+}

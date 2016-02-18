@@ -1,0 +1,16 @@
+{
+	"name": "VT323",
+	"author": "Peter Hull",
+	"year": 2014,
+	"license": "SIL OFL",
+	"websites": [
+		"https://fedoraproject.org/wiki/VT323_Fonts",
+		"http://www.google.com/fonts/specimen/VT323"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"retro",
+		"bitmap"
+	]
+}
