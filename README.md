@@ -29,8 +29,8 @@ Click a link below to download all font binaries in the Codeface main and bitmap
 
 | Archive  | SHA1  | Size |
 | :------------: |:---------------:| :-----:|
-| [codeface-fonts.zip](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip) | `31383b0ed6ea8605f976a3fca9a7d9d46a672200` | 30.6 MB |
-| [codeface-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz) | `35037abab66daea874d96ae58bf3f74671b126a7` | 15.9 MB |
+| [codeface-fonts.zip](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip) | `72032eb31ac64d7dbff3f854af2dc6009ec5b94a` | 31.1 MB |
+| [codeface-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz) | `dbd30c22810e5160e6d721b916b5807eb1dfb7ea` | 16.3 MB |
 
 or use one of the following commands to pull a font archive with `wget`:
 
