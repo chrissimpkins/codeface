@@ -8,47 +8,53 @@ The following typefaces are free to use; however, they do not permit redistribut
 
 ### [Envy Code R](http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released)
 
-<img src="images/envy-code-r-TP.png" width="725">
-<img src="images/envy-code-r-TPC.png" width="725">
-<img src="images/envy-code-r.png" width="725">
+<img src="images/gallery/envy-code-r-STP.png" width="725">
+<img src="images/gallery/envy-code-r-STPC.png" width="725">
+<img src="images/gallery/envy-code-r-dark.png" width="725">
+<img src="images/gallery/envy-code-r-light.png" width="725">
 
 
 ### [Input Mono](http://input.fontbureau.com/download/)
 
-<img src="images/input-mono-TP.png" width="725">
-<img src="images/input-mono-TPC.png" width="725">
-<img src="images/input-mono.png" width="725">
+<img src="images/gallery/input-mono-STP.png" width="725">
+<img src="images/gallery/input-mono-STPC.png" width="725">
+<img src="images/gallery/input-mono-dark.png" width="725">
+<img src="images/gallery/input-mono-light.png" width="725">
 
 
 ### [Klartext Mono Light](http://www.fontspring.com/fonts/heimatdesign/klartext-mono)
 
-<img src="images/klartext-mono-TP.png" width="725">
-<img src="images/klartext-mono-TPC.png" width="725">
-<img src="images/klartext-mono.png" width="725">
+<img src="images/gallery/klartext-mono-STP.png" width="725">
+<img src="images/gallery/klartext-mono-STPC.png" width="725">
+<img src="images/gallery/klartext-mono-dark.png" width="725">
+<img src="images/gallery/klartext-mono-light.png" width="725">
 
 
 
 ### [Monofonto](http://www.fontspring.com/fonts/typodermic/monofonto)
 
-<img src="images/monofonto-TP.png" width="725">
-<img src="images/monofonto-TPC.png" width="725">
-<img src="images/monofonto.png" width="725">
+<img src="images/gallery/monofonto-STP.png" width="725">
+<img src="images/gallery/monofonto-STPC.png" width="725">
+<img src="images/gallery/monofonto-dark.png" width="725">
+<img src="images/gallery/monofonto-light.png" width="725">
 
 
 
 ### [Monoxil Regular](http://www.fontspring.com/fonts/urtd/monoxil)
 
-<img src="images/monoxil-regular-TP.png" width="725">
-<img src="images/monoxil-regular-TPC.png" width="725">
-<img src="images/monoxil-regular.png" width="725">
+<img src="images/gallery/monoxil-STP.png" width="725">
+<img src="images/gallery/monoxil-STPC.png" width="725">
+<img src="images/gallery/monoxil-dark.png" width="725">
+<img src="images/gallery/monoxil-light.png" width="725">
 
 
 
 ### [NK57 Monospace](http://www.fontspring.com/fonts/typodermic/nk57-monospace)
 
-<img src="images/nk57-monospace-TP.png" width="725">
-<img src="images/nk57-monospace-TPC.png" width="725">
-<img src="images/nk57-monospace.png" width="725">
+<img src="images/gallery/nk57-monospace-STP.png" width="725">
+<img src="images/gallery/nk57-monospace-STPC.png" width="725">
+<img src="images/gallery/nk57-monospace-dark.png" width="725">
+<img src="images/gallery/nk57-monospace-light.png" width="725">
 
 
 
