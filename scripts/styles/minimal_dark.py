@@ -1,3 +1,7 @@
+# Copyright 2016 David van Gemeren
+# Minimal Dark syntax highlighter
+# MIT license
+
 from pygments.style import Style
 from pygments.token import Text, Whitespace, Literal, Keyword, Name, Comment, String, Error, Number, Operator, Generic, Other, Punctuation
 
