@@ -1,6 +1,5 @@
 ## Codeface Contributors
 
-* Chris Simpkins ([@chrissimpkins](https://github.com/chrissimpkins)) - Apex (developer of [Hack font](https://github.com/chrissimpkins/Hack))
 * Raphaël Bastide ([@raphaelbastide](https://github.com/raphaelbastide)) - The Half Uncial (developer of [Whois Mono font](https://github.com/raphaelbastide/Whois-mono))
 * Matt Brzezinski ([@mattBrzezinski](https://github.com/mattBrzezinski)) - My Own Worst Diacritic
 * Tom Byrer ([@tomByrer](https://github.com/tomByrer)) - Big Bowls
@@ -14,6 +13,7 @@
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face (developer of [Monoid font](http://larsenwork.com/monoid/))
 * Ken Lunde ([@kenlunde](https://github.com/kenlunde)) - The Boustrophedon (developer of [Source Han Sans](https://github.com/adobe-fonts/source-han-sans/))
 * Frederik Ring ([@m90](https://github.com/m90)) - Wide Shoulder
+* Chris Simpkins ([@chrissimpkins](https://github.com/chrissimpkins)) - Apex (developer of [Hack font](https://github.com/chrissimpkins/Hack))
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
 * Chris Wendt ([@chrismwendt](https://github.com/chrismwendt)) - Em-n-Em (developer of [Bront font](https://github.com/chrismwendt/bront))
 * Caleb Xu ([@alebcay](https://github.com/alebcay)) - The Ascender
