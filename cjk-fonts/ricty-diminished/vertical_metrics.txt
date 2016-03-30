@@ -1,0 +1,34 @@
+ 
+=== RictyDiminished-Regular.ttf ===
+Version 4.0.0 
+SHA1: 27d67e16a0e08190a8e90c8c0c1b3e780cdae9c1
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		978
+[head] yMin: 		-291
+[OS/2] TypoAscender: 	860
+[OS/2] TypoDescender: 	-140
+[OS/2] WinAscent: 	835
+[OS/2] WinDescent: 	215
+[hhea] Ascent: 		835
+[hhea] Descent: 	-215
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1050
+[hhea] Ascent to Descent: 		1050
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	-25
+Ascent to TypoAscender: 	-25
+WinDescent to TypoDescender: 	75
+Descent to TypoDescender: 	75
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1
+(winAsc + winDesc) / UPM: 		1.05
+(hhea Asc + Desc) / UPM: 		1.05

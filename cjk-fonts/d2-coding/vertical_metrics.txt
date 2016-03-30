@@ -1,0 +1,34 @@
+ 
+=== D2Coding.ttf ===
+Version 1.1; Build 20151103
+SHA1: 5a816acf0e400b28b2115c7ece2ed2954b835d1b
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		913
+[head] yMin: 		-287
+[OS/2] TypoAscender: 	850
+[OS/2] TypoDescender: 	-150
+[OS/2] WinAscent: 	903
+[OS/2] WinDescent: 	257
+[hhea] Ascent: 		850
+[hhea] Descent: 	-230
+
+[hhea] LineGap: 	80
+[OS/2] TypoLineGap: 	160
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1160
+[hhea] Ascent to Descent: 		1080
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	53
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	107
+Descent to TypoDescender: 	80
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.16
+(winAsc + winDesc) / UPM: 		1.16
+(hhea Asc + Desc) / UPM: 		1.08
