@@ -1,0 +1,34 @@
+ 
+=== cmuntt.otf ===
+Version 0.7.0 
+SHA1: 31bc95974b9ab05036b4f4431e2ce312f92693a7
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		1054
+[head] yMin: 		-388
+[OS/2] TypoAscender: 	775
+[OS/2] TypoDescender: 	-225
+[OS/2] WinAscent: 	827
+[OS/2] WinDescent: 	233
+[hhea] Ascent: 		827
+[hhea] Descent: 	-233
+
+[hhea] LineGap: 	200
+[OS/2] TypoLineGap: 	200
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1060
+[hhea] Ascent to Descent: 		1060
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	52
+Ascent to TypoAscender: 	52
+WinDescent to TypoDescender: 	8
+Descent to TypoDescender: 	8
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.2
+(winAsc + winDesc) / UPM: 		1.06
+(hhea Asc + Desc) / UPM: 		1.06

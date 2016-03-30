@@ -1,0 +1,34 @@
+ 
+=== dina10px.ttf ===
+1.00
+SHA1: a5305a275363d8aa1d44983e466f9f350b11e71b
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		749
+[head] yMin: 		-250
+[OS/2] TypoAscender: 	624
+[OS/2] TypoDescender: 	-250
+[OS/2] WinAscent: 	749
+[OS/2] WinDescent: 	250
+[hhea] Ascent: 		624
+[hhea] Descent: 	-250
+
+[hhea] LineGap: 	37
+[OS/2] TypoLineGap: 	37
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	874
+[OS/2] WinAscent to WinDescent: 	999
+[hhea] Ascent to Descent: 		874
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	125
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	0.911
+(winAsc + winDesc) / UPM: 		0.999
+(hhea Asc + Desc) / UPM: 		0.874

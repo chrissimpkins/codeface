@@ -1,0 +1,34 @@
+ 
+=== CPMono_v07 Plain.otf ===
+Version 1.000 2006 initial release
+SHA1: bd4fa7f07e98aa83a4f2d943ec9d9cb3c3d601e6
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		907
+[head] yMin: 		-240
+[OS/2] TypoAscender: 	760
+[OS/2] TypoDescender: 	-240
+[OS/2] WinAscent: 	912
+[OS/2] WinDescent: 	288
+[hhea] Ascent: 		912
+[hhea] Descent: 	-288
+
+[hhea] LineGap: 	200
+[OS/2] TypoLineGap: 	200
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1200
+[hhea] Ascent to Descent: 		1200
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	152
+Ascent to TypoAscender: 	152
+WinDescent to TypoDescender: 	48
+Descent to TypoDescender: 	48
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.2
+(winAsc + winDesc) / UPM: 		1.2
+(hhea Asc + Desc) / UPM: 		1.2

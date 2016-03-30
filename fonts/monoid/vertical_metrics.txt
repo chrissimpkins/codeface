@@ -1,0 +1,34 @@
+ 
+=== Monoid-Regular.ttf ===
+Version 0.61 
+SHA1: 33655e1e7d58341e5a6aa373d137596141c50646
+
+--- Metrics ---
+[head] Units per Em: 	1536
+[head] yMax: 		1808
+[head] yMin: 		-420
+[OS/2] TypoAscender: 	1664
+[OS/2] TypoDescender: 	-384
+[OS/2] WinAscent: 	1664
+[OS/2] WinDescent: 	384
+[hhea] Ascent: 		1664
+[hhea] Descent: 	-384
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2048
+[OS/2] WinAscent to WinDescent: 	2048
+[hhea] Ascent to Descent: 		2048
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	0
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.33
+(winAsc + winDesc) / UPM: 		1.33
+(hhea Asc + Desc) / UPM: 		1.33

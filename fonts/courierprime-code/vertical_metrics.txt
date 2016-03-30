@@ -1,0 +1,34 @@
+ 
+=== Courier Prime Code.ttf ===
+Version 3.0318
+SHA1: 59ef1e467c5368e0c68b92e189c91f5a126fc216
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		1827
+[head] yMin: 		-838
+[OS/2] TypoAscender: 	1421
+[OS/2] TypoDescender: 	-643
+[OS/2] WinAscent: 	1797
+[OS/2] WinDescent: 	839
+[hhea] Ascent: 		1421
+[hhea] Descent: 	-643
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	194
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2064
+[OS/2] WinAscent to WinDescent: 	2636
+[hhea] Ascent to Descent: 		2064
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	376
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	196
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.1
+(winAsc + winDesc) / UPM: 		1.29
+(hhea Asc + Desc) / UPM: 		1.01

@@ -1,0 +1,34 @@
+ 
+=== Share-TechMonoTrue.ttf ===
+Version 1.000;PS 001.000;hotconv 1.0.38
+SHA1: 2846d935573986992b2a28d8bb7c7ea5ec9875fb
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		855
+[head] yMin: 		-235
+[OS/2] TypoAscender: 	808
+[OS/2] TypoDescender: 	-192
+[OS/2] WinAscent: 	855
+[OS/2] WinDescent: 	200
+[hhea] Ascent: 		885
+[hhea] Descent: 	-242
+
+[hhea] LineGap: 	73
+[OS/2] TypoLineGap: 	200
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1055
+[hhea] Ascent to Descent: 		1127
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	47
+Ascent to TypoAscender: 	77
+WinDescent to TypoDescender: 	8
+Descent to TypoDescender: 	50
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.2
+(winAsc + winDesc) / UPM: 		1.05
+(hhea Asc + Desc) / UPM: 		1.13

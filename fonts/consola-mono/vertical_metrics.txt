@@ -1,0 +1,34 @@
+ 
+=== ConsolaMono.ttf ===
+Version 2.001
+SHA1: c2ff2c46185f4fbbb0117ce3a959a92f16c7413e
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		2019
+[head] yMin: 		-421
+[OS/2] TypoAscender: 	2323
+[OS/2] TypoDescender: 	-481
+[OS/2] WinAscent: 	2323
+[OS/2] WinDescent: 	481
+[hhea] Ascent: 		2323
+[hhea] Descent: 	-481
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2804
+[OS/2] WinAscent to WinDescent: 	2804
+[hhea] Ascent to Descent: 		2804
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	0
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.37
+(winAsc + winDesc) / UPM: 		1.37
+(hhea Asc + Desc) / UPM: 		1.37

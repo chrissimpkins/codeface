@@ -1,0 +1,33 @@
+ 
+=== NanumGothic_Coding.ttf ===
+SHA1: 7a00d7c90d5546f6c29654a47a684216446ea493
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		801
+[head] yMin: 		-200
+[OS/2] TypoAscender: 	1000
+[OS/2] TypoDescender: 	-300
+[OS/2] WinAscent: 	1000
+[OS/2] WinDescent: 	300
+[hhea] Ascent: 		1000
+[hhea] Descent: 	-300
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1300
+[OS/2] WinAscent to WinDescent: 	1300
+[hhea] Ascent to Descent: 		1300
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	0
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.3
+(winAsc + winDesc) / UPM: 		1.3
+(hhea Asc + Desc) / UPM: 		1.3

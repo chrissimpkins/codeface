@@ -1,0 +1,34 @@
+ 
+=== ProFontWindows.ttf ===
+Macromedia Fontographer 4.1.5 5/11/97
+SHA1: 1dacd3b072ed78e8c0c603f8922d3bee0557f0f9
+
+--- Metrics ---
+[head] Units per Em: 	900
+[head] yMax: 		910
+[head] yMin: 		-199
+[OS/2] TypoAscender: 	910
+[OS/2] TypoDescender: 	-200
+[OS/2] WinAscent: 	910
+[OS/2] WinDescent: 	199
+[hhea] Ascent: 		910
+[hhea] Descent: 	-199
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1110
+[OS/2] WinAscent to WinDescent: 	1109
+[hhea] Ascent to Descent: 		1109
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	0
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	-1
+Descent to TypoDescender: 	-1
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.23
+(winAsc + winDesc) / UPM: 		1.23
+(hhea Asc + Desc) / UPM: 		1.23

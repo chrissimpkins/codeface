@@ -1,0 +1,34 @@
+ 
+=== CamingoCode Regular.ttf ===
+Version 1.000
+SHA1: ff85d91eda0be37efe3e34057cf0f973a594bea3
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		1050
+[head] yMin: 		-250
+[OS/2] TypoAscender: 	750
+[OS/2] TypoDescender: 	-250
+[OS/2] WinAscent: 	1050
+[OS/2] WinDescent: 	250
+[hhea] Ascent: 		1050
+[hhea] Descent: 	-250
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	300
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1300
+[hhea] Ascent to Descent: 		1300
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	300
+Ascent to TypoAscender: 	300
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.3
+(winAsc + winDesc) / UPM: 		1.3
+(hhea Asc + Desc) / UPM: 		1.3

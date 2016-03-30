@@ -1,0 +1,34 @@
+ 
+=== monoOne.otf ===
+Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329
+SHA1: 850ac5115a59317b39634c955a51d70a2585df44
+
+--- Metrics ---
+[head] Units per Em: 	2000
+[head] yMax: 		1956
+[head] yMin: 		-698
+[OS/2] TypoAscender: 	1500
+[OS/2] TypoDescender: 	-500
+[OS/2] WinAscent: 	1900
+[OS/2] WinDescent: 	500
+[hhea] Ascent: 		1900
+[hhea] Descent: 	-500
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	180
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2000
+[OS/2] WinAscent to WinDescent: 	2400
+[hhea] Ascent to Descent: 		2400
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	400
+Ascent to TypoAscender: 	400
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.09
+(winAsc + winDesc) / UPM: 		1.2
+(hhea Asc + Desc) / UPM: 		1.2

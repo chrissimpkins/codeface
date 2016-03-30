@@ -1,0 +1,34 @@
+ 
+=== OxygenMono-Regular.otf ===
+Version 1.000
+SHA1: bd1427fb09c6d260b9f8bffa3b34f3c1890a754d
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		2076
+[head] yMin: 		-678
+[OS/2] TypoAscender: 	1638
+[OS/2] TypoDescender: 	-410
+[OS/2] WinAscent: 	2099
+[OS/2] WinDescent: 	678
+[hhea] Ascent: 		2099
+[hhea] Descent: 	-678
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2048
+[OS/2] WinAscent to WinDescent: 	2777
+[hhea] Ascent to Descent: 		2777
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	461
+Ascent to TypoAscender: 	461
+WinDescent to TypoDescender: 	268
+Descent to TypoDescender: 	268
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1
+(winAsc + winDesc) / UPM: 		1.36
+(hhea Asc + Desc) / UPM: 		1.36

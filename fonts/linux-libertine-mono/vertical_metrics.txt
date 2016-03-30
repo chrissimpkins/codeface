@@ -1,0 +1,34 @@
+ 
+=== LinLibertine_Mah.ttf ===
+Version 5.1.7 ; ttfautohint (v0.9)
+SHA1: 210d521d65d45df8701e9113b51898e0708d7b06
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		1937
+[head] yMin: 		-590
+[OS/2] TypoAscender: 	1831
+[OS/2] TypoDescender: 	-504
+[OS/2] WinAscent: 	1831
+[OS/2] WinDescent: 	504
+[hhea] Ascent: 		1831
+[hhea] Descent: 	-504
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2335
+[OS/2] WinAscent to WinDescent: 	2335
+[hhea] Ascent to Descent: 		2335
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	0
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.14
+(winAsc + winDesc) / UPM: 		1.14
+(hhea Asc + Desc) / UPM: 		1.14

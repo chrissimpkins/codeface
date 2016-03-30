@@ -1,0 +1,34 @@
+ 
+=== agave-r.ttf ===
+Version 008 
+SHA1: 61c41a5a7a6ba2356bbd7715413ec7d7ab187f0b
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		1792
+[head] yMin: 		-512
+[OS/2] TypoAscender: 	1536
+[OS/2] TypoDescender: 	-512
+[OS/2] WinAscent: 	1792
+[OS/2] WinDescent: 	512
+[hhea] Ascent: 		1792
+[hhea] Descent: 	-512
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2048
+[OS/2] WinAscent to WinDescent: 	2304
+[hhea] Ascent to Descent: 		2304
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	256
+Ascent to TypoAscender: 	256
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1
+(winAsc + winDesc) / UPM: 		1.12
+(hhea Asc + Desc) / UPM: 		1.12

@@ -1,0 +1,34 @@
+ 
+=== Hermit-medium.otf ===
+Version 1.21 
+SHA1: 301b1b8b5e536fdcaac48d0985eeca5fde878df1
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		1000
+[head] yMin: 		-414
+[OS/2] TypoAscender: 	750
+[OS/2] TypoDescender: 	-250
+[OS/2] WinAscent: 	1000
+[OS/2] WinDescent: 	414
+[hhea] Ascent: 		1000
+[hhea] Descent: 	-414
+
+[hhea] LineGap: 	92
+[OS/2] TypoLineGap: 	92
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1414
+[hhea] Ascent to Descent: 		1414
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	250
+Ascent to TypoAscender: 	250
+WinDescent to TypoDescender: 	164
+Descent to TypoDescender: 	164
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.09
+(winAsc + winDesc) / UPM: 		1.41
+(hhea Asc + Desc) / UPM: 		1.41

@@ -1,0 +1,34 @@
+ 
+=== Pointfree.ttf ===
+1.0
+SHA1: 9d60f27e51656408ad3c922116ac57948acdfb04
+
+--- Metrics ---
+[head] Units per Em: 	820
+[head] yMax: 		744
+[head] yMin: 		-252
+[OS/2] TypoAscender: 	891
+[OS/2] TypoDescender: 	-256
+[OS/2] WinAscent: 	891
+[OS/2] WinDescent: 	256
+[hhea] Ascent: 		891
+[hhea] Descent: 	-256
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1147
+[OS/2] WinAscent to WinDescent: 	1147
+[hhea] Ascent to Descent: 		1147
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	0
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.4
+(winAsc + winDesc) / UPM: 		1.4
+(hhea Asc + Desc) / UPM: 		1.4

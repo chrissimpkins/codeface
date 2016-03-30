@@ -1,0 +1,34 @@
+ 
+=== Inconsolata-g.ttf ===
+Version 001.010 
+SHA1: a0f7924c8c2be90499a483ab20ce02d1378daaaa
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		967
+[head] yMin: 		-206
+[OS/2] TypoAscender: 	820
+[OS/2] TypoDescender: 	-180
+[OS/2] WinAscent: 	967
+[OS/2] WinDescent: 	206
+[hhea] Ascent: 		967
+[hhea] Descent: 	-206
+
+[hhea] LineGap: 	200
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1173
+[hhea] Ascent to Descent: 		1173
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	147
+Ascent to TypoAscender: 	147
+WinDescent to TypoDescender: 	26
+Descent to TypoDescender: 	26
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1
+(winAsc + winDesc) / UPM: 		1.17
+(hhea Asc + Desc) / UPM: 		1.17

@@ -1,0 +1,34 @@
+ 
+=== Metrickal-Regular.otf ===
+Version 1.003;PS 001.003;hotconv 1.0.70;makeotf.lib2.5.58329
+SHA1: 732942bca77ce1417724f5b7d405d75e765b7dfb
+
+--- Metrics ---
+[head] Units per Em: 	900
+[head] yMax: 		780
+[head] yMin: 		-188
+[OS/2] TypoAscender: 	800
+[OS/2] TypoDescender: 	-200
+[OS/2] WinAscent: 	880
+[OS/2] WinDescent: 	200
+[hhea] Ascent: 		880
+[hhea] Descent: 	-200
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	80
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1080
+[hhea] Ascent to Descent: 		1080
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	80
+Ascent to TypoAscender: 	80
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.2
+(winAsc + winDesc) / UPM: 		1.2
+(hhea Asc + Desc) / UPM: 		1.2

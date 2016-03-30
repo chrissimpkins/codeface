@@ -1,0 +1,34 @@
+ 
+=== lmmonolt10-regular.otf ===
+Version 1.106;PS 1.106;hotconv 1.0.49;makeotf.lib2.0.14853
+SHA1: 446e20ec38768f9fb3ef02142ec81d2b68f19fb2
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		986
+[head] yMin: 		-327
+[OS/2] TypoAscender: 	770
+[OS/2] TypoDescender: 	-230
+[OS/2] WinAscent: 	986
+[OS/2] WinDescent: 	327
+[hhea] Ascent: 		986
+[hhea] Descent: 	-327
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	200
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1313
+[hhea] Ascent to Descent: 		1313
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	216
+Ascent to TypoAscender: 	216
+WinDescent to TypoDescender: 	97
+Descent to TypoDescender: 	97
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.2
+(winAsc + winDesc) / UPM: 		1.31
+(hhea Asc + Desc) / UPM: 		1.31

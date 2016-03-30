@@ -1,0 +1,34 @@
+ 
+=== VerilySerifMono.otf ===
+Version Release 1.10
+SHA1: 04eb2b4af184d6070d26b59e2aea55872a565d25
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		928
+[head] yMin: 		-236
+[OS/2] TypoAscender: 	760
+[OS/2] TypoDescender: 	-240
+[OS/2] WinAscent: 	928
+[OS/2] WinDescent: 	236
+[hhea] Ascent: 		928
+[hhea] Descent: 	-236
+
+[hhea] LineGap: 	97
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1164
+[hhea] Ascent to Descent: 		1164
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	168
+Ascent to TypoAscender: 	168
+WinDescent to TypoDescender: 	-4
+Descent to TypoDescender: 	-4
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1
+(winAsc + winDesc) / UPM: 		1.16
+(hhea Asc + Desc) / UPM: 		1.16

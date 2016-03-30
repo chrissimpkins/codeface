@@ -1,0 +1,33 @@
+ 
+=== RobotoMono-Regular.ttf ===
+SHA1: 69a65c2b797d2fa124b4c709097e761b7857a035
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		2163
+[head] yMin: 		-555
+[OS/2] TypoAscender: 	2146
+[OS/2] TypoDescender: 	-555
+[OS/2] WinAscent: 	2146
+[OS/2] WinDescent: 	555
+[hhea] Ascent: 		2146
+[hhea] Descent: 	-555
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2701
+[OS/2] WinAscent to WinDescent: 	2701
+[hhea] Ascent to Descent: 		2701
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	0
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.32
+(winAsc + winDesc) / UPM: 		1.32
+(hhea Asc + Desc) / UPM: 		1.32

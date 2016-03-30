@@ -1,0 +1,34 @@
+ 
+=== gohufont-uni-11.ttf ===
+Version 001.000 
+SHA1: 4f0c22883eef26d6d1d4674310fa5434f3d9d761
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		1679
+[head] yMin: 		-370
+[OS/2] TypoAscender: 	1638
+[OS/2] TypoDescender: 	-410
+[OS/2] WinAscent: 	1679
+[OS/2] WinDescent: 	370
+[hhea] Ascent: 		1679
+[hhea] Descent: 	-370
+
+[hhea] LineGap: 	377
+[OS/2] TypoLineGap: 	377
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2048
+[OS/2] WinAscent to WinDescent: 	2049
+[hhea] Ascent to Descent: 		2049
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	41
+Ascent to TypoAscender: 	41
+WinDescent to TypoDescender: 	-40
+Descent to TypoDescender: 	-40
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.18
+(winAsc + winDesc) / UPM: 		1
+(hhea Asc + Desc) / UPM: 		1

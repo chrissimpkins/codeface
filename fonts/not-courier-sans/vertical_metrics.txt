@@ -1,0 +1,34 @@
+ 
+=== NotCourierSans.otf ===
+Version 1.1 
+SHA1: 09b674bfbef9b82457e575c30ae080958db631e4
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		959
+[head] yMin: 		-274
+[OS/2] TypoAscender: 	800
+[OS/2] TypoDescender: 	-200
+[OS/2] WinAscent: 	959
+[OS/2] WinDescent: 	274
+[hhea] Ascent: 		959
+[hhea] Descent: 	-274
+
+[hhea] LineGap: 	90
+[OS/2] TypoLineGap: 	90
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1233
+[hhea] Ascent to Descent: 		1233
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	159
+Ascent to TypoAscender: 	159
+WinDescent to TypoDescender: 	74
+Descent to TypoDescender: 	74
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.09
+(winAsc + winDesc) / UPM: 		1.23
+(hhea Asc + Desc) / UPM: 		1.23

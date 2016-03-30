@@ -1,0 +1,34 @@
+ 
+=== luculent.ttf ===
+Version 1.0.0-845fa02f9341 
+SHA1: a645fef89e3bc1783fbc23ff428bc51af89535c5
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		2080
+[head] yMin: 		-480
+[OS/2] TypoAscender: 	1600
+[OS/2] TypoDescender: 	-480
+[OS/2] WinAscent: 	2080
+[OS/2] WinDescent: 	480
+[hhea] Ascent: 		2080
+[hhea] Descent: 	-480
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	480
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2080
+[OS/2] WinAscent to WinDescent: 	2560
+[hhea] Ascent to Descent: 		2560
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	480
+Ascent to TypoAscender: 	480
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.25
+(winAsc + winDesc) / UPM: 		1.25
+(hhea Asc + Desc) / UPM: 		1.25

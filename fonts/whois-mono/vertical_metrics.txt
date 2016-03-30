@@ -1,0 +1,34 @@
+ 
+=== whois-mono.ttf ===
+Version 001.000 
+SHA1: 273208a5e980fc43ba3362c78e364c29d2648d21
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		1704
+[head] yMin: 		-348
+[OS/2] TypoAscender: 	1587
+[OS/2] TypoDescender: 	-461
+[OS/2] WinAscent: 	1704
+[OS/2] WinDescent: 	348
+[hhea] Ascent: 		1704
+[hhea] Descent: 	-348
+
+[hhea] LineGap: 	184
+[OS/2] TypoLineGap: 	184
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2048
+[OS/2] WinAscent to WinDescent: 	2052
+[hhea] Ascent to Descent: 		2052
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	117
+Ascent to TypoAscender: 	117
+WinDescent to TypoDescender: 	-113
+Descent to TypoDescender: 	-113
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.09
+(winAsc + winDesc) / UPM: 		1
+(hhea Asc + Desc) / UPM: 		1

@@ -1,0 +1,34 @@
+ 
+=== AurulentSansMono-Regular.otf ===
+Version 2007.05.04
+SHA1: 34e3726148a2841e40fe06312ada5aca478e9420
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		1001
+[head] yMin: 		-211
+[OS/2] TypoAscender: 	800
+[OS/2] TypoDescender: 	-200
+[OS/2] WinAscent: 	1001
+[OS/2] WinDescent: 	211
+[hhea] Ascent: 		1001
+[hhea] Descent: 	-211
+
+[hhea] LineGap: 	90
+[OS/2] TypoLineGap: 	90
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1212
+[hhea] Ascent to Descent: 		1212
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	201
+Ascent to TypoAscender: 	201
+WinDescent to TypoDescender: 	11
+Descent to TypoDescender: 	11
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.09
+(winAsc + winDesc) / UPM: 		1.21
+(hhea Asc + Desc) / UPM: 		1.21

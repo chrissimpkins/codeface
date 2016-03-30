@@ -1,0 +1,33 @@
+ 
+=== Cousine-Regular.ttf ===
+SHA1: e2e700abfd181dc96299e4ee4b2cad46ccef85e6
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		2009
+[head] yMin: 		-615
+[OS/2] TypoAscender: 	1255
+[OS/2] TypoDescender: 	-386
+[OS/2] WinAscent: 	1705
+[OS/2] WinDescent: 	615
+[hhea] Ascent: 		1705
+[hhea] Descent: 	-615
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1641
+[OS/2] WinAscent to WinDescent: 	2320
+[hhea] Ascent to Descent: 		2320
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	450
+Ascent to TypoAscender: 	450
+WinDescent to TypoDescender: 	229
+Descent to TypoDescender: 	229
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	0.801
+(winAsc + winDesc) / UPM: 		1.13
+(hhea Asc + Desc) / UPM: 		1.13

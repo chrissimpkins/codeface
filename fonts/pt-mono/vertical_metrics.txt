@@ -1,0 +1,34 @@
+ 
+=== PTM55F.ttf ===
+Version 1.002
+SHA1: 2661e6d25318c03722be2726ff16da992bcae72a
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		915
+[head] yMin: 		-235
+[OS/2] TypoAscender: 	770
+[OS/2] TypoDescender: 	-230
+[OS/2] WinAscent: 	885
+[OS/2] WinDescent: 	235
+[hhea] Ascent: 		885
+[hhea] Descent: 	-235
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	120
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1120
+[hhea] Ascent to Descent: 		1120
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	115
+Ascent to TypoAscender: 	115
+WinDescent to TypoDescender: 	5
+Descent to TypoDescender: 	5
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.12
+(winAsc + winDesc) / UPM: 		1.12
+(hhea Asc + Desc) / UPM: 		1.12

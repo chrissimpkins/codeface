@@ -1,0 +1,34 @@
+ 
+=== CutiveMono-Regular.ttf ===
+Version 1.002; ttfautohint (v0.93.5-3d13) -l 8 -r 50 -G 200 -x 16 -w "gG" -c
+SHA1: e4837f21d7581c3f0418a02b2bedf15909df7569
+
+--- Metrics ---
+[head] Units per Em: 	2048
+[head] yMax: 		1697
+[head] yMin: 		-558
+[OS/2] TypoAscender: 	1697
+[OS/2] TypoDescender: 	-558
+[OS/2] WinAscent: 	1697
+[OS/2] WinDescent: 	558
+[hhea] Ascent: 		1697
+[hhea] Descent: 	-558
+
+[hhea] LineGap: 	0
+[OS/2] TypoLineGap: 	0
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	2255
+[OS/2] WinAscent to WinDescent: 	2255
+[hhea] Ascent to Descent: 		2255
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	0
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	0
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.1
+(winAsc + winDesc) / UPM: 		1.1
+(hhea Asc + Desc) / UPM: 		1.1
