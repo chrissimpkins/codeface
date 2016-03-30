@@ -10,6 +10,7 @@
 * Belleve Invis ([@be5invis](https://github.com/be5invis)) - Arc of the Stem (developer of [Iosevka font](https://github.com/be5invis/Iosevka))
 * Marc Kastner ([@mkasu](https://github.com/mkasu)) - Curvacious Bezier
 * Andrew Kensler ([@a-e-k](https://github.com/a-e-k)) - Justified (developer of [Luculent font](http://eastfarthing.com/luculent/))
+* Koen Lageveen ([@braver](https://github.com/braver)) - Pitch Fixer
 * Andreas Larsen ([@larsenwork](https://github.com/larsenwork)) - Bold Face (developer of [Monoid font](http://larsenwork.com/monoid/))
 * Ken Lunde ([@kenlunde](https://github.com/kenlunde)) - The Boustrophedon (developer of [Source Han Sans](https://github.com/adobe-fonts/source-han-sans/))
 * Frederik Ring ([@m90](https://github.com/m90)) - Wide Shoulder
