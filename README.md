@@ -12,6 +12,9 @@
 * [Contributor List](CONTRIBUTORS.md)
 * [License](LICENSE.md)
 
+## New!
+
+Each typeface directory in the repository now includes a vertical metrics table (`vertical_metrics.txt`).  Combine the data in these reference tables with the new [`font-line` tool](https://github.com/source-foundry/font-line) to modify any font to the line spacing that suits your needs.  Tighten up or keep it loose.
 
 ## Fun Little Rant About Font Customization
 
