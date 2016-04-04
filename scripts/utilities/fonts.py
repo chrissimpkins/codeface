@@ -47,6 +47,7 @@ font_list = [
     ["M+ 1m", {'size': DEFAULT_SIZE, 'filename': 'mplus1m'}],
     ["M+ 1mn", {'size': DEFAULT_SIZE, 'filename': 'mplus1mn'}],
     ["M+ 2m", {'size': DEFAULT_SIZE, 'filename': 'mplus2m'}],
+    ["Nimbus Mono", {'size': DEFAULT_SIZE, 'filename': 'nimbus-mono'}],
     ["NotCourierSans", {'size': DEFAULT_SIZE, 'filename': 'not-courier-sans'}],
     ["Office Code Pro", {'size': DEFAULT_SIZE, 'filename': 'office-code-pro'}],
     ["Oxygen Mono", {'size': DEFAULT_SIZE, 'filename': 'oxygen-mono'}],
