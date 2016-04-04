@@ -1,0 +1,34 @@
+ 
+=== nimbusmono-regular.otf ===
+Version 1.000;PS 1.00;hotconv 1.0.57;makeotf.lib2.0.21895
+SHA1: bf3ce73186d11818adf027c17bdfd1e26091c007
+
+--- Metrics ---
+[head] Units per Em: 	1000
+[head] yMax: 		940
+[head] yMin: 		-323
+[OS/2] TypoAscender: 	604
+[OS/2] TypoDescender: 	-396
+[OS/2] WinAscent: 	940
+[OS/2] WinDescent: 	323
+[hhea] Ascent: 		604
+[hhea] Descent: 	-396
+
+[hhea] LineGap: 	200
+[OS/2] TypoLineGap: 	200
+
+--- Height Calculations by Table Values ---
+[OS/2] TypoAscender to TypoDescender: 	1000
+[OS/2] WinAscent to WinDescent: 	1263
+[hhea] Ascent to Descent: 		1000
+
+--- Delta Values ---
+WinAscent to TypoAscender: 	336
+Ascent to TypoAscender: 	0
+WinDescent to TypoDescender: 	-73
+Descent to TypoDescender: 	0
+
+--- Ratios ---
+(Typo Asc + Desc + Linegap) / UPM: 	1.2
+(winAsc + winDesc) / UPM: 		1.26
+(hhea Asc + Desc) / UPM: 		1
