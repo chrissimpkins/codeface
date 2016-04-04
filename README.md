@@ -521,6 +521,17 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 
 
+### [Nimbus Mono](fonts/nimbus-mono)
+
+[ [License](fonts/nimbus-mono/license.txt) ]
+
+<img src="images/gallery/nimbus-mono-STP.png" width="725">
+<img src="images/gallery/nimbus-mono-STPC.png" width="725">
+<img src="images/gallery/nimbus-mono-dark.png" width="725">
+<img src="images/gallery/nimbus-mono-light.png" width="725">
+
+
+
 ### [NotCourierSans](fonts/not-courier-sans)
 
 [ [License](fonts/not-courier-sans/license.txt) ]
@@ -716,10 +727,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/whois-mono-STPC.png" width="725">
 <img src="images/gallery/whois-mono-dark.png" width="725">
 <img src="images/gallery/whois-mono-light.png" width="725">
-
-
-
-
 
 
 ---
