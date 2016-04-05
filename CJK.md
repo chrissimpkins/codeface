@@ -24,14 +24,14 @@ Click a link below to download all font binaries in the Codeface CJK gallery col
 | [codeface-cjk-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.tar.xz) | `bc1af8fd9da45ccc9940f945aca51836d37b5f2c`  | 175 MB
 
 
-or use one of the following commands to pull a font archive with `wget`:
+or use one of the following commands to pull a font archive with `curl`:
 
 ```
-$ wget https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.zip
+$ curl -OL https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.zip
 ```
 
 ```
-$ wget https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.tar.xz
+$ curl -OL https://github.com/chrissimpkins/codeface/releases/download/cjk-font-collection/codeface-cjk-fonts.tar.xz
 ```
 
 
