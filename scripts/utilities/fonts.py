@@ -23,6 +23,7 @@ font_list = [
     ["Fira Code", {'size': DEFAULT_SIZE, 'filename': 'fira-code'}],
     ["Fira Mono", {'size': DEFAULT_SIZE, 'filename': 'fira-mono'}],
     ["FreeMono", {'size': DEFAULT_SIZE, 'filename': 'free-mono'}],
+    ["Generic Mono II", {'size': DEFAULT_SIZE, 'filename': 'generic'}],
     ["Hack", {'size': DEFAULT_SIZE, 'filename': 'hack'}],
     ["Hasklig", {'size': DEFAULT_SIZE, 'filename': 'hasklig'}],
     ["Hermit", {'size': DEFAULT_SIZE, 'filename': 'hermit'}],
