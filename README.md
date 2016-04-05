@@ -47,7 +47,6 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 
 ## The Gallery
 
-
 ### [agave](fonts/agave)
 
 [ [License](fonts/agave/license.txt) ]
@@ -254,6 +253,17 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/free-mono-STPC.png" width="725">
 <img src="images/gallery/free-mono-dark.png" width="725">
 <img src="images/gallery/free-mono-light.png" width="725">
+
+
+
+### [Generic Mono II](fonts/generic)
+
+[ [License](fonts/generic/license.txt) ]
+
+<img src="images/gallery/generic-STP.png" width="725">
+<img src="images/gallery/generic-STPC.png" width="725">
+<img src="images/gallery/generic-dark.png" width="725">
+<img src="images/gallery/generic-light.png" width="725">
 
 
 
@@ -727,6 +737,7 @@ $ wget https://github.com/chrissimpkins/codeface/releases/download/font-collecti
 <img src="images/gallery/whois-mono-STPC.png" width="725">
 <img src="images/gallery/whois-mono-dark.png" width="725">
 <img src="images/gallery/whois-mono-light.png" width="725">
+
 
 
 ---
