@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# =========================================
+# image_generator.py
+# Copyright 2017 Christopher Simpkins
+# MIT License
+# =========================================
+
 import sys
 import subprocess
 

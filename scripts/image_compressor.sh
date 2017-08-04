@@ -1,8 +1,10 @@
 #!/bin/bash
 
+# =========================================
 # image_compressor.sh
-# Copyright 2016 Christopher Simpkins
+# Copyright 2017 Christopher Simpkins
 # MIT License
+# =========================================
 
 # Executes image compression on png files with the dependencies:
 

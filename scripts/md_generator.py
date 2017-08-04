@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# =========================================
+# md_generator.py
+# Copyright 2017 Christopher Simpkins
+# MIT License
+# =========================================
+
 # ### [Anonymous Pro](fonts/anonymous-pro)
 
 # [ [License](fonts/anonymous-pro/license.txt) ]
