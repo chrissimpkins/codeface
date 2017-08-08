@@ -14,6 +14,7 @@
 * Ken Lunde ([@kenlunde](https://github.com/kenlunde)) - The Boustrophedon (developer of [Source Han Sans](https://github.com/adobe-fonts/source-han-sans/))
 * Frederik Ring ([@m90](https://github.com/m90)) - Wide Shoulder
 * Chris Simpkins ([@chrissimpkins](https://github.com/chrissimpkins)) - Apex (developer of [Hack font](https://github.com/chrissimpkins/Hack))
+* Kevin Suttle ([@kevinSuttle](https://github.com/kevinSuttle)) - The Ligature
 * Mark Watts ([@wattsm](https://github.com/wattsm)) - I Shot the Serif
 * Chris Wendt ([@chrismwendt](https://github.com/chrismwendt)) - Em-n-Em (developer of [Bront font](https://github.com/chrismwendt/bront))
 * Caleb Xu ([@alebcay](https://github.com/alebcay)) - The Ascender
