@@ -11,10 +11,10 @@ import sys
 import subprocess
 
 # master font list (all fonts in gallery)
-# from utilities.fonts import font_list
+from utilities.fonts import font_list
 
 # single fonts for font additions
-from utilities.font import font_list
+# from utilities.font import font_list
 
 for font in font_list:
     font_name = font[0]
