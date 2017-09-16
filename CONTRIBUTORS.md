@@ -5,6 +5,7 @@
 * Tom Byrer ([@tomByrer](https://github.com/tomByrer)) - Big Bowls
 * Peter Czibik ([@peteyy](https://github.com/peteyy)) - Bottom Bracket
 * David van Gemeren ([@burodepeper](https://github.com/burodepeper)) - Leonardo da Glyphi (developer of [Hack font](https://github.com/chrissimpkins/Hack))
+* John Hamelink ([@johnhamelink](https://github.com/johnhamelink)) - Skinny Leg
 * Masataka Hattori ([@hatchzo](https://github.com/hatchzo)) - High Contrast (developer of [Source Han Code JP font](https://github.com/adobe-fonts/source-han-code-jp))
 * Belleve Invis ([@be5invis](https://github.com/be5invis)) - Arc of the Stem (developer of [Iosevka font](https://github.com/be5invis/Iosevka))
 * Marc Kastner ([@mkasu](https://github.com/mkasu)) - Curvacious Bezier
@@ -36,7 +37,7 @@
 * Devon Parsons ([@devonparsons](https://github.com/devonparsons))
 * Kiran Rao ([@curioustechizen](https://github.com/curioustechizen))
 * Scott Squires ([@squires](https://github.com/squires))
-* Kevin Suttle ([@kevinSuttle](https://github.com/kevinSuttle))
+* Marc Telesha ([@mtelesha](https://github.com/mtelesha))
 * Téo M ([@teogeos](https://github.com/teogeos))
 * Anon ([@dvvh](https://github.com/dvhh))
 * Anon ([@mbaz](https://github.com/mbaz))
