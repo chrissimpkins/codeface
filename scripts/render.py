@@ -38,7 +38,7 @@ import cairo
 import pango
 import pangocairo
 
-RESOLUTION = 216
+RESOLUTION = 144
 
 # Basic argument parsing
 

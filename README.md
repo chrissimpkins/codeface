@@ -52,10 +52,10 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 [ [License](fonts/agave/license.txt) ]
 
-<img src="images/gallery/agave-STP.png?raw=true" width="725">
-<img src="images/gallery/agave-STPC.png?raw=true" width="725">
-<img src="images/gallery/agave-dark.png?raw=true" width="725">
-<img src="images/gallery/agave-light.png?raw=true" width="725">
+<img src="images/gallery/agave-STP.png" width="725">
+<img src="images/gallery/agave-STPC.png" width="725">
+<img src="images/gallery/agave-dark.png" width="725">
+<img src="images/gallery/agave-light.png" width="725">
 
 
 
