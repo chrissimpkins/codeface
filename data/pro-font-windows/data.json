@@ -1,0 +1,16 @@
+{
+	"name": "Profont",
+	"author": "Andrew Welch",
+	"year": 1987,
+	"license": "MIT",
+	"websites": [
+		"http://tobiasjung.name/profont/",
+		"http://www.fontsquirrel.com/fonts/ProFontWindows"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"bitmap",
+		"retro"
+	]
+}

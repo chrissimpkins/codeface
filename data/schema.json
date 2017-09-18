@@ -1,0 +1,33 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"title": "Font Metadata Schema",
+	"type": "object",
+	"properties": {
+		"name":    { "type": "string" },
+		"author":  { "type": "string" },
+		"license": { "type": "string" },
+		"year":    { "type": "integer", "minimum": 0 },
+		"serif":   { "type": "boolean" },
+		"free":    { "enum": [ "open license", "commercial", "free for personal use" ] },
+		"websites": {
+			"type": "array",
+			"items": { "type": "string" },
+			"minItems": 1,
+			"uniqueItems": true
+		},
+		"tags": {
+			"type": "array",
+			"items": { "type": "string" },
+			"minItems": 1,
+			"uniqueItems": true
+		}
+	},
+	"required": [
+		"name",
+		"author",
+		"license",
+		"free",
+		"serif"
+	],
+	"additionalProperties" : false
+}

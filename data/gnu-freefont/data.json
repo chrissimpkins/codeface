@@ -1,0 +1,15 @@
+{
+	"name": "GNU Freefont",
+	"author": "Primož Peterlin, Steve White",
+	"year": 2002,
+	"license": "GNU GPL",
+	"websites": [
+		"https://www.gnu.org/software/freefont/"
+	],
+	"free": "open license",
+	"serif": true,
+	"tags": [
+		"open source",
+		"latex"
+	]
+}

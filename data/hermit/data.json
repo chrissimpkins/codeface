@@ -1,0 +1,11 @@
+{
+	"name": "Hermit",
+	"author": "Pablo Caro",
+	"year": 2013,
+	"license": "SIL OFL",
+	"websites": [
+		"https://pcaro.es/p/hermit/"
+	],
+	"free": "open license",
+	"serif": false
+}

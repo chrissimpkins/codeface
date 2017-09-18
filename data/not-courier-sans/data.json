@@ -1,0 +1,15 @@
+{
+	"name": "NotCourierSans",
+	"author": "Open Source Publishing",
+	"year": 2008,
+	"license": "SIL OFL",
+	"websites": [
+		"http://www.fontsquirrel.com/fonts/NotCourierSans",
+		"http://openfontlibrary.org/en/font/notcouriersans"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"nimbus"
+	]
+}

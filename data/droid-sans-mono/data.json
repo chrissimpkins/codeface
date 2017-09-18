@@ -1,0 +1,16 @@
+{
+	"name": "Droid Sans Mono",
+	"author": "Steve Matteson",
+	"year": 2006,
+	"license": "Apache",
+	"websites": [
+		"http://www.google.com/fonts/specimen/Droid+Sans+Mono",
+		"http://www.droidfonts.com"
+	],
+	"serif": false,
+	"free": "open license",
+	"tags": [
+		"humanist",
+		"professional"
+	]
+}

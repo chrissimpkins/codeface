@@ -1,0 +1,16 @@
+{
+	"name": "Fira Mono",
+	"author": "Erik Spiekerman, Carois Type Design",
+	"year": 2013,
+	"license": "SIL OFL",
+	"websites": [
+		"https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/",
+		"http://www.fontsquirrel.com/fonts/fira-mono",
+		"http://www.google.com/fonts/specimen/Fira+Mono"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"professional"
+	]
+}

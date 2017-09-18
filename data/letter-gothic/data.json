@@ -1,0 +1,15 @@
+{
+	"name": "Letter Gothic",
+	"author": "Roger Roberson",
+	"year": 1956,
+	"websites": [
+		"https://en.wikipedia.org/wiki/Letter_Gothic",
+		"http://www.fonts.com/font/monotype/letter-gothic"
+	],
+	"license": "fonts.com",
+	"free": "commercial",
+	"serif": false,
+	"tags": [
+		"professional"
+	]
+}

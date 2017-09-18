@@ -1,0 +1,13 @@
+{
+	"name": "Gohu",
+	"author": "Hugo Chargois",
+	"license": "WTFPL",
+	"websites": [
+		"http://font.gohu.org"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"bitmap"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Andale Mono",
+	"author": "Steve Matteson",
+	"websites": [
+		"https://en.wikipedia.org/wiki/Andale_Mono"
+	],
+	"license": "all rights reserved",
+	"free": "commercial",
+	"serif": false,
+	"tags": [
+		"professional"
+	]
+}

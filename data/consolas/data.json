@@ -1,0 +1,13 @@
+{
+	"name": "Consolas",
+	"author": "Lucas de Groot",
+	"websites": [
+		"https://en.wikipedia.org/wiki/Consolas"
+	],
+	"license": "all rights reserved",
+	"serif": false,
+	"free": "commercial",
+	"tags": [
+		"professional"
+	]
+}

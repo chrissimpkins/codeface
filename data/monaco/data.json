@@ -1,0 +1,13 @@
+{
+	"name": "Monaco",
+	"author": "Susan Kare and Kris Holmes",
+	"websites": [
+		"https://en.wikipedia.org/wiki/Monaco_(typeface)"
+	],
+	"license": "all rights reserved",
+	"serif": false,
+	"free": "commercial",
+	"tags": [
+		"professional"
+	]
+}

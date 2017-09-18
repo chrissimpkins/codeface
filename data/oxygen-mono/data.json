@@ -1,0 +1,16 @@
+{
+	"name": "Oxygen Mono",
+	"author": "Vernon Adams",
+	"year": 2012,
+	"license": "SIL OFL",
+	"websites": [
+		"http://www.fontsquirrel.com/fonts/oxygen-mono",
+		"http://www.google.com/fonts/specimen/Oxygen+Mono"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"professional",
+		"free"
+	]
+}

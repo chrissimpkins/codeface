@@ -1,0 +1,14 @@
+{
+	"name": "Sudo",
+	"author": "Jens Kutilek",
+	"year": 2009,
+	"license": "SIL OFL",
+	"websites": [
+		"http://www.netzallee.de/extra/sudo"
+	],
+	"free": "open license",
+	"serif": false,
+	"tags": [
+		"github"
+	]
+}

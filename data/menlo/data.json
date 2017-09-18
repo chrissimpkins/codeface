@@ -1,0 +1,14 @@
+{
+	"name": "Menlo",
+	"author": "Jim Lyles",
+	"websites": [
+		"https://en.wikipedia.org/wiki/Menlo_(typeface)"
+	],
+	"license": "all rights reserved",
+	"free": "commercial",
+	"serif": false,
+	"tags": [
+		"bitstream vera",
+		"professional"
+	]
+}
