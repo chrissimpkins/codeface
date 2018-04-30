@@ -1,3 +1,1 @@
-Public Domain Font 
-
-This work (Aurulent Sans Mono font, by Stephen G. Hartke) is free of known copyright restrictions. 
+Licensed under OFL 1.1 with Reserved Font Name Aurulent.
