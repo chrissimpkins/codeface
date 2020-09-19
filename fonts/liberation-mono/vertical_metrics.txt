@@ -1,34 +1,52 @@
- 
 === LiberationMono-Regular.ttf ===
-Version 1.04
-SHA1: 8035bb16cf5abc0ee1b2efca9b9eda405a4bf5ac
+Version 2.1.1
+SHA1: ed212462cb49295f00ead34c7ad7fd9acb74f54c
 
---- Metrics ---
-[head] Units per Em: 	2048
-[head] yMax: 		1705
-[head] yMin: 		-615
-[OS/2] TypoAscender: 	1255
-[OS/2] TypoDescender: 	-386
-[OS/2] WinAscent: 	1705
-[OS/2] WinDescent: 	615
-[hhea] Ascent: 		1705
-[hhea] Descent: 	-615
+::::::::::::::::::::::::::::::::::::::::::::::::::
+  Metrics
+::::::::::::::::::::::::::::::::::::::::::::::::::
+[head] Units per Em:   2048
+[head] yMax:           2009
+[head] yMin:          -615
+[OS/2] CapHeight:      1349
+[OS/2] xHeight:        1082
+[OS/2] TypoAscender:   1255
+[OS/2] TypoDescender: -386
+[OS/2] WinAscent:      1705
+[OS/2] WinDescent:     615
+[hhea] Ascent:         1705
+[hhea] Descent:       -615
 
-[hhea] LineGap: 	0
-[OS/2] TypoLineGap: 	550
+[hhea] LineGap:        0
+[OS/2] TypoLineGap:    0
 
---- Height Calculations by Table Values ---
-[OS/2] TypoAscender to TypoDescender: 	1641
-[OS/2] WinAscent to WinDescent: 	2320
-[hhea] Ascent to Descent: 		2320
+::::::::::::::::::::::::::::::::::::::::::::::::::
+  Ascent to Descent Calculations
+::::::::::::::::::::::::::::::::::::::::::::::::::
+[hhea] Ascent to Descent:              2320
+[OS/2] TypoAscender to TypoDescender:  1641
+[OS/2] WinAscent to WinDescent:        2320
 
---- Delta Values ---
-WinAscent to TypoAscender: 	450
-Ascent to TypoAscender: 	450
-WinDescent to TypoDescender: 	229
-Descent to TypoDescender: 	229
+::::::::::::::::::::::::::::::::::::::::::::::::::
+  Delta Values
+::::::::::::::::::::::::::::::::::::::::::::::::::
+[hhea] Ascent to [OS/2] TypoAscender:       450
+[hhea] Descent to [OS/2] TypoDescender:     229
+[OS/2] WinAscent to [OS/2] TypoAscender:    450
+[OS/2] WinDescent to [OS/2] TypoDescender:  229
 
---- Ratios ---
-(Typo Asc + Desc + Linegap) / UPM: 	1.07
-(winAsc + winDesc) / UPM: 		1.13
-(hhea Asc + Desc) / UPM: 		1.13
+::::::::::::::::::::::::::::::::::::::::::::::::::
+  Baseline to Baseline Distances
+::::::::::::::::::::::::::::::::::::::::::::::::::
+hhea metrics: 2320
+typo metrics: 1641
+win metrics:  2320
+
+[OS/2] fsSelection USE_TYPO_METRICS bit set: False
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+  Ratios
+::::::::::::::::::::::::::::::::::::::::::::::::::
+hhea metrics / UPM:  1.13
+typo metrics / UPM:  0.801
+win metrics  / UPM:  1.13
